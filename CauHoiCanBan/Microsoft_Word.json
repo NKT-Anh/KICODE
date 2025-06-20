@@ -1,0 +1,1535 @@
+{
+  "topic": "Microsoft Word",
+  "questions": [
+    {
+      "question": "MS Winword: Tố hợp phím Ctrl + O dùng để",
+      "options": [
+        "Mở một Document mới",
+        "Mở một Document đã có",
+        "Đóng Document đang mở",
+        "Đóng và lưu Document đang mở"
+      ],
+      "answer": "Mở một Document đã có"
+    },
+    {
+      "question": "MS Winword: Tố hợp phím nào cho phép chọn tất cả văn bản đang soạn thảo",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + End",
+        "Alt + A",
+        "Alt + End"
+      ],
+      "answer": "Ctrl + A"
+    },
+    {
+      "question": "MS Winword: Trong Bảng (Table), để tách một ô thành nhiều ô, ta thực hiện:",
+      "options": [
+        "LayOut - Cells",
+        "Design - Cells",
+        "LayOut - Split Cells",
+        "Design - Split Cells"
+      ],
+      "answer": "Design - Split Cells"
+    },
+    {
+      "question": "MS Winword: Muốn định dạng các đoạn văn bản theo kiểu danh sách, ta thực hiện:",
+      "options": [
+        "Home - Bullets and Numbering",
+        "View - Bullets and Numbering",
+        "Insert - Bullets and Numbering",
+        "Review - Bullets and Numbering"
+      ],
+      "answer": "Home - Bullets and Numbering"
+    },
+    {
+      "question": "MS Winword: Để chèn tiêu đề trang (đầu trang và chân trang), ta thực hiện",
+      "options": [
+        "Insert - Header and Footer",
+        "View - Header and Footer",
+        "Home - Header and Footer",
+        "Review - Header and Footer"
+      ],
+      "answer": "Insert - Header and Footer"
+    },
+    {
+      "question": "MS Winword: Để soạn thảo một công thức toán học, ta thường dùng",
+      "options": [
+        "Insert - Word Art",
+        "Insert - Equation",
+        "Insert - Chart",
+        "Insert - Shapes"
+      ],
+      "answer": "Insert - Equation"
+    },
+    {
+      "question": "MS Winword: Một đối tượng sử dụng tùy chọn Wrap text nào để văn bản lấp đầy các khoảng trống xung quanh nó.",
+      "options": [
+        "Square",
+        "Tight",
+        "Through",
+        "Top and Bottom"
+      ],
+      "answer": "Through"
+    },
+    {
+      "question": "MS Winword: Để định dạng lại trang giấy in, ta thực hiện",
+      "options": [
+        "File - Print",
+        "Page Layout - Page Setup",
+        "File - Page Setup",
+        "Page Layout - Print"
+      ],
+      "answer": "Page Layout - Page Setup"
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to inserting content in a table]",
+      "options": [
+        "Tab",
+        "Shift + Del",
+        "Insert",
+        "Shift + Insert"
+      ],
+      "answer": "Insert"
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to formatting superscript]",
+      "options": [
+        "Ctrl + Shift + =",
+        "Ctrl + =",
+        "Shift + =",
+        "Ctrl + Shift"
+      ],
+      "answer": "Ctrl + Shift + ="
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to formatting subscript]",
+      "options": [
+        "Ctrl + Shift + =",
+        "Ctrl + =",
+        "Shift + =",
+        "Ctrl + Shift"
+      ],
+      "answer": "Ctrl + ="
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to bold formatting]",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + X",
+        "Ctrl + C",
+        "Ctrl + B"
+      ],
+      "answer": "Ctrl + B"
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to inserting rows in a table]",
+      "options": [
+        "Tab",
+        "Kích chuột phải -> Insert -> Insert Rows Below",
+        "Kích chuột phải -> Insert -> Insert Cells",
+        "Cả 2 phương án 1, 2, đều đúng"
+      ],
+      "answer": "Cả 2 phương án 1, 2, đều đúng"
+    },
+    {
+      "question": "MS Winword: Trong Word để dãn khoảng cách giữa các dòng là 1,5 line, sau khi bôi đen các dòng văn bản ta thực hiện cách nào sau đây?",
+      "options": [
+        "Ctrl + 5",
+        "Paragraph/Line Spacing -> chọn 1,5 lines",
+        "Cả 2 phương án 1, 2, đều đúng",
+        "Cả 2 phương án 1, 2, đều sai"
+      ],
+      "answer": "Cả 2 phương án 1, 2, đều đúng"
+    },
+    {
+      "question": "MS Winword: Trong Word để ngắt trang trong Word ta dùng tổ hợp phím nào sau đây?",
+      "options": [
+        "Alt + Enter",
+        "Alt + Shift",
+        "Shift + Enter",
+        "Ctrl + Enter"
+      ],
+      "answer": "Ctrl + Enter"
+    },
+    {
+      "question": "MS Winword: Trong Word, để chọn toàn bộ một ô bất kỳ trong bảng, ta thực hiện theo cách nào sau đây?",
+      "options": [
+        "Bôi đen phần văn bản trong ô đó",
+        "Nhấn đúp chuột vào ô đó",
+        "Nhấn chuột vào phía trên ô đó",
+        "Nhấn chuột vào góc đúní bên trái ô đó"
+      ],
+      "answer": "Nhấn chuột vào góc đúní bên trái ô đó"
+    },
+    {
+      "question": "MS Winword: Trong Word, ta có thể tạo chữ in hoa bằng công cụ Drop Cap cho trường hợp nào sau đây?",
+      "options": [
+        "Chữ cái đầu của mỗi đoạn trong văn bản",
+        "Một số chữ cái đầu của đơn từ trong văn bản",
+        "Chữ cái đầu dòng trên Table",
+        "Chữ cái đầu đoạn văn bản trong Text box"
+      ],
+      "answer": "Chữ cái đầu của mỗi đoạn trong văn bản"
+    },
+    {
+      "question": "MS Winword: Trong Word, File BangdiemSV dùng làm dữ liệu để trộn thư in bảng điểm cá nhân cho sinh viên, File BangdiemSV không thể dùng để định dạng nào sau đây?",
+      "options": [
+        "BangdiemSV.xls",
+        "BangdiemSV.txt",
+        "BangdiemSV.doc",
+        "BangdiemSV.pdf"
+      ],
+      "answer": "BangdiemSV.pdf"
+    },
+    {
+      "question": "MS Winword: Trong Word, khi đã bôi đen một đoạn văn bản, muốn tăng kích cỡ của chữ bạn dùng tổ hợp phím nào sau đây?",
+      "options": [
+        "Ctrl + ]",
+        "Ctrl + ]",
+        "Ctrl + ]",
+        "Ctrl + ["
+      ],
+      "answer": "Ctrl + ]"
+    },
+    {
+      "question": "MS Winword: Trong Word, khi đã bôi đen một đoạn văn bản, muốn giảm kích cỡ của chữ bạn dùng tổ hợp phím nào sau đây?",
+      "options": [
+        "Ctrl + ]",
+        "Ctrl + ]",
+        "Ctrl + ]",
+        "Ctrl + ["
+      ],
+      "answer": "Ctrl + ["
+    },
+    {
+      "question": "MS Winword: Trong Word, một đoạn văn bản có chỉ mục nếu bạn muốn xuống dòng mà không muốn dòng đó có chỉ mục thì bạn dùng tổ hợp phím nào sau đây?",
+      "options": [
+        "Alt + Enter",
+        "Shift + Enter",
+        "Ctrl + Enter",
+        "Cả 3 phương án 1, 2 và 3 đều sai"
+      ],
+      "answer": "Shift + Enter"
+    },
+    {
+      "question": "MS Winword: Trong Word, khi đã bôi đen một đoạn văn bản gõ chữ thường, muốn định dạng thành chữ IN HOA bạn dùng tổ hợp phím nào sau đây?",
+      "options": [
+        "Shift + F1",
+        "Shift + F2",
+        "Shift + F3",
+        "Shift + F4"
+      ],
+      "answer": "Shift + F3"
+    },
+    {
+      "question": "MS Winword: Trong Word, khi đã bôi đen một đoạn văn bản gõ chữ IN HOA, muốn định dạng thành chữ thường bạn dùng tổ hợp phím nào sau đây?",
+      "options": [
+        "Shift + F1",
+        "Shift + F2",
+        "Shift + F3",
+        "Shift + F4"
+      ],
+      "answer": "Shift + F3"
+    },
+    {
+      "question": "MS Winword: Trong Word, bôi đen một đoạn văn bản rồi lần lượt thực hiện tổ hợp phím Ctrl + B tiếp đến là Ctrl + I, cụm từ được bôi đen sẽ:",
+      "options": [
+        "In nghiêng",
+        "In đậm",
+        "Có gạch chân",
+        "In đậm và nghiêng"
+      ],
+      "answer": "In đậm và nghiêng"
+    },
+    {
+      "question": "MS Winword: Trong Word, để định dạng chữ cái lớn đầu đoạn văn bản ta thực hiện:",
+      "options": [
+        "Home/Drop Cap",
+        "Insert/Drop Cap",
+        "View/Drop Cap",
+        "Tool/Drop Cap"
+      ],
+      "answer": "Insert/Drop Cap"
+    },
+    {
+      "question": "MS Winword: Trong Word, để định dạng căn biên trái, biên phải, định dạng trang in ngang, dọc... ta thực hiện theo cách nào sau đây?",
+      "options": [
+        "Page Layout/Page Setup",
+        "File/Print",
+        "View/Print Layout",
+        "Cả 3 phương án 1, 2 và 3 đều đúng"
+      ],
+      "answer": "Page Layout/Page Setup"
+    },
+    {
+      "question": "MS Winword: Trong Word, để sửa lại nội dung một văn bản đã có và lưu nó với tên mới đồng thời tệp tin cũ vẫn giữ nguyên, ta thực hiện cách nào sau đây?",
+      "options": [
+        "File/Save As",
+        "File/Save",
+        "File/Page Setup",
+        "File/Save & Send"
+      ],
+      "answer": "File/Save As"
+    },
+    {
+      "question": "MS Winword: Trong Word, để di chuyển đoạn văn bản đã được chọn, ta thực hiện cặp thao tác nào sau đây?",
+      "options": [
+        "Copy và Paste",
+        "Cut và Paste",
+        "Copy và Cut",
+        "Phương án 1 và 3 đúng"
+      ],
+      "answer": "Cut và Paste"
+    },
+    {
+      "question": "MS Winword: Trong Word, để sao chép đoạn văn bản đã được chọn, ta thực hiện cặp thao tác nào sau đây?",
+      "options": [
+        "Copy và Paste",
+        "Cut và Paste",
+        "Copy và Cut",
+        "Phương án 2 và 3 đúng"
+      ],
+      "answer": "Copy và Paste"
+    },
+    {
+      "question": "MS Winword: Trong Word, công cụ Format Painter có chức năng gì?",
+      "options": [
+        "Vẽ hình",
+        "Tô màu",
+        "Sao chép định dạng",
+        "Cả 3 phương án 1, 2 và 3 đều sai"
+      ],
+      "answer": "Sao chép định dạng"
+    },
+    {
+      "question": "MS Winword: Trong Word, thao tác Home \\Find dùng để:",
+      "options": [
+        "Tìm kiếm File văn bản",
+        "Sử dụng để gõ tất",
+        "Tìm kiếm một từ hoặc cụm từ trong văn bản",
+        "Thay thế một từ hoặc cụm từ trong văn bản"
+      ],
+      "answer": "Tìm kiếm một từ hoặc cụm từ trong văn bản"
+    },
+    {
+      "question": "MS Winword: Trong Word, để ngắt trang văn bản sang một trang mới ta thực hiện những thao tác nào sau đây?",
+      "options": [
+        "Page Layout/Breaks/Page",
+        "View/Breaks/Page",
+        "View/Page Break",
+        "Phương án 2 và 3 đúng"
+      ],
+      "answer": "Page Layout/Breaks/Page"
+    },
+    {
+      "question": "MS Winword: Trong Word, ngắt trang văn bản sang một trang mới ta thực hiện những thao tác nào sau đây?",
+      "options": [
+        "View/Breaks/Page",
+        "Insert/Page Break",
+        "View/Page Break",
+        "Phương án 1 và 3 đúng"
+      ],
+      "answer": "Insert/Page Break"
+    },
+    {
+      "question": "MS Winword: Trong Word, để chèn một ký hiệu cho văn bản, ta thực hiện:",
+      "options": [
+        "Insert/Picture",
+        "Insert/Shape",
+        "Insert/Symbol",
+        "Insert/Clip Art"
+      ],
+      "answer": "Insert/Symbol"
+    },
+    {
+      "question": "MS Winword: Trong Word, để sao chép một TextBox (hoặc một Picture), ta chọn TextBox (hoặc Picture), trỏ chuột vào đối tượng đó rồi thực hiện những thao tác nào sau đây?",
+      "options": [
+        "Textbox và Picture không cho phép thực hiện sao chép",
+        "Không cần giữ phím nào cả, chỉ kéo rê đối tượng đến vị trí muốn sao chép rồi thả chuột",
+        "Nhấn phím Shift, đồng thời kéo rê đối tượng đến vị trí muốn sao chép rồi thả chuột",
+        "[Missing option]"
+      ],
+      "answer": "[Missing option]"
+    },
+    {
+      "question": "MS Winword: Trong Word, để chèn ảnh từ một File ảnh đã lưu trên Ổ đĩa vào văn bản ta thực hiện:",
+      "options": [
+        "Insert \\Picture \\WordArt",
+        "Insert \\Picture \\Chart",
+        "Insert \\Symbol",
+        "Cả 3 phương án 1, 2 và 3 đều sai"
+      ],
+      "answer": "Cả 3 phương án 1, 2 và 3 đều sai"
+    },
+    {
+      "question": "MS Winword: Trong Word, để xóa 1 cột và đồn cột trong bảng ta chọn khối cột cần xóa rồi dùng lệnh hay tổ hợp phím nào sau đây?",
+      "options": [
+        "Ctrl + X",
+        "Nhấn phím Delete",
+        "Nhấp chuột phải/chọn Merge Cells",
+        "Phương án 2 và 3 đều đúng"
+      ],
+      "answer": "Ctrl + X"
+    },
+    {
+      "question": "MS Winword: Trong Word, để xóa 1 dòng và đồn hàng trong bảng ta chọn hàng cần xóa rồi dùng lệnh hay tổ hợp phím nào sau đây?",
+      "options": [
+        "Ctrl + X",
+        "Nhấn phím Delete",
+        "Nhấp chuột phải/chọn Merge Cells",
+        "Phương án 2 và 3 đều đúng"
+      ],
+      "answer": "Ctrl + X"
+    },
+    {
+      "question": "MS Winword: Trong Word, sau khi quét khối, đưa chuột vào trong khối và kéo đi. Kết quả là:",
+      "options": [
+        "Khối đó sẽ bị xóa đi",
+        "Khối đó sẽ chuyển đến vị trí khác",
+        "Khối đó không bị tác động gì cả",
+        "Khối đó sẽ được Copy đến chỗ khác"
+      ],
+      "answer": "Khối đó sẽ chuyển đến vị trí khác"
+    },
+    {
+      "question": "MS Winword: Trong Word muốn trộn các ô của 1 bảng, sau khi quét khối ô trong bảng, ta dùng lệnh nào sau đây?",
+      "options": [
+        "Layout/Merge Cells",
+        "Nhấn chuột phải/Delete Cells",
+        "Nhấn chuột phải/Split Cells",
+        "Nhấn chuột phải/Cell Alignment"
+      ],
+      "answer": "Layout/Merge Cells"
+    },
+    {
+      "question": "MS Winword: Trong Word muốn trộn các ô của 1 bảng, sau khi quét khối ô trong bảng, ta dùng lệnh nào sau đây?",
+      "options": [
+        "Nhấn chuột phải/Delete Cells",
+        "Nhấn chuột phải/Merge Cells",
+        "Nhấn chuột phải/Split Cells",
+        "Nhấn chuột phải/Cell Alignment"
+      ],
+      "answer": "Nhấn chuột phải/Merge Cells"
+    },
+    {
+      "question": "MS Winword: Trong Word, muốn chia 1 ô của bảng thành nhiều cột, sau khi quét ô đó, ta dùng lệnh gì?",
+      "options": [
+        "Nhấn chuột phải/Delete Cells",
+        "Nhấn chuột phải/Merge Cells",
+        "Nhấn chuột phải/Split Cells",
+        "Nhấn chuột phải/Cell Alignment"
+      ],
+      "answer": "Nhấn chuột phải/Split Cells"
+    },
+    {
+      "question": "MS Winword: Trong Word, muốn định dạng dòng chữ trong ô của bảng từ ngang thành dọc, tại ô cần định dạng ta thực hiện như thế nào?",
+      "options": [
+        "Nhấn chuột phải/Cell Alignment",
+        "Nhấn chuột phải/Merge Cells",
+        "Nhấn chuột phải/Font",
+        "Nhấn chuột phải/Text Direction"
+      ],
+      "answer": "Nhấn chuột phải/Text Direction"
+    },
+    {
+      "question": "MS Winword: Trong Word, để lặp lại dòng tiêu đề của Table trên những trang tiếp theo, ta chọn dòng tiêu đề rồi thực hiện thao tác nào sau đây?",
+      "options": [
+        "Insert/Table",
+        "Page layout/Page borders",
+        "View/Page Layout",
+        "Layout/Repeat Header rows"
+      ],
+      "answer": "Layout/Repeat Header rows"
+    },
+    {
+      "question": "MS Winword: Muốn bật/tắt thước đo ta thực hiện thao tác nào sau đây?",
+      "options": [
+        "Insert/Rulers",
+        "View/Gridlines",
+        "View/Rulers",
+        "View/Toolbars"
+      ],
+      "answer": "View/Rulers"
+    },
+    {
+      "question": "MS Winword: Muốn chèn công thức toán học vào văn bản Word, ta thực hiện thao tác nào sau đây?",
+      "options": [
+        "Insert/Object",
+        "Insert/Equation",
+        "Insert/Symbol",
+        "Insert/Bookmark"
+      ],
+      "answer": "Insert/Equation"
+    },
+    {
+      "question": "MS Winword: Trong Word, khi chọn Reference/Insert Footnotes nhằm mục đích gì?",
+      "options": [
+        "Tạo ghi chú cho văn bản",
+        "Tạo tiêu đề cho chân trang văn bản",
+        "Tạo tiêu đề cho đầu trang và chân trang",
+        "Tạo tiêu đề cho đầu trang văn bản"
+      ],
+      "answer": "Tạo ghi chú cho văn bản"
+    },
+    {
+      "question": "MS Winword: Trong Word, muốn tạo ghi chú cho tài liệu ta thực hiện thao tác nào sau đây?",
+      "options": [
+        "Format/Footnote",
+        "Reference/Insert Footnotes",
+        "Insert/Footnotes",
+        "View/Footnotes"
+      ],
+      "answer": "Reference/Insert Footnotes"
+    },
+    {
+      "question": "MS Winword: Trong Word, để chèn một đánh giá vào một nơi bất kỳ trong tài liệu ta thực hiện thao tác nào sau đây?",
+      "options": [
+        "Review/New comment",
+        "View/New comment",
+        "Insert/New comment",
+        "References/New comment"
+      ],
+      "answer": "Review/New comment"
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to Vietnamese typing settings]",
+      "options": [
+        "Bảng mã + Kiểu gõ",
+        "Bảng mã + Font chữ",
+        "Font chữ + Kiểu gõ",
+        "Bảng mã + Kiểu gõ + Font chữ"
+      ],
+      "answer": "Bảng mã + Kiểu gõ + Font chữ"
+    },
+    {
+      "question": "MS Winword: Bộ gõ Tiếng Việt Unikey cho phép chúng ta chọn tổ hợp phím nào sau đây để chuyển chế độ gõ Tiếng Việt sang Tiếng Anh và ngược lại?",
+      "options": [
+        "Alt + Shift",
+        "Ctrl + Shift",
+        "Alt + Ctrl",
+        "Cả 3 phương án 1, 2 và 3 đều sai"
+      ],
+      "answer": "Ctrl + Shift"
+    },
+    {
+      "question": "MS Winword: Bộ gõ Tiếng Việt Unikey cho phép chúng ta chọn tổ hợp phím nào sau đây để chuyển chế độ gõ Tiếng Việt sang Tiếng Anh và ngược lại?",
+      "options": [
+        "Alt + Shift",
+        "Alt + Ctrl",
+        "Alt + Z",
+        "Cả 3 phương án 1, 2 và 3 đều sai"
+      ],
+      "answer": "Alt + Z"
+    },
+    {
+      "question": "MS Winword: Sử dụng bộ gõ Tiếng Việt Unikey và chọn bảng mã Unicode, để soạn thảo được Tiếng Việt ta chọn Font chữ nào sau đây?",
+      "options": [
+        "Times New Roman",
+        "VNTimes New Roman",
+        "VnTime",
+        "VnArial"
+      ],
+      "answer": "Times New Roman"
+    },
+    {
+      "question": "MS Winword: Sử dụng bộ gõ Tiếng Việt Unikey và chọn bảng mã Vietware X, để soạn thảo được Tiếng Việt ta chọn Font chữ nào sau đây?",
+      "options": [
+        "Times New Roman",
+        "VNTimes New Roman",
+        "VnTime",
+        "VnArial"
+      ],
+      "answer": "VNTimes New Roman"
+    },
+    {
+      "question": "MS Winword: Thao tác Shift + Enter có chức năng gì?",
+      "options": [
+        "Xuống hàng chưa kết thúc paragraph",
+        "Nhập dữ liệu theo hàng dọc",
+        "Xuống một trang màn hình",
+        "Tất cả đều sai"
+      ],
+      "answer": "Xuống hàng chưa kết thúc paragraph"
+    },
+    {
+      "question": "MS Winword: Muốn xác định khoảng cách và vị trí ký tự, ta vào:",
+      "options": [
+        "Format/Paragraph",
+        "Format/Font",
+        "Format/Style",
+        "Format/Object"
+      ],
+      "answer": "Format/Paragraph"
+    },
+    {
+      "question": "MS Winword: Phím nóng Ctrl + Shift +=, có chức năng gì?",
+      "options": [
+        "Bật hoặc tắt gạch dưới nét đôi",
+        "Bật hoặc tắt chỉ số dưới",
+        "Bật hoặc tắt chỉ số trên",
+        "Trả về dạng mặc định"
+      ],
+      "answer": "Bật hoặc tắt chỉ số dưới"
+    },
+    {
+      "question": "MS Winword: Trong hộp thoại Format/Paragraph ngoài việc có thể hiệu chỉnh lề cho đoạn, khoảng cách các đoạn, các dòng, còn dùng làm chức năng nào sau đây?",
+      "options": [
+        "Định dạng cột",
+        "Canh chỉnh Tab",
+        "Thay đổi font chữ",
+        "Tất cả đều sai"
+      ],
+      "answer": "Tất cả đều sai"
+    },
+    {
+      "question": "MS Winword: Để di chuyển con trỏ trong bảng Table, ta dùng phím nóng. Vậy phím nóng Shift + Tab dùng để:",
+      "options": [
+        "Di chuyển con trỏ đến ô liền trước",
+        "Di chuyển con trỏ đến hàng trên",
+        "Thêm một tab vào ô",
+        "Phím nóng trên không có chức năng gì"
+      ],
+      "answer": "Phím nóng trên không có chức năng gì"
+    },
+    {
+      "question": "MS Winword: Chọn cả bảng Table ta nhấn tổ hợp phím",
+      "options": [
+        "Alt-Shift-5 (5 trên bàn phím số)",
+        "Alt-5 (5 trên phím số và tắt numlock)",
+        "a và b đều đúng",
+        "a và b đều sai"
+      ],
+      "answer": "Alt-5 (5 trên phím số và tắt numlock)"
+    },
+    {
+      "question": "MS Winword: Để xem tài liệu trước khi in, ta chọn File/Print Preview hoặc nhấn tổ hợp phím nóng:",
+      "options": [
+        "Ctrl-P",
+        "Ctrl-Alt-B",
+        "Ctrl-Alt-F1",
+        "Ctrl-Alt-F5"
+      ],
+      "answer": "Ctrl-P"
+    },
+    {
+      "question": "MS Winword: Muốn lưu một văn bản, ta sử dụng tổ hợp phím nào?",
+      "options": [
+        "Ctrl-O",
+        "Ctrl-P",
+        "Ctrl-N",
+        "Ctrl-S"
+      ],
+      "answer": "Ctrl-S"
+    },
+    {
+      "question": "MS Winword: Trong Word, muốn định dạng trang ta dùng lệnh:",
+      "options": [
+        "File/ Page Setup",
+        "Edit/ Page Setup",
+        "Tool/ Page Setup",
+        "View/ Page Setup"
+      ],
+      "answer": "File/ Page Setup"
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to merging cells in a table]",
+      "options": [
+        "Nhấn chuột phải, rồi chọn Merge Cells",
+        "Nhấn chọn Windows, rồi chọn Merge Cells",
+        "Chọn Table/ Merge Cells",
+        "Chọn trên thanh công cụ"
+      ],
+      "answer": "Nhấn chọn Windows, rồi chọn Merge Cells"
+    },
+    {
+      "question": "MS Winword: Để lưu văn bản sau khi đã soạn thảo trong Microsoft Word ta:",
+      "options": [
+        "Vào bảng chọn File và Save",
+        "Nhấn tổ hợp phím Ctrl + S",
+        "Nháy vào nút lệnh Save trên thanh công cụ chuẩn",
+        "Các ý trên đều đúng"
+      ],
+      "answer": "Các ý trên đều đúng"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để mở 1 tệp văn bản đang tồn tại trên đĩa ta dùng tổ hợp phím:",
+      "options": [
+        "Ctrl + O",
+        "Ctrl + S",
+        "Ctrl + N",
+        "Ctrl + P"
+      ],
+      "answer": "Ctrl + O"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, muốn di chuyển con trỏ soạn thảo về đầu dòng hiện hành ta dùng phím:",
+      "options": [
+        "Home",
+        "End",
+        "Page Up",
+        "Page Down"
+      ],
+      "answer": "Home"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để thay đổi phông chữ, màu chữ và kích thước của một cụm từ nào đó trong văn bản, trước tiên ta phải thực hiện thao tác nào dưới đây?",
+      "options": [
+        "Nhấn tổ hợp phím Ctrl + Z",
+        "Chọn toàn bộ cụm từ đó",
+        "Di chuyển con trỏ soạn thảo vào bên trong cụm từ đó",
+        "Quét chọn ký tự cuối cùng của cụm từ đó"
+      ],
+      "answer": "Chọn toàn bộ cụm từ đó"
+    },
+    {
+      "question": "MS Winword: Để căn đều hai bên (bên trái và bên phải) cho đoạn văn bản, ta dùng tổ hợp phím:",
+      "options": [
+        "Ctrl + E",
+        "Ctrl + J",
+        "Ctrl + L",
+        "Ctrl + R"
+      ],
+      "answer": "Ctrl + J"
+    },
+    {
+      "question": "MS Winword: Nhấn tổ hợp phím nào sau đây để định dạng cụm từ đang chọn sang kiểu chữ in đậm?",
+      "options": [
+        "Ctrl + I",
+        "Ctrl + U",
+        "Ctrl + B",
+        "Ctrl + R"
+      ],
+      "answer": "Ctrl + B"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, muốn xuống dòng nhưng chưa kết thúc đoạn văn bản ta dùng phím (tổ hợp phím) nào sau đây?",
+      "options": [
+        "Enter",
+        "Shift + Enter",
+        "Alt + Enter",
+        "Ctrl + Shift + ="
+      ],
+      "answer": "Shift + Enter"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để chia 1 ô trên Table thành nhiều ô ta di chuyển con trỏ chuột đến ô cần chia, vào bảng chọn Table và chọn lệnh:",
+      "options": [
+        "Split Cells...",
+        "Merge Cells",
+        "Insert và chọn Rows Above",
+        "Insert và chọn Columns to the left"
+      ],
+      "answer": "Split Cells..."
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để tệp đồ họa vào văn bản ta:",
+      "options": [
+        "Vào bảng chọn Insert và Symbol...",
+        "Vào bảng chọn Insert và Page Numbers...",
+        "Vào bảng chọn Insert và Picture và From File...",
+        "Vào bảng chọn Insert và Date and Time..."
+      ],
+      "answer": "Vào bảng chọn Insert và Picture và From File..."
+    },
+    {
+      "question": "MS Winword: Để chèn ngắt trang trong Microsoft Word, ta vào bảng chọn Insert, chọn lệnh Break, sau đó chọn mục",
+      "options": [
+        "Page break và Ok",
+        "Column break và Ok",
+        "Text wrapping break và Ok",
+        "Next page và Ok"
+      ],
+      "answer": "Page break và Ok"
+    },
+    {
+      "question": "MS Winword: Trong Word, ta chỉ có thể đọc được một tệp từ đĩa khi tên của nó có phần mở rộng là",
+      "options": [
+        "DOT",
+        "DOC",
+        "TXT",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "Cả 3 câu trên đều sai"
+    },
+    {
+      "question": "MS Winword: Trong Word, biểu tượng hình đĩa từ trên thanh công cụ (toolbar) dùng để",
+      "options": [
+        "Lưu (save) tất cả các tài liệu đang mở",
+        "Chỉ lưu tài liệu hiện hành",
+        "Lưu tài liệu vào một nơi khác an toàn hơn hiện hành",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "Chỉ lưu tài liệu hiện hành"
+    },
+    {
+      "question": "MS Winword: Khi cần xem lại một tệp đã soạn thảo ngày hôm qua, trong Microsoft Word ta dùng lệnh",
+      "options": [
+        "File, Open",
+        "File, New",
+        "Cả 2 câu (a), (b) đều đúng",
+        "Cả 2 câu (a), (b) đều sai"
+      ],
+      "answer": "File, Open"
+    },
+    {
+      "question": "MS Winword: Trong Word, biểu tượng máy in trên thanh công cụ dùng để",
+      "options": [
+        "In tất cả các trang của tài liệu hiện hành",
+        "Chỉ in trang hiện hành ra máy in",
+        "Xem trên màn hình trước khi in (Print preview)",
+        "Cả 3 câu a), b), c) đều sai"
+      ],
+      "answer": "In tất cả các trang của tài liệu hiện hành"
+    },
+    {
+      "question": "MS Winword: Trong Word, muốn căn giữa một chuỗi ký tự nằm trong một ô trong bảng (table), ta phải",
+      "options": [
+        "Chọn ô, nhấn Ctrl + E",
+        "Chọn ô đó, click vào biểu tượng căn giữa trên thanh công cụ",
+        "Cả 2 câu a), b) đều đúng",
+        "Cả 2 câu a), b) đều sai"
+      ],
+      "answer": "Cả 2 câu a), b) đều đúng"
+    },
+    {
+      "question": "MS Winword: Trong Word, để đổi font chữ mặc định, ta có thể",
+      "options": [
+        "Chọn toàn bộ văn bản và chọn font trên thanh công cụ",
+        "Chọn Tools/Options/General/Standard font",
+        "Chọn Format/Font, chọn tên font, chọn OK",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "Cả 3 câu trên đều sai"
+    },
+    {
+      "question": "MS Winword: Trong Word, mỗi 1 đoạn chấm dứt khi ta nhấn:",
+      "options": [
+        "Dấu chấm (.)",
+        "Phím Enter",
+        "Ctrl + Enter",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "Phím Enter"
+    },
+    {
+      "question": "MS Winword: Để lưu văn bản sau khi đã soạn thảo trong Microsoft Word bạn:",
+      "options": [
+        "Vào bảng chọn File và Save",
+        "Nhấn tổ hợp phím Ctrl + S",
+        "Nháy vào nút lệnh Save trên thanh công cụ chuẩn",
+        "Các ý trên đều đúng"
+      ],
+      "answer": "Các ý trên đều đúng"
+    },
+    {
+      "question": "MS Winword: Để tạo tập tin văn bản mới trong Microsoft Word bạn chọn menu File và chọn mục:",
+      "options": [
+        "New",
+        "Open",
+        "Save",
+        "Exit"
+      ],
+      "answer": "New"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, thì mục nào không nằm trong chủ đề Thụt đoạn văn (Indent)?",
+      "options": [
+        "First Line Indent",
+        "Hanging Indent",
+        "Right Indent",
+        "Left Indent"
+      ],
+      "answer": "Right Indent"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để tạo Tables thì bạn vào menu nào?",
+      "options": [
+        "Home",
+        "Insert",
+        "Design",
+        "Page Layout"
+      ],
+      "answer": "Insert"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để tạo Table of Contents thì bạn vào menu nào?",
+      "options": [
+        "Insert",
+        "Design",
+        "Page Layout",
+        "References"
+      ],
+      "answer": "References"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để định dạng Footnotes thì bạn vào menu nào?",
+      "options": [
+        "Design",
+        "Insert",
+        "Reference",
+        "Page Layout"
+      ],
+      "answer": "Reference"
+    },
+    {
+      "question": "MS Winword: Muốn định dạng đoạn văn bản trong Microsoft Word, trước hết bạn phải:",
+      "options": [
+        "Di chuyển con trỏ vào vị trí bất kỳ trên đoạn văn bản muốn định dạng",
+        "Quét chọn đoạn văn bản",
+        "Nhấp chuột phải tại vị trí cuối cùng của đoạn văn bản",
+        "Quét chọn đoạn văn bản hoặc di chuyển con trỏ soạn thảo vào vị trí bất kỳ trên đoạn văn bản muốn định dạng"
+      ],
+      "answer": "Quét chọn đoạn văn bản hoặc di chuyển con trỏ soạn thảo vào vị trí bất kỳ trên đoạn văn bản muốn định dạng"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, với định dạng Column trong menu Page Setup thì bạn có thể chia đoạn văn bản thành:",
+      "options": [
+        "2 cột",
+        "3 cột",
+        "5 cột",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, khi đang soạn thảo văn bản mà bạn muốn ngắt trang thì dùng tổ hợp phím:",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + Z",
+        "Ctrl + Enter",
+        "Ctrl + F1"
+      ],
+      "answer": "Ctrl + Enter"
+    },
+    {
+      "question": "MS Winword: Trong Microsoft Word, để mở cửa sổ In văn bản thì dùng tổ hợp phím nào?",
+      "options": [
+        "Ctrl + O",
+        "Ctrl + P",
+        "Ctrl + M",
+        "Ctrl + N"
+      ],
+      "answer": "Ctrl + P"
+    },
+    {
+      "question": "MS Winword: [Missing question text, likely related to moving to the next cell in a table]",
+      "options": [
+        "ESC",
+        "Ctrl",
+        "CapsLock",
+        "Tab"
+      ],
+      "answer": "Tab"
+    },
+    {
+      "question": "MS Winword: Trong soạn thảo Winword, muốn đánh số trang cho văn bản, ta thực hiện:",
+      "options": [
+        "Insert - Page Numbers",
+        "View - Page Numbers",
+        "Tools - Page Numbers",
+        "Format - Page Numbers"
+      ],
+      "answer": "Insert - Page Numbers"
+    },
+    {
+      "question": "MS Winword: Trong soạn thảo văn bản Word, muốn tạo một file Word mới, ta thực hiện:",
+      "options": [
+        "Insert - New",
+        "View - New",
+        "File - New",
+        "Edit - New"
+      ],
+      "answer": "File - New"
+    },
+    {
+      "question": "MS Winword: Khi đang soạn thảo văn bản Word, muốn đánh dấu lưu chọn một từ, ta thực hiện:",
+      "options": [
+        "Nháy đúp chuột vào từ cần chọn",
+        "Bấm tổ hợp phím Ctrl - A",
+        "Nháy chuột vào từ cần chọn",
+        "Bấm phím Enter"
+      ],
+      "answer": "Nháy đúp chuột vào từ cần chọn"
+    },
+    {
+      "question": "MS Winword: Khi soạn thảo văn bản trong Winword, để hiển thị trang sẽ in lên màn hình, ta chọn:",
+      "options": [
+        "Edit - Print Preview",
+        "Format - Print Preview",
+        "View - Print Preview",
+        "File - Print Preview"
+      ],
+      "answer": "File - Print Preview"
+    },
+    {
+      "question": "MS Winword: Trong soạn thảo Winword, muốn định dạng ký tự, ta thực hiện:",
+      "options": [
+        "Format - Font",
+        "Format - Paragraph",
+        "Cả 2 câu đều đúng",
+        "Cả 2 câu đều sai"
+      ],
+      "answer": "Format - Font"
+    },
+    {
+      "question": "MS Winword: Khi soạn thảo văn bản xong, để in văn bản ra giấy:",
+      "options": [
+        "Chọn menu lệnh File - Print",
+        "Bấm tổ hợp phím Ctrl - P",
+        "Các câu a. và b. đều đúng",
+        "Các câu a. và b. đều sai"
+      ],
+      "answer": "Các câu a. và b. đều đúng"
+    },
+    {
+      "question": "MS Winword: Trong WinWord, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về cuối văn bản:",
+      "options": [
+        "Shift + End",
+        "Alt + End",
+        "Ctrl + End",
+        "Ctrl + Alt + End"
+      ],
+      "answer": "Ctrl + End"
+    },
+    {
+      "question": "MS Winword: Thao tác Shift + Enter có chức năng gì:",
+      "options": [
+        "Xuống hàng chưa kết thúc Paragraph",
+        "Xuống một trang màn hình",
+        "Nhập dữ liệu theo hàng dọc",
+        "Tất cả đều sai"
+      ],
+      "answer": "Xuống hàng chưa kết thúc Paragraph"
+    },
+    {
+      "question": "MS Winword: Để gạch dưới mỗi từ một nét đơn, ngoài việc vào Format/Font, ta có thể dùng tổ hợp phím nào:",
+      "options": [
+        "Ctrl + Shift + D",
+        "Ctrl + Shift + W",
+        "Ctrl + Shift + A",
+        "Ctrl + Shift + K"
+      ],
+      "answer": "Ctrl + Shift + W"
+    },
+    {
+      "question": "MS Winword: Trong chế độ tạo bảng (Table) của phần mềm soạn thảo văn bản Word, để gộp nhiều ô thành một ô, ta thực hiện: Chọn các ô cần gộp, rồi chọn menu lệnh",
+      "options": [
+        "Table - Merge Cells",
+        "Tools - Split Cells",
+        "Tools - Merge Cells",
+        "Table - Split Cells"
+      ],
+      "answer": "Table - Merge Cells"
+    },
+    {
+      "question": "MS Winword: Trong soạn thảo văn bản Word, muốn định dạng văn bản theo kiểu danh sách, ta thực hiện:",
+      "options": [
+        "File - Bullets and Numbering",
+        "Tools - Bullets and Numbering",
+        "Format - Bullets and Numbering",
+        "Edit - Bullets and Numbering"
+      ],
+      "answer": "Format - Bullets and Numbering"
+    },
+    {
+      "question": "MS Winword: Trong khi đang soạn thảo văn bản Word, tổ hợp phím Ctrl + V thường được sử dụng để:",
+      "options": [
+        "Cắt một đoạn văn bản",
+        "Dán một đoạn văn bản từ Clipboard",
+        "Sao chép một đoạn văn bản",
+        "Cắt và sao chép một đoạn văn bản"
+      ],
+      "answer": "Dán một đoạn văn bản từ Clipboard"
+    },
+    {
+      "question": "MS Winword: Trong soạn thảo văn bản Word, muốn tạo ký tự to đầu dòng của đoạn văn, ta thực hiện:",
+      "options": [
+        "Format - Drop Cap",
+        "Insert - Drop Cap",
+        "Edit - Drop Cap",
+        "View - Drop Cap"
+      ],
+      "answer": "Format - Drop Cap"
+    },
+    {
+      "question": "MS Winword: Trong soạn thảo văn bản Word, muốn sử dụng chức năng sửa lỗi và gõ tắt, ta chọn:",
+      "options": [
+        "Edit - AutoOptions...",
+        "Window - AutoOptions...",
+        "View - AutoOptions...",
+        "Tools - AutoOptions..."
+      ],
+      "answer": "Tools - AutoOptions..."
+    },
+    {
+      "question": "MS Winword: Trong Word, để biết đang sử dụng Word phiên bản nào:",
+      "options": [
+        "Nhấn Help, chọn About Microsoft Word",
+        "Nhấn Tools/ Options",
+        "Nhấn Windows/ Split",
+        "Nhấn File/ Properties"
+      ],
+      "answer": "Nhấn Help, chọn About Microsoft Word"
+    },
+    {
+      "question": "MS Winword: Trong Word, muốn tắt/mở thanh Standard ta sử dụng thao tác nào?",
+      "options": [
+        "Edit/Toolbars/Standard",
+        "View/Toolbars/Standard",
+        "Insert/Toolbars/Standard",
+        "Format/Toolbars/Standard"
+      ],
+      "answer": "View/Toolbars/Standard"
+    },
+    {
+      "question": "MS Winword: Muốn xác định khoảng cách và vị trí ký tự, ta vào:",
+      "options": [
+        "Format/Style",
+        "Format/Font",
+        "Format/Paragraph",
+        "Format/Object"
+      ],
+      "answer": "Format/Paragraph"
+    },
+    {
+      "question": "MS Winword: Tổ hợp phím Ctrl + Shift +=, có chức năng gì?",
+      "options": [
+        "Bật hoặc tắt gạch dưới nét đôi",
+        "Bật hoặc tắt chỉ số trên",
+        "Bật hoặc tắt chỉ số dưới",
+        "Trở về dạng mặc định"
+      ],
+      "answer": "Bật hoặc tắt chỉ số trên"
+    },
+    {
+      "question": "MS Winword: Trong Word, muốn kẻ đường thẳng cho thật thẳng, phải nhấn phím gì trước khi kéo chuột:",
+      "options": [
+        "Ctrl",
+        "Shift",
+        "Ctrl + Alt",
+        "Alt + Shift"
+      ],
+      "answer": "Shift"
+    },
+    {
+      "question": "MS Winword: Định dạng chữ nghiêng là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Font",
+        "Indent",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Font"
+    },
+    {
+      "question": "MS Winword: Định dạng chữ đậm là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Font",
+        "Indent",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Font"
+    },
+    {
+      "question": "MS Winword: Định dạng màu chữ là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Font",
+        "Indent",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Font"
+    },
+    {
+      "question": "MS Winword: Định dạng kiểu chữ là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Font",
+        "Indent",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Font"
+    },
+    {
+      "question": "MS Winword: Định dạng kích thước chữ là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Font",
+        "Indent",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Font"
+    },
+    {
+      "question": "MS Winword: Định dạng thụt đầu dòng là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Indent",
+        "Font",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Indent"
+    },
+    {
+      "question": "MS Winword: Định dạng thụt dòng con đoạn văn bản là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Indent",
+        "Font",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Indent"
+    },
+    {
+      "question": "MS Winword: Cho phép căn giữa chữ tại [incomplete text, likely related to text alignment in a table or document]",
+      "options": [
+        "Font",
+        "Indent",
+        "Tab",
+        "Bullet & Number"
+      ],
+      "answer": "Font"
+    },
+    {
+      "question": "MS Winword: Cho phép chia văn bản thành 4 cột là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Column",
+        "Font",
+        "Indent",
+        "Bullet & Number"
+      ],
+      "answer": "Column"
+    },
+    {
+      "question": "MS Winword: Khi chia cột văn bản, ta có tạo đường thẳng phân chia các cột hay không?",
+      "options": [
+        "Có",
+        "Không",
+        "Phải sử dụng chức năng Shapes",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "MS Winword: Cho phép tạo chỉ mục 3.1.1 là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Bullet & Number",
+        "Font",
+        "Indent",
+        "Paragraph Space"
+      ],
+      "answer": "Bullet & Number"
+    },
+    {
+      "question": "MS Winword: Cho phép đánh số đầu dòng tự động là thuộc mẫu định dạng nào sau đây?",
+      "options": [
+        "Bullet & Number",
+        "Font",
+        "Indent",
+        "Paragraph Space"
+      ],
+      "answer": "Bullet & Number"
+    },
+    {
+      "question": "MS Winword: Định dạng AutoFit cho Table dùng để làm gì?",
+      "options": [
+        "Thay đổi độ rộng",
+        "Thay đổi độ cao",
+        "Tự động đánh số thứ tự",
+        "Tự động căn chữ"
+      ],
+      "answer": "Thay đổi độ rộng"
+    },
+    {
+      "question": "MS Winword: Định dạng Cell Alignment cho Table dùng để làm gì?",
+      "options": [
+        "Căn chữ trong ô",
+        "Căn chữ trong dòng",
+        "Căn chữ trong cột",
+        "Căn chiều cao dòng"
+      ],
+      "answer": "Căn chữ trong ô"
+    },
+    {
+      "question": "MS Winword: Định dạng Text Direction cho Table dùng để làm gì?",
+      "options": [
+        "Đặt chữ dọc trong ô",
+        "Đặt chữ nghiêng trong ô",
+        "Đặt chữ dọc trong dòng",
+        "Đặt chữ dọc trong cột"
+      ],
+      "answer": "Đặt chữ dọc trong ô"
+    },
+    {
+      "question": "MS Winword: Định dạng Border & Shading cho Table dùng để làm gì?",
+      "options": [
+        "Kẻ khung",
+        "Viền khung trang",
+        "Kẻ phân cách trang",
+        "Viền khung chữ"
+      ],
+      "answer": "Kẻ khung"
+    },
+    {
+      "question": "MS Winword: Định dạng Wrap Text cho Picture hay Shape dùng để làm gì?",
+      "options": [
+        "Thiết lập cách đặt hình",
+        "Thiết lập khung hình",
+        "Thiết lập màu hình",
+        "Thiết lập bóng hình"
+      ],
+      "answer": "Thiết lập cách đặt hình"
+    },
+    {
+      "question": "MS Winword: Đặt kiểu Inline with Text cho Picture dùng để làm gì?",
+      "options": [
+        "Cố định hình như văn bản",
+        "Cho phép hình nằm giữa văn bản",
+        "Cho phép hình di tự do",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Cố định hình như văn bản"
+    },
+    {
+      "question": "MS Winword: Đặt kiểu Square cho Picture dùng để làm gì?",
+      "options": [
+        "Cho phép hình nằm giữa văn bản",
+        "Cố định hình như văn bản",
+        "Cho phép hình di tự do",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Cho phép hình nằm giữa văn bản"
+    },
+    {
+      "question": "MS Winword: Đặt kiểu In Front of Text cho Picture dùng để làm gì?",
+      "options": [
+        "Cho phép hình di tự do",
+        "Cho phép hình nằm giữa văn bản",
+        "Cố định hình như văn bản",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Cho phép hình di tự do"
+    },
+    {
+      "question": "MS Winword: Thiết lập Group cho các hình Shape dùng để làm gì?",
+      "options": [
+        "Nhóm các hình lại",
+        "Tách các hình ra",
+        "Cố định các hình trên văn bản",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Nhóm các hình lại"
+    },
+    {
+      "question": "MS Winword: Khi lưu trữ file, ta đặt mật khẩu Open để làm gì?",
+      "options": [
+        "Yêu cầu mật khẩu để mở file",
+        "[Missing option]",
+        "Yêu cầu mật khẩu để xóa file",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Yêu cầu mật khẩu để mở file"
+    },
+    {
+      "question": "MS Winword: Khi lưu trữ file, ta đặt mật khẩu Modify để làm gì?",
+      "options": [
+        "Yêu cầu mật khẩu để soạn thảo file",
+        "Yêu cầu mật khẩu để mở file",
+        "Yêu cầu mật khẩu khi tồn tại file",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Yêu cầu mật khẩu để soạn thảo file"
+    },
+    {
+      "question": "MS Winword: Để bật thanh thước ngang và thước dọc, ta vào menu nào?",
+      "options": [
+        "View",
+        "Home",
+        "File",
+        "Page Layout"
+      ],
+      "answer": "View"
+    },
+    {
+      "question": "MS Winword: Để thiết lập Font chữ, ta vào menu nào?",
+      "options": [
+        "Home",
+        "View",
+        "File",
+        "Page Layout"
+      ],
+      "answer": "Home"
+    },
+    {
+      "question": "MS Winword: Để thiết lập khổ giấy A4, ta vào menu nào?",
+      "options": [
+        "Page Layout",
+        "Home",
+        "File",
+        "View"
+      ],
+      "answer": "Page Layout"
+    },
+    {
+      "question": "MS Winword: Để căn lề văn bản, ta vào menu nào?",
+      "options": [
+        "Page Layout",
+        "Home",
+        "File",
+        "View"
+      ],
+      "answer": "Page Layout"
+    },
+    {
+      "question": "MS Winword: Để bật kiểm tra lỗi chính tả, ta vào menu nào?",
+      "options": [
+        "File",
+        "Home",
+        "View",
+        "Page Layout"
+      ],
+      "answer": "File"
+    },
+    {
+      "question": "MS Winword: Để bật kiểm tra lỗi ngữ pháp, ta vào menu nào?",
+      "options": [
+        "File",
+        "Home",
+        "View",
+        "Page Layout"
+      ],
+      "answer": "File"
+    },
+    {
+      "question": "MS Winword: Để thiết lập đơn vị thước là cm, ta vào menu nào?",
+      "options": [
+        "File",
+        "Home",
+        "View",
+        "Page Layout"
+      ],
+      "answer": "File"
+    },
+    {
+      "question": "MS Winword: Lệnh nào cho phép lưu trữ lại một setting đã lưu?",
+      "options": [
+        "Save as",
+        "Save",
+        "Open",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Save as"
+    },
+    {
+      "question": "MS Winword: Lệnh nào cho phép bỏ mật khẩu một văn bản đã đặt mật khẩu?",
+      "options": [
+        "Save as",
+        "Save",
+        "Open",
+        "Page Layout"
+      ],
+      "answer": "Save as"
+    },
+    {
+      "question": "MS Winword: Thuộc tính nào cho phép di chuyển Bullet hoặc Number?",
+      "options": [
+        "First Line Indent",
+        "Hanging Line Indent",
+        "Left Indent",
+        "Right Indent"
+      ],
+      "answer": "First Line Indent"
+    },
+    {
+      "question": "MS Winword: Thuộc tính nào cho phép giới hạn lề phải khi gõ văn bản?",
+      "options": [
+        "Right Indent",
+        "Hanging Line Indent",
+        "Left Indent",
+        "First Line Indent"
+      ],
+      "answer": "Right Indent"
+    },
+    {
+      "question": "MS Winword: Thuộc tính nào cho phép đoạn văn thụt lề trái?",
+      "options": [
+        "Left Indent",
+        "Hanging Line Indent",
+        "Right Indent",
+        "First Line Indent"
+      ],
+      "answer": "Left Indent"
+    },
+    {
+      "question": "MS Winword: Để chèn dòng trống giữa dòng 1 và dòng 2, sau khi đã đặt con trỏ vào đầu dòng 2, chúng ta phải sử dụng phím:",
+      "options": [
+        "TAB",
+        "ENTER",
+        "ESC",
+        "CTRL"
+      ],
+      "answer": "ENTER"
+    },
+    {
+      "question": "MS Winword: Để dãn khoảng cách giữa các dòng là 1.5 line, cần thực hiện:",
+      "options": [
+        "Format/paragraph/line spacing",
+        "Nhấn Ctrl + 5 tại dòng đó",
+        "Cả hai cách A và B đều thực hiện được",
+        "Cả 2 cách A và B đều không thực hiện được"
+      ],
+      "answer": "Format/paragraph/line spacing"
+    },
+    {
+      "question": "MS Winword: Chèn một ký tự đặc biệt ta dùng:",
+      "options": [
+        "Insert Text box",
+        "Insert File",
+        "Insert Symbol",
+        "Insert Picture"
+      ],
+      "answer": "Insert Symbol"
+    },
+    {
+      "question": "MS Winword: Để xem nhanh một tài liệu trước khi in cần thực hiện:",
+      "options": [
+        "Nhấn chuột vào nút Print Preview trên thanh công cụ Standard",
+        "Nhấn tổ hợp phím Ctrl + P",
+        "Nhấn chuột vào biểu tượng máy in trên thanh công cụ Standard",
+        "Cả ba cách trên đều cho ra cùng một kết quả"
+      ],
+      "answer": "Nhấn chuột vào nút Print Preview trên thanh công cụ Standard"
+    },
+    {
+      "question": "MS Winword: Để xóa ký tự trong văn bản, ta sử dụng những phím nào trên bàn phím?",
+      "options": [
+        "Backspace, Delete",
+        "Delete, Insert",
+        "Backspace, End",
+        "Cả 3 ý trên"
+      ],
+      "answer": "Cả 3 ý trên"
+    },
+    {
+      "question": "MS Winword: Để chia một ô thành nhiều ô, ta chọn ô cần tách rồi thực hiện thao tác:",
+      "options": [
+        "Table/ Split Cell",
+        "Table/ Select",
+        "Windows/ Split Cells",
+        "Insert/ Select"
+      ],
+      "answer": "Table/ Split Cell"
+    },
+    {
+      "question": "MS Winword: Hãy chọn đáp án sai: Để gộp nhiều ô thành một ô, trước hết ta chọn số ô cần gộp rồi thực hiện:",
+      "options": [
+        "Nhấn chuột phải, rồi chọn Merge Cells",
+        "Nhấn chọn Windows, rồi chọn Merge Cells",
+        "Chọn Table/ Merge Cells",
+        "Chọn trên thanh công cụ"
+      ],
+      "answer": "Nhấn chuột phải, rồi chọn Merge Cells"
+    }
+  ]
+}

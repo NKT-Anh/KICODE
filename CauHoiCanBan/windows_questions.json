@@ -1,0 +1,1205 @@
+{
+  "topic": "windows",
+  "questions": [
+    {
+      "question": "Windows: Muốn di chuyển một cửa sổ thì thao tác nào dưới đây là đúng:",
+      "options": [
+        "Nhấp chuột phải, chọn lệnh Move",
+        "Tất cả đúng",
+        "Chọn Menu Windows; Move",
+        "Trỏ chuột vào thanh tiêu đề (Title bar) và kéo đến vị trí mới"
+      ],
+      "answer": "Tất cả đúng"
+    },
+    {
+      "question": "Windows: Thiết lập hiển thị các folder có thuộc tính ẩn ở đâu?",
+      "options": [
+        "Control Panel / Folder Option / General tab",
+        "Folder Properties / General tab",
+        "Control Panel / Folder Option / View tab",
+        "Folder Properties / Security tab"
+      ],
+      "answer": "Control Panel / Folder Option / View tab"
+    },
+    {
+      "question": "Windows: Biểu tượng của các lối tắt (Shortcut) giúp bạn truy cập nhanh đến đối tượng nào dưới đây:",
+      "options": [
+        "Chương trình",
+        "Ổ đĩa",
+        "Tập tin tự hiệu",
+        "Tất cả đúng"
+      ],
+      "answer": "Tất cả đúng"
+    },
+    {
+      "question": "Windows: Thiết bị vừa là thiết bị xuất vừa là thiết bị nhập của máy tính",
+      "options": [
+        "Máy in",
+        "Bàn phím",
+        "Màn hình",
+        "Đĩa cd-rw/dvd-rw"
+      ],
+      "answer": "Đĩa cd-rw/dvd-rw"
+    },
+    {
+      "question": "Windows: Muốn khôi phục lại đối tượng đã xóa trong Recycle Bin, ta chọn đối tượng rồi thực hiện:",
+      "options": [
+        "File - Copy",
+        "File - Open",
+        "File - Restore",
+        "File - Move To Folder..."
+      ],
+      "answer": "File - Restore"
+    },
+    {
+      "question": "Windows: Để thiết đặt lại hệ thống, ta chọn chức năng",
+      "options": [
+        "Control Panel",
+        "Control Windows",
+        "Control System",
+        "Control Desktop"
+      ],
+      "answer": "Control Panel"
+    },
+    {
+      "question": "Windows: Chương trình dùng để quản lý các tệp và thư mục là",
+      "options": [
+        "Accessories",
+        "Windows Explorer",
+        "Internet Explorer",
+        "Control Panel"
+      ],
+      "answer": "Windows Explorer"
+    },
+    {
+      "question": "Windows: Chương trình nào như một máy tính bỏ túi tích hợp trong Windows",
+      "options": [
+        "Notepad",
+        "Calculator",
+        "MS Word",
+        "MS Excel"
+      ],
+      "answer": "Calculator"
+    },
+    {
+      "question": "Windows: Muốn cài đặt máy in, ta thực hiện",
+      "options": [
+        "File - Printer and Faxes, rồi chọn mục Add a printer",
+        "Window - Printer and Faxes, rồi chọn mục Add a printer",
+        "Start - Printer and Faxes, rồi chọn mục Add a printer",
+        "Tools - Printer and Faxes, rồi chọn mục Add a printer"
+      ],
+      "answer": "Start - Printer and Faxes, rồi chọn mục Add a printer"
+    },
+    {
+      "question": "Windows: Trong cửa sổ Explorer, để chọn một lúc các file hoặc folder nằm không kế nhau trong một danh sách",
+      "options": [
+        "Giữ phím Ctrl và nháy chuột vào từng mục muốn chọn trong danh sách",
+        "Giữ phím Alt và nháy chuột vào từng mục muốn chọn trong danh sách",
+        "Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách",
+        "Giữ phím Shift và nháy chuột vào từng mục muốn chọn trong danh sách"
+      ],
+      "answer": "Giữ phím Ctrl và nháy chuột vào từng mục muốn chọn trong danh sách"
+    },
+    {
+      "question": "Windows: Để thoát khỏi một chương trình trong ứng dụng của Windows, ta dùng tổ hợp phím",
+      "options": [
+        "Alt - F4",
+        "Ctrl - F5",
+        "Shift - F4",
+        "Alt - F5"
+      ],
+      "answer": "Alt - F4"
+    },
+    {
+      "question": "Windows: Kiến thức chung: Bộ nhớ RAM và ROM là bộ nhớ gì?",
+      "options": [
+        "Secondary memory",
+        "Receive memory",
+        "Primary memory",
+        "Random access memory"
+      ],
+      "answer": "Primary memory"
+    },
+    {
+      "question": "Windows: Windows Explorer có các thành phần: Explorer bar, Explorer view, Tool bar, menu bar. Còn lại là gì?",
+      "options": [
+        "Status bar",
+        "Menu bar",
+        "Task bar",
+        "Tất cả đều sai"
+      ],
+      "answer": "Task bar"
+    },
+    {
+      "question": "Windows: Chương trình cho phép định lại cấu hình hệ thống thay đổi môi trường làm việc cho phù hợp",
+      "options": [
+        "Display",
+        "Control panel",
+        "Screen Saver",
+        "Tất cả đều có thể"
+      ],
+      "answer": "Screen Saver"
+    },
+    {
+      "question": "Windows: Trong Windows, khi xóa file hoặc folder thì nó được lưu trong Recycle Bin, muốn xóa hẳn file hoặc folder ta nhấn tổ hợp phím nào:",
+      "options": [
+        "Shift_Del",
+        "Alt_Del",
+        "Ctrl_Del",
+        "Cả 3 câu đều sai"
+      ],
+      "answer": "Shift_Del"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, thuộc tính nào dưới đây dùng để hiển thị thanh công việc (Taskbar) trên các cửa sổ chương trình?",
+      "options": [
+        "Lock the Taskbar",
+        "Auto-Hide the Taskbar",
+        "Keep the Taskbar on top of other Windows",
+        "Show the clock"
+      ],
+      "answer": "Auto-Hide the Taskbar"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, để phục hồi tất cả các đối tượng trong Recycle Bin (thùng rác) ta nhấp phải chuột tại Recycle Bin và chọn lệnh:",
+      "options": [
+        "Delete",
+        "Restore",
+        "Redo",
+        "Undo Delete"
+      ],
+      "answer": "Restore"
+    },
+    {
+      "question": "Windows: Nhấn giữ phím nào khi muốn chọn nhiều đối tượng liên tiếp nhau?",
+      "options": [
+        "Ctrl",
+        "Alt",
+        "Tab",
+        "Shift"
+      ],
+      "answer": "Shift"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, để dán các tệp/thư mục sau khi đã thực hiện lệnh copy, ta mở ổ đĩa, thư mục muốn chứa bản sao và:",
+      "options": [
+        "Vào bảng chọn Edit và chọn Paste.",
+        "Nhấn tổ hợp phím Ctrl + V.",
+        "Nhấp phải chuột tại vùng trống bên trong ổ đĩa, thư mục cha và chọn Paste.",
+        "Các ý trên đều đúng"
+      ],
+      "answer": "Các ý trên đều đúng"
+    },
+    {
+      "question": "Windows: Phần cứng, phần mềm, thiết bị lưu trữ thuộc nhóm nào?",
+      "options": [
+        "Phần cứng",
+        "Phần mềm",
+        "Thiết bị lưu trữ",
+        "Tất cả đều sai"
+      ],
+      "answer": "Tất cả đều sai"
+    },
+    {
+      "question": "Windows: Trên hệ điều hành Windows, để chuyển đổi cửa sổ chương trình cần làm việc ta:",
+      "options": [
+        "Nháy chọn biểu tượng chương trình tương ứng trên thanh công việc (Taskbar).",
+        "Nhấn giữ phím Alt và gõ phím Tab cho đến khi chọn được cửa sổ chương trình.",
+        "Nháy vào một vị trí bất kỳ trên cửa sổ chương trình muốn kích hoạt.",
+        "Các ý trên đều đúng."
+      ],
+      "answer": "Các ý trên đều đúng."
+    },
+    {
+      "question": "Windows: Trong các phần mềm sau, phần mềm nào là phần mềm ứng dụng?",
+      "options": [
+        "Windows XP",
+        "Microsoft Word",
+        "Linux",
+        "Unix"
+      ],
+      "answer": "Microsoft Word"
+    },
+    {
+      "question": "Windows: Để khôi phục file trong Recycle Bin, ta thực hiện:",
+      "options": [
+        "Nhắp chọn Edit và Restore.",
+        "Nhắp chọn Edit và Delete.",
+        "Nhắp chọn File và Restore.",
+        "Nhắp chọn File và Delete."
+      ],
+      "answer": "Nhắp chọn Edit và Restore."
+    },
+    {
+      "question": "Windows: Muốn đổi tên cho thư mục/tệp tin trong hệ điều hành Windows, ta chọn thư mục/tệp tin cần đổi tên và thực hiện thao tác nào sau đây?",
+      "options": [
+        "Nhắp chọn File và chọn Rename và nhắp tên mới và nhấn phím Enter.",
+        "Nhấn phím F2 và nhắp tên mới và nhấn phím Enter.",
+        "Nhắp chọn phải chuột tại thư mục/tệp tin và nhắp tên mới và nhấn phím Enter.",
+        "Các ý trên đều đúng."
+      ],
+      "answer": "Các ý trên đều đúng."
+    },
+    {
+      "question": "Windows: Để xóa các tệp/thư mục đang chọn ta thực hiện cách nào?",
+      "options": [
+        "Vào bảng chọn Edit và UnDelete và Yes.",
+        "Nhấn tổ hợp phím Ctrl + Delete và Yes.",
+        "Nhấn phím Delete và Yes.",
+        "Các ý trên đều đúng."
+      ],
+      "answer": "Các ý trên đều đúng."
+    },
+    {
+      "question": "Windows: Để dán các tệp/thư mục sau khi đã thực hiện lệnh copy, ta mở ổ đĩa, thư mục muốn chứa bản sao và:",
+      "options": [
+        "Vào bảng chọn Edit và chọn Paste.",
+        "Nhấn tổ hợp phím Ctrl + V.",
+        "Nháy phải chuột tại vùng trống bên trong ổ đĩa, thư mục cha và chọn Paste.",
+        "Các ý trên đều đúng"
+      ],
+      "answer": "Các ý trên đều đúng"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, muốn đóng (thoát) cửa sổ chương trình ứng dụng đang làm việc ta:",
+      "options": [
+        "Nhấn tổ hợp phím Ctrl + F3",
+        "Nhấn phím F11",
+        "Nhấn tổ hợp phím Alt + F4.",
+        "Các ý trên đều đúng"
+      ],
+      "answer": "Nhấn tổ hợp phím Alt + F4."
+    },
+    {
+      "question": "Windows: Để quản lý tệp, thư mục ta thường dùng chương trình nào sau đây:",
+      "options": [
+        "Internet Explorer",
+        "Windows Explorer.",
+        "Microsoft Word.",
+        "Microsoft Excel."
+      ],
+      "answer": "Windows Explorer."
+    },
+    {
+      "question": "Windows: Muốn thay đổi các thông số khu vực trong hệ điều hành Windows như múi giờ, đơn vị tiền tệ, cách viết số, ... ta sử dụng chương trình nào trong các chương trình sau",
+      "options": [
+        "Microsoft Paint",
+        "System Tools",
+        "Control Panel",
+        "Calculator"
+      ],
+      "answer": "Control Panel"
+    },
+    {
+      "question": "Windows: Muốn chọn tất cả các đối tượng trong cửa sổ thư mục hiện tại, ta dùng phím (tổ hợp phím) nào sau đây",
+      "options": [
+        "Shift + F4",
+        "Ctrl + A",
+        "Alt + H",
+        "F11"
+      ],
+      "answer": "Ctrl + A"
+    },
+    {
+      "question": "Windows: Thiết bị nhập chuẩn của máy vi tính là",
+      "options": [
+        "Bàn phím",
+        "Chuột",
+        "Máy quét",
+        "Tất cả các ý trên đều đúng."
+      ],
+      "answer": "Tất cả các ý trên đều đúng."
+    },
+    {
+      "question": "Windows: Để đóng cửa sổ ứng dụng ta chọn",
+      "options": [
+        "Nhấn tổ hợp phím Alt + F4.",
+        "File - Close.",
+        "Chọn nút Close bên phải thanh tiêu đề",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Windows: Để phóng to cửa sổ ta chọn",
+      "options": [
+        "Maximize",
+        "Minimize",
+        "Close",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Maximize"
+    },
+    {
+      "question": "Windows: Để thu nhỏ cửa sổ ta chọn",
+      "options": [
+        "Maximize",
+        "Minimize",
+        "Close",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Minimize"
+    },
+    {
+      "question": "Windows: Để chuyển qua lại giữa các cửa sổ ta chọn",
+      "options": [
+        "Shift-Tab",
+        "Ctrl-Tab",
+        "Ctrl-Shift-Tab",
+        "Alt-Tab"
+      ],
+      "answer": "Alt-Tab"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, muốn sắp xếp các biểu tượng trên màn hình desktop theo kích cỡ thì:",
+      "options": [
+        "Kích chuột phải tại vùng trống trên màn hình nền ⇒ Sort by ⇒ Name",
+        "Kích chuột phải tại vùng trống trên màn hình nền ⇒ Sort by ⇒ Item Type",
+        "Kích chuột phải tại vùng trống trên màn hình nền ⇒ Sort by ⇒ Date Modified",
+        "Kích chuột phải tại vùng trống trên màn hình nền ⇒ Sort by ⇒ Size"
+      ],
+      "answer": "Kích chuột phải tại vùng trống trên màn hình nền ⇒ Sort by ⇒ Item Type"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, muốn tạo một thư mục mới trên màn hình desktop thì:",
+      "options": [
+        "Kích chuột phải tại vùng trống trên màn hình nền ⇒ New ⇒ Folder, gõ tên thư mục và nhấn phím Enter.",
+        "Kích đôi chuột tại vùng trống trên màn hình nền ⇒ New ⇒ Folder, gõ tên thư mục và nhấn phím Enter.",
+        "Mở My Computer ⇒ Control Panel ⇒ New ⇒ Folder, gõ tên thư mục và nhấn phím Enter.",
+        "Các cách trên đều đúng."
+      ],
+      "answer": "Kích chuột phải tại vùng trống trên màn hình nền ⇒ New ⇒ Folder, gõ tên thư mục và nhấn phím Enter."
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, để tạo shortcut ta thực hiện:",
+      "options": [
+        "Kích phải chuột tại đối tượng cần tạo shortcut, chọn Sent to => chọn Desktop (create shortcut).",
+        "Nhấn giữ nút chuột phải tại đối tượng cần tạo shortcut, kéo thả ra ngoài màn hình nền, khi bảng chọn tất xuất hiện, chọn Create shortcuts here.",
+        "Kích phải chuột tại vùng trống bất kỳ trên nền màn hình desktop, chọn New ⇒ Shortcut ⇒ Browse ⇒ chỉ đường dẫn đến đối tượng cần tạo shortcut ⇒ Next ⇒ đặt tên cho shortcut ⇒ Finish.",
+        "Các cách trên đều đúng."
+      ],
+      "answer": "Các cách trên đều đúng."
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, để quản lý tập tin, thư mục bạn thường dùng chương trình nào?",
+      "options": [
+        "Internet Explorer",
+        "My Computer.",
+        "Microsoft Word.",
+        "Microsoft Excel"
+      ],
+      "answer": "My Computer."
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, muốn chọn tất cả các đối tượng trong cửa sổ thư mục hiện hành, bạn dùng tổ hợp phím nào sau đây?",
+      "options": [
+        "Ctrl + C",
+        "Alt + A",
+        "Ctrl + A",
+        "Ctrl + V"
+      ],
+      "answer": "Ctrl + A"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, muốn thiết lập thuộc tính ẩn cho thư mục thì:",
+      "options": [
+        "Kích chuột phải vào thư mục ⇒ Properties ⇒ General ⇒ Read-only",
+        "Kích chuột phải vào thư mục ⇒ Properties ⇒ General ⇒ Modify",
+        "Kích chuột phải vào thư mục ⇒ Properties ⇒ General ⇒ Hidden",
+        "Kích chuột phải vào thư mục ⇒ Properties ⇒ General ⇒ Write"
+      ],
+      "answer": "Kích chuột phải vào thư mục ⇒ Properties ⇒ General ⇒ Hidden"
+    },
+    {
+      "question": "Windows: Trong My Computer của hệ điều hành Windows, để tổ chức dữ liệu thành nhóm theo tên thì:",
+      "options": [
+        "Kích chuột phải vào chỗ trống trong cửa sổ thư mục hiện hành ⇒ Group by ⇒ Name",
+        "Kích chuột phải vào chỗ trống trong cửa sổ thư mục hiện hành ⇒ Group by ⇒ Date Modified",
+        "Kích chuột phải vào chỗ trống trong cửa sổ thư mục hiện hành ⇒ Group by ⇒ Type",
+        "Kích chuột phải vào chỗ trống trong cửa sổ thư mục hiện hành ⇒ Group by ⇒ Size"
+      ],
+      "answer": "Kích chuột phải vào chỗ trống trong cửa sổ thư mục hiện hành ⇒ Group by ⇒ Name"
+    },
+    {
+      "question": "Windows: Trong hệ điều hành Windows, để đổi tên một tập tin thuộc thư mục thì bạn:",
+      "options": [
+        "Kích chuột vào đối tượng đó và ấn phím F1",
+        "Kích chuột vào đối tượng đó và ấn phím F2",
+        "Kích chuột vào đối tượng đó và ấn phím F12",
+        "Tất cả đều sai."
+      ],
+      "answer": "Kích chuột vào đối tượng đó và ấn phím F2"
+    },
+    {
+      "question": "Windows: Phát biểu nào sau đây là không đúng:",
+      "options": [
+        "Có thể tạo biểu tượng shortcut cho đối tượng tập tin hoặc thư mục ngoài giao diện hình nền.",
+        "Thư mục có thể chứa tập tin hoặc thư mục con bên trong.",
+        "My Computer là trình quản lý giao diện hình nền.",
+        "Control Panel là trình quản lý hệ thống của hệ điều hành."
+      ],
+      "answer": "My Computer là trình quản lý giao diện hình nền."
+    },
+    {
+      "question": "Windows: Trong Control Panel của hệ điều hành Windows, chức năng Windows Update cho phép bạn:",
+      "options": [
+        "Thiết lập tự động cho hệ điều hành",
+        "Hiển thị thông tin về hệ điều hành",
+        "Cài đặt chương trình và ứng dụng",
+        "Cập nhật các bản vá lỗi và phiên bản hệ điều hành"
+      ],
+      "answer": "Cập nhật các bản vá lỗi và phiên bản hệ điều hành"
+    },
+    {
+      "question": "Windows: Để nhìn thấy các máy tính trong mạng nội bộ thì nhấp chọn biểu tượng có tên",
+      "options": [
+        "My Network Places",
+        "My Network",
+        "My Computer",
+        "My Documents"
+      ],
+      "answer": "My Computer"
+    },
+    {
+      "question": "Windows: Để mở rộng một cửa sổ chương trình phóng to hết màn hình",
+      "options": [
+        "Nhấp vào biểu tượng Maximize",
+        "Nhấp vào biểu tượng Restore Down",
+        "Nhấp đúp vào thanh tiêu đề (Title Bar) khi cửa sổ đang thu vừa",
+        "Cả hai cách A và C đều được"
+      ],
+      "answer": "Cả hai cách A và C đều được"
+    },
+    {
+      "question": "Windows: Để khởi động lại máy tính, phát biểu nào dưới đây là sai",
+      "options": [
+        "Nhấn tổ hợp phím Ctrl - Alt - Del, chọn mục Restart",
+        "Từ cửa sổ màn hình nền nhấn nút Start - Shutdown, sau đó chọn mục Restart",
+        "Bấm nút Power trên hộp máy",
+        "Bấm nút Reset trên hộp máy"
+      ],
+      "answer": "Bấm nút Power trên hộp máy"
+    },
+    {
+      "question": "Windows: Đặt màn hình máy tính như thế nào là tốt nhất cho mắt bạn",
+      "options": [
+        "Không có ánh sáng chiếu vào",
+        "Không đối diện với cửa ra vào, cửa sổ, bóng đèn.",
+        "Đối diện với cửa ra vào, cửa sổ, bóng đèn",
+        "Tất cả đều sai"
+      ],
+      "answer": "Không đối diện với cửa ra vào, cửa sổ, bóng đèn."
+    },
+    {
+      "question": "Windows: Nút Reset có công dụng:",
+      "options": [
+        "Khởi động máy tính",
+        "Khởi động lại máy tính",
+        "Nạp HDH",
+        "Tắt máy tính"
+      ],
+      "answer": "Khởi động lại máy tính"
+    },
+    {
+      "question": "Windows: Mô hình tổng quát của một quá trình xử lý thông tin là:",
+      "options": [
+        "Xử lý > Nhập > Xuất",
+        "Nhập > Xử lý > Xuất",
+        "Xuất > Xử lý > Nhập",
+        "Xử lý > Xuất > Nhập"
+      ],
+      "answer": "Nhập > Xử lý > Xuất"
+    },
+    {
+      "question": "Windows: Thao tác làm thay đổi ảnh nền cho Win XP:",
+      "options": [
+        "Nhấp phải nền > Properties > Desktop > chọn ảnh",
+        "Nhấp đúp nền > Desktop > chọn ảnh",
+        "Nhấp vào nền > Properties > chọn ảnh",
+        "Nhấp phải nền > Desktop > chọn ảnh"
+      ],
+      "answer": "Nhấp phải nền > Properties > Desktop > chọn ảnh"
+    },
+    {
+      "question": "Windows: Phát biểu nào sai dưới đây:",
+      "options": [
+        "Folder có thể chứa File và Folder con",
+        "File có thể chứa Folder con",
+        "Chỉ có tối đa 3 cấp Folder",
+        "HDH là một phần mềm hệ thống"
+      ],
+      "answer": "File có thể chứa Folder con"
+    },
+    {
+      "question": "Windows: Thư mục gốc của một ổ đĩa có thể chứa:",
+      "options": [
+        "1 File",
+        "Không hạn chế số File",
+        "Nhiều File, phụ thuộc vào dung lượng đĩa",
+        "Tối đa 100 File"
+      ],
+      "answer": "Nhiều File, phụ thuộc vào dung lượng đĩa"
+    },
+    {
+      "question": "Windows: Để máy tính có thể làm việc được, hệ điều hành cần nạp vào:",
+      "options": [
+        "Ram",
+        "Bộ nhớ ngoài.",
+        "Chỉ nạp vào bộ nhớ trong khi chạy chương trình ứng dụng.",
+        "Tất cả đều sai."
+      ],
+      "answer": "Ram"
+    },
+    {
+      "question": "Windows: Cho biết cách xóa một tập tin hay thư mục mà không di chuyển vào Recycle Bin:",
+      "options": [
+        "Chọn thư mục hay tập tin cần xóa -> Delete",
+        "Chọn thư mục hay tập tin cần xóa -> Ctrl + Delete",
+        "Chọn thư mục hay tập tin cần xóa -> Alt + Delete",
+        "Chọn thư mục hay tập tin cần xóa -> Shift + Delete"
+      ],
+      "answer": "Chọn thư mục hay tập tin cần xóa -> Shift + Delete"
+    },
+    {
+      "question": "Windows: Danh sách các mục chọn trong thực đơn gọi là:",
+      "options": [
+        "Menu pad",
+        "Menu options",
+        "Menu bar",
+        "Tất cả đều sai"
+      ],
+      "answer": "Menu bar"
+    },
+    {
+      "question": "Windows: Công dụng của phím Print Screen là gì",
+      "options": [
+        "In màn hình hiện hành ra máy in",
+        "Không có công dụng gì khi sử dụng 1 mình nó.",
+        "In văn bản hiện hành ra máy in",
+        "Chụp màn hình hiện hành"
+      ],
+      "answer": "Chụp màn hình hiện hành"
+    },
+    {
+      "question": "Windows: Nếu bạn muốn làm cho cửa sổ nhỏ bớt (không kín màn hình), bạn nên sử dụng nút nào",
+      "options": [
+        "Maximum",
+        "Minimum",
+        "Restore down",
+        "Close"
+      ],
+      "answer": "Restore down"
+    },
+    {
+      "question": "Windows: Khái niệm hệ điều hành là gì",
+      "options": [
+        "Cung cấp và xử lý các phần cứng và phần mềm",
+        "Nghiên cứu phương pháp, kỹ thuật xử lý thông tin bằng máy tính điện tử",
+        "Nghiên cứu về công nghệ phần cứng và phần mềm",
+        "Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng và các tài nguyên phần mềm trên máy tính"
+      ],
+      "answer": "Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng và các tài nguyên phần mềm trên máy tính"
+    },
+    {
+      "question": "Windows: Để tắt máy tính đúng cách ta chọn",
+      "options": [
+        "Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục Shutdown",
+        "Tắt nguồn điện",
+        "Bấm nút Power trên hộp máy",
+        "Bấm nút Reset trên hộp máy"
+      ],
+      "answer": "Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục Shutdown"
+    },
+    {
+      "question": "Windows: Mục đích của công việc định dạng đĩa là gì",
+      "options": [
+        "Sắp xếp lại dữ liệu trên đĩa",
+        "Khôi phục lại dữ liệu trên đĩa",
+        "Tạo một đĩa trống đúng khuôn dạng để lưu trữ dữ liệu",
+        "Làm cho nhiều người sử dụng có thể truy nhập được đĩa"
+      ],
+      "answer": "Tạo một đĩa trống đúng khuôn dạng để lưu trữ dữ liệu"
+    },
+    {
+      "question": "Windows: Khi kích đúp chuột vào thanh tiêu đề của một cửa sổ đang ở kích thước cực đại trong hệ điều hành Windows sẽ xảy ra",
+      "options": [
+        "Cửa sổ trước đây thu nhỏ lại thành một Gospel tùy ra",
+        "Một hộp thoại sẽ bật ra",
+        "Cửa sổ trước đây đóng lại",
+        "Cửa sổ trước đây phóng to ra"
+      ],
+      "answer": "Cửa sổ trước đây thu nhỏ lại thành một Gospel tùy ra"
+    },
+    {
+      "question": "Windows: Biểu tượng nào dưới đây là biểu tượng có sẵn của hệ thống MS-Windows",
+      "options": [
+        "My Computer",
+        "Internet Explorer",
+        "My Documents",
+        "Cả ba biểu tượng nêu trên"
+      ],
+      "answer": "Cả ba biểu tượng nêu trên"
+    },
+    {
+      "question": "Windows: Các tệp tin sau khi được chọn và xóa bằng tổ hợp phím Shift+Delete:",
+      "options": [
+        "Có thể được hồi phục khi mở Recycling được nữa.",
+        "Không thể được hồi phục.",
+        "Được lưu trong Recycle Bin.",
+        "Tất cả đều sai."
+      ],
+      "answer": "Được lưu trong Recycle Bin."
+    },
+    {
+      "question": "Windows: Cách tổ chức thư mục và tệp tin theo hệ hành Windows không cho phép:",
+      "options": [
+        "Trong một thư mục có cả tệp tin và thư mục con.",
+        "Tạo một tệp tin có chứa thư mục con.",
+        "Một ổ đĩa cùng vật lý được phân chia thành nhiều ổ logic.",
+        "Thư mục mẹ và thư mục con có tên trùng nhau."
+      ],
+      "answer": "Tạo một tệp tin có chứa thư mục con."
+    },
+    {
+      "question": "Kiến thức chung: Chương trình ứng dụng tạo ra tệp tin có phần mở rộng tự đặt là txt:",
+      "options": [
+        "Calculator",
+        "Notepad",
+        "MS-Word",
+        "MS-Excel"
+      ],
+      "answer": "Notepad"
+    },
+    {
+      "question": "Windows: Chuỗi tìm kiếm nào dưới đây là đúng khi muốn tìm kiếm cả 3 tệp tin: 'tailieuduytan.txt', 'trungtamtinhoeduytan.doc' và 'duytan.xls'",
+      "options": [
+        "*duy*",
+        "?duy.*",
+        "*duy.*",
+        "?duy?"
+      ],
+      "answer": "*duy*"
+    },
+    {
+      "question": "Windows: Mở cửa sổ My Computer khi cần thao tác:",
+      "options": [
+        "Định dạng đĩa mềm",
+        "Tạo thêm thư mục mới trong ổ đĩa C",
+        "Mở cửa sổ Control Panel",
+        "Một trong ba công việc nêu trên"
+      ],
+      "answer": "Một trong ba công việc nêu trên"
+    },
+    {
+      "question": "Windows: Để đóng tất cả cửa sổ, ta nhấn phím nào",
+      "options": [
+        "Windows + D",
+        "Shift + A",
+        "Ctrl + D",
+        "Ctrl + Shift + D"
+      ],
+      "answer": "Windows + D"
+    },
+    {
+      "question": "Windows: Để xử lý đối tượng, ta nhấn phím nào trên đối tượng",
+      "options": [
+        "Chuột phải",
+        "Chuột trái",
+        "Ctrl + chuột phải",
+        "Shift + chuột trái"
+      ],
+      "answer": "Chuột phải"
+    },
+    {
+      "question": "Windows: Shortcut dùng để làm gì",
+      "options": [
+        "Liên kết đến 1 đối tượng",
+        "Chạy 1 đối tượng",
+        "Xóa 1 đối tượng",
+        "Xử lý 1 đối tượng"
+      ],
+      "answer": "Liên kết đến 1 đối tượng"
+    },
+    {
+      "question": "Windows: Có thể sắp xếp các shortcut tự do",
+      "options": [
+        "Được, nhưng phải bỏ chế độ Lock",
+        "Được, nhưng phải xóa và tạo lại shortcut",
+        "Luôn luôn được",
+        "Được, nhưng phải đặt thuộc tính ẩn cho shortcut"
+      ],
+      "answer": "Được, nhưng phải bỏ chế độ Lock"
+    },
+    {
+      "question": "Windows: Có bao nhiêu cách tạo shortcut",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Windows: Có thể thay đổi trật tự các shortcut trên desktop",
+      "options": [
+        "Được, thông qua xử lý View",
+        "Được, nhưng phải xóa và tạo lại shortcut",
+        "Không",
+        "Được, nhưng phải đặt thuộc tính ẩn cho shortcut"
+      ],
+      "answer": "Được, thông qua xử lý View"
+    },
+    {
+      "question": "Windows: Có thể ẩn các shortcut",
+      "options": [
+        "Được",
+        "Được, nhưng phải xóa và tạo lại shortcut",
+        "Không",
+        "Được, nhưng phải đặt thuộc tính ẩn cho shortcut"
+      ],
+      "answer": "Được"
+    },
+    {
+      "question": "Windows: Có thể di chuyển thanh Taskbar",
+      "options": [
+        "Được, nhưng phải bỏ chế độ Lock",
+        "Được, nhưng phải ẩn taskbar",
+        "Không",
+        "Được, nhưng phải Lock taskbar"
+      ],
+      "answer": "Được, nhưng phải bỏ chế độ Lock"
+    },
+    {
+      "question": "Windows: Lệnh cuối cùng của menu ngữ cảnh dùng để làm gì",
+      "options": [
+        "Cấu hình và xem thông tin đối tượng",
+        "Thiết lập khóa đối tượng",
+        "Thiết lập ẩn đối tượng",
+        "Thiết lập đổi tên đối tượng"
+      ],
+      "answer": "Cấu hình và xem thông tin đối tượng"
+    },
+    {
+      "question": "Windows: Trong My Computer, kiểu View nào xem được ngày tạo của dữ liệu",
+      "options": [
+        "Detail",
+        "List",
+        "Small icons",
+        "Large Icons"
+      ],
+      "answer": "Detail"
+    },
+    {
+      "question": "Windows: Trong My Computer, kiểu View nào xem được kích thước của dữ liệu",
+      "options": [
+        "Detail",
+        "List",
+        "Small icons",
+        "Large Icons"
+      ],
+      "answer": "Detail"
+    },
+    {
+      "question": "Windows: Trong My Computer, kiểu View nào xem nhanh được hình ảnh",
+      "options": [
+        "Large Icons",
+        "List",
+        "Group",
+        "Detail"
+      ],
+      "answer": "Large Icons"
+    },
+    {
+      "question": "Windows: Trong My Computer, thanh nào xem được cây thư mục dữ liệu",
+      "options": [
+        "Navigation",
+        "Folder List",
+        "Menu Bar",
+        "Status Bar"
+      ],
+      "answer": "Navigation"
+    },
+    {
+      "question": "Windows: Trong My Computer, nơi để thiết lập hiển thị dữ liệu bị ẩn",
+      "options": [
+        "Folder and Search option",
+        "Menu Home",
+        "Menu File",
+        "Menu View"
+      ],
+      "answer": "Folder and Search option"
+    },
+    {
+      "question": "Windows: Thuộc tính để cấm xóa dữ liệu là thuộc tính nào",
+      "options": [
+        "R",
+        "H",
+        "A",
+        "Tất cả đều đúng"
+      ],
+      "answer": "R"
+    },
+    {
+      "question": "Windows: Thuộc tính để ẩn dữ liệu là thuộc tính nào",
+      "options": [
+        "H",
+        "R",
+        "A",
+        "Tất cả đều đúng"
+      ],
+      "answer": "H"
+    },
+    {
+      "question": "Windows: Trong My Computer, có bao nhiêu cách để sao chép dữ liệu",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Windows: Trong My Computer, nhấn giữ Ctrl và rê chuột trên file dùng để làm gì",
+      "options": [
+        "Copy",
+        "Move",
+        "Delete",
+        "Rename"
+      ],
+      "answer": "Copy"
+    },
+    {
+      "question": "Windows: Trong My Computer, rê chuột trên file dùng để làm gì",
+      "options": [
+        "Move",
+        "Copy",
+        "Delete",
+        "Rename"
+      ],
+      "answer": "Move"
+    },
+    {
+      "question": "Windows: Trong My Computer, nhấn Ctrl-C trên file dùng để làm gì",
+      "options": [
+        "Copy",
+        "Move",
+        "Delete",
+        "Rename"
+      ],
+      "answer": "Copy"
+    },
+    {
+      "question": "Windows: Trong My Computer, nhấn Ctrl-X trên file dùng để làm gì",
+      "options": [
+        "Cut",
+        "Move",
+        "Delete",
+        "Copy"
+      ],
+      "answer": "Cut"
+    },
+    {
+      "question": "Windows: Trong My Computer, nhấn Ctrl-V trên file dùng để làm gì",
+      "options": [
+        "Paste",
+        "Move",
+        "Delete",
+        "Copy"
+      ],
+      "answer": "Paste"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được tạo shortcut không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải tạo từ MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được tạo thư mục không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải tạo từ MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được tạo tập tin winword không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải tạo từ MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được đổi tên thư mục không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải đổi tên từ MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được đổi tên tập tin không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải đổi tên từ MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được hiển thị phần mở rộng của tập tin không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải cài đặt MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được hiển thị các tập tin có thuộc tính ẩn không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải cài đặt MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, ta có được che dấu các tập tin có thuộc tính ẩn không",
+      "options": [
+        "Có",
+        "Không",
+        "Phải cài đặt MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Windows: Trong My Computer, phím Tab dùng để làm gì",
+      "options": [
+        "Di chuyển qua các thành phần",
+        "Đổi tên tập tin",
+        "Đổi tên thư mục",
+        "Di chuyển dữ liệu"
+      ],
+      "answer": "Di chuyển qua các thành phần"
+    },
+    {
+      "question": "Windows: Trong My Computer, phím Shift - F10 dùng để làm gì",
+      "options": [
+        "Bật menu chuột phải",
+        "Bật menu chuột trái",
+        "Đổi tên thư mục",
+        "Đổi tên tập tin"
+      ],
+      "answer": "Bật menu chuột phải"
+    },
+    {
+      "question": "Windows: Trong My Computer, phím ESC dùng để làm gì",
+      "options": [
+        "Hủy các cửa sổ lệnh đang mở",
+        "Xóa các file đang chọn",
+        "Xóa các thư mục đang chọn",
+        "Chọn các cửa sổ đang mở"
+      ],
+      "answer": "Hủy các cửa sổ lệnh đang mở"
+    },
+    {
+      "question": "Windows: Trong Control Panel, để thiết lập sau 5 phút tắt màn hình, ta sử dụng mục cấu hình nào sau đây",
+      "options": [
+        "Hardware and Sound",
+        "Programs",
+        "System and Security",
+        "Ease of Access"
+      ],
+      "answer": "Hardware and Sound"
+    },
+    {
+      "question": "Windows: Trong Control Panel, để gỡ bỏ một ứng dụng, ta sử dụng mục cấu hình nào sau đây",
+      "options": [
+        "Programs",
+        "Hardware and Sound",
+        "System and Security",
+        "Ease of Access"
+      ],
+      "answer": "Programs"
+    },
+    {
+      "question": "Windows: Trong Control Panel, để thiết lập đổi các icon của chuột, ta sử dụng mục cấu hình nào sau đây",
+      "options": [
+        "Hardware and Sound",
+        "Programs",
+        "System and Security",
+        "Ease of Access"
+      ],
+      "answer": "Hardware and Sound"
+    },
+    {
+      "question": "Windows: Trong Control Panel, để thiết lập giao diện windows, ta sử dụng mục cấu hình nào sau đây",
+      "options": [
+        "Appearance and Personalization",
+        "Programs",
+        "Hardware and Sound",
+        "Ease of Access"
+      ],
+      "answer": "Appearance and Personalization"
+    },
+    {
+      "question": "Windows: Trong Control Panel, để thiết lập độ phân giải màn hình, ta sử dụng mục cấu hình nào sau đây",
+      "options": [
+        "Appearance and Personalization",
+        "Programs",
+        "Hardware and Sound",
+        "Ease of Access"
+      ],
+      "answer": "Appearance and Personalization"
+    },
+    {
+      "question": "Windows: Trong Control Panel, để thay đổi hình nền desktop, ta sử dụng mục cấu hình nào sau đây",
+      "options": [
+        "Appearance and Personalization",
+        "Programs",
+        "Hardware and Sound",
+        "Ease of Access"
+      ],
+      "answer": "Appearance and Personalization"
+    },
+    {
+      "question": "Windows: Trong Control Panel, để cài ứng dụng Games có sẵn, ta sử dụng mục cấu hình nào sau đây",
+      "options": [
+        "Programs",
+        "Programs",
+        "Hardware and Sound",
+        "Ease of Access"
+      ],
+      "answer": "Programs"
+    },
+    {
+      "question": "Windows: Để thu nhỏ mọi cửa sổ ứng dụng, ta nhấn tổ hợp phím nào",
+      "options": [
+        "Windows + D",
+        "Windows + E",
+        "Windows + V",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Windows + D"
+    },
+    {
+      "question": "Windows: Trong windows, ở cửa sổ Explorer, để chọn một lúc các file hoặc folder nằm liền kế nhau trong một danh sách?",
+      "options": [
+        "Giữ phím Ctrl và nháy chuột vào từng mục muốn chọn trong danh sách",
+        "Giữ phím Alt và nháy chuột vào từng mục muốn chọn trong danh sách",
+        "Nháy chuột ở mục đầu, ấn và giữ Shift nháy chuột ở mục cuối",
+        "Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách"
+      ],
+      "answer": "Nháy chuột ở mục đầu, ấn và giữ Shift nháy chuột ở mục cuối"
+    },
+    {
+      "question": "Windows: Để chọn cửa sổ của chương trình cần làm việc trong Windows ta chọn:",
+      "options": [
+        "Nhấn chọn biểu tượng chương trình trên thanh Taskbar.",
+        "Nhấn giữ phím Alt và gõ phím Tab cho đến khi chọn được chương trình.",
+        "(A) và (B) đúng",
+        "(A) và (B) sai"
+      ],
+      "answer": "(A) và (B) đúng"
+    },
+    {
+      "question": "Windows: Để tạo shortcut trên Desktop, ta thực hiện:",
+      "options": [
+        "New \\ Folder",
+        "Create Shortcut",
+        "Copy",
+        "Cả B, C đều đúng"
+      ],
+      "answer": "Create Shortcut"
+    },
+    {
+      "question": "Windows: Khi muốn sắp xếp các biểu tượng trên Desktop ta tiến hành cách nào sau đây:",
+      "options": [
+        "Nhấp chuột phải trên Desktop, chọn Arrange Icons By...",
+        "Nhấp chuột phải trên My Computer, chọn Arrange Icons By...",
+        "Nhấp chuột phải trên nút Start, chọn New shortcut...",
+        "Nhấp chuột phải trên nút Start, chọn Arrange Icons By..."
+      ],
+      "answer": "Nhấp chuột phải trên Desktop, chọn Arrange Icons By..."
+    },
+    {
+      "question": "Windows: Trong Windows, để đổi tên Folder/File, ta thực hiện:",
+      "options": [
+        "Chọn Folder/File → File/Rename → gõ tên mới → enter",
+        "Kích nút phải chuột tạI Folder/File → Delete → gõ tên mới → Enter",
+        "Chọn Folder/File → Edit/Rename → gõ tên mới → enter",
+        "Chọn Folder/File → File/new/folder → gõ tên mới → enter"
+      ],
+      "answer": "Chọn Folder/File → File/Rename → gõ tên mới → enter"
+    },
+    {
+      "question": "Windows: Để thay đổi nền màn hình Windows ta thực hiện:",
+      "options": [
+        "Click phải chọn Properties\\Background",
+        "Click phải chọn Properties\\Desktop",
+        "Click phải chọn Properties\\Screen Save",
+        "Tất cả các ý trên đều sai"
+      ],
+      "answer": "Click phải chọn Properties\\Background"
+    },
+    {
+      "question": "Windows: Phím Print Screen có tác dụng gì?",
+      "options": [
+        "Cuộn màn hình",
+        "Chụp màn hình và lưu vào Clipboard",
+        "Tắt /Mở dãy phím số",
+        "Tắt máy"
+      ],
+      "answer": "Chụp màn hình và lưu vào Clipboard"
+    },
+    {
+      "question": "Windows: Khi kích đúp chuột vào thanh tiêu đề của một cửa sổ đang ở kích thước cực đại trong hệ điều hành Windows sẽ:",
+      "options": [
+        "Thu cửa sổ về kích thước trước đó.",
+        "Thu cửa sổ về kích thước cực tiểu",
+        "Chuyển về chế độ cho phép thay đổi kích thước cửa sổ.",
+        "Đóng cửa sổ đó."
+      ],
+      "answer": "Thu cửa sổ về kích thước trước đó."
+    },
+    {
+      "question": "Windows: Trong Windows, ta có thể chép tập tin hay thư mục bằng cách:",
+      "options": [
+        "Ctrl + C",
+        "Edit / Copy",
+        "Ctrl + kéo chuột",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Ctrl + C"
+    },
+    {
+      "question": "Windows: Trong Windows, ta có thể chép tập tin hay thư mục bằng cách:",
+      "options": [
+        "Ctrl + C",
+        "Edit / Copy",
+        "Ctrl + kéo chuột",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Ctrl + C"
+    }
+  ]
+}

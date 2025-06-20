@@ -1,0 +1,1024 @@
+{
+  "questions": [
+    {
+      "question": "Đặc điểm mạng MAN?",
+      "options": [
+        "Mạng trải rộng trong phạm vi thành phố",
+        "Kết nối hai hay nhiều LAN",
+        "Sử dụng đường truyền riêng hoặc cáp quang",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Dạng mạng nào được gọi là kết nối point to point?",
+      "options": [
+        "Star",
+        "Ring",
+        "Bus",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Star"
+    },
+    {
+      "question": "Dạng mạng nào được gọi các trạm phân chia chung một đường truyền chung?",
+      "options": [
+        "Star",
+        "Ring",
+        "Bus",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Bus"
+    },
+    {
+      "question": "Dạng mạng nào được gọi tín hiệu được truyền đi trên vòng theo một chiều duy nhất?",
+      "options": [
+        "Star",
+        "Ring",
+        "Bus",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Ring"
+    },
+    {
+      "question": "Loại cáp nào được gọi có tốc độ truyền tín hiệu cao nhất?",
+      "options": [
+        "Cáp đồng trục",
+        "Cáp xoắn đôi",
+        "Cáp quang",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Cáp quang"
+    },
+    {
+      "question": "Chuẩn WiFi nào đang được sử dụng phổ biến nhất hiện nay?",
+      "options": [
+        "802.11b",
+        "802.11a",
+        "802.11g",
+        "802.11n"
+      ],
+      "answer": "802.11n"
+    },
+    {
+      "question": "Địa chỉ MAC có bao nhiêu byte?",
+      "options": [
+        "3 byte",
+        "6 byte",
+        "24 byte",
+        "48 byte"
+      ],
+      "answer": "6 byte"
+    },
+    {
+      "question": "Khi sử dụng mạng máy tính ta sẽ được các lợi ích gì?",
+      "options": [
+        "Chia sẻ tài nguyên (ổ cứng, cơ sở dữ liệu, máy in...)",
+        "Quản lý tập trung và đồng bộ hóa dữ liệu",
+        "Xử lý thông tin kịp thời và chính xác",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Mạng nối nhiều máy tính với nhau trong phạm vi một tòa nhà gọi là?",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "INTERNET"
+      ],
+      "answer": "LAN"
+    },
+    {
+      "question": "Mạng nối nhiều máy tính ở phạm vi địa lý rộng gọi là?",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "INTERNET"
+      ],
+      "answer": "WAN"
+    },
+    {
+      "question": "Đặc điểm mạng LAN?",
+      "options": [
+        "Mạng nối các máy tính trong phạm vi 1 tòa nhà",
+        "Tốc độ truyền dữ liệu cao",
+        "Tỷ lệ lỗi khi truyền thấp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Hệ điều hành nào dưới đây dành cho máy chủ?",
+      "options": [
+        "Windows XP",
+        "Windows 7",
+        "Windows Server 2008",
+        "Windows 8"
+      ],
+      "answer": "Windows Server 2008"
+    },
+    {
+      "question": "Thiết bị nào dưới đây có chức năng khuếch đại tín hiệu?",
+      "options": [
+        "Router",
+        "Repeater",
+        "NIC",
+        "Switch"
+      ],
+      "answer": "Repeater"
+    },
+    {
+      "question": "Thiết bị nào dưới đây chuyển đổi tín hiệu số thành analog và ngược lại?",
+      "options": [
+        "Router",
+        "Repeater",
+        "NIC",
+        "Modem"
+      ],
+      "answer": "Modem"
+    },
+    {
+      "question": "Thiết bị nào dưới đây có chức năng định tuyến?",
+      "options": [
+        "Router",
+        "Repeater",
+        "Bridge",
+        "Modem"
+      ],
+      "answer": "Router"
+    },
+    {
+      "question": "Đặc điểm của mạng hình sao?",
+      "options": [
+        "Tất cả các trạm được kết nối với một thiết bị trung tâm",
+        "Dễ dàng bổ sung hay loại bỏ bớt máy tính",
+        "Dễ dàng theo dõi và giải quyết sự cố",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Cáp xoắn đôi UTP gồm có bao nhiêu cặp dây?",
+      "options": [
+        "3 cặp",
+        "4 cặp",
+        "6 cặp",
+        "8 cặp"
+      ],
+      "answer": "4 cặp"
+    },
+    {
+      "question": "Thiết bị trung tâm dùng để kết nối mạng tính trong mạng hình sao là?",
+      "options": [
+        "Hub/Switch",
+        "NIC",
+        "Gateway",
+        "Bridge"
+      ],
+      "answer": "Hub/Switch"
+    },
+    {
+      "question": "Để kết nối PC tới PC ta dùng kiểu bấm cáp?",
+      "options": [
+        "Cáp thẳng",
+        "Cáp chéo",
+        "Cáp Rollover",
+        "Tất cả đều sai"
+      ],
+      "answer": "Cáp chéo"
+    },
+    {
+      "question": "Các thành phần tạo nên mạng?",
+      "options": [
+        "Máy tính, hub, switch",
+        "Network adapter, cable",
+        "Protocol",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Nhược điểm của mạng dạng hình sao?",
+      "options": [
+        "Khó cài đặt và bảo trì",
+        "Khó khắc phục khi lỗi cáp xảy ra, và ảnh hưởng tới các nút mạng khác",
+        "Cần nhiều cáp để kết nối tới nút mạng trung tâm",
+        "Không có khả năng thay đổi khi đã lắp đặt"
+      ],
+      "answer": "Cần nhiều cáp để kết nối tới nút mạng trung tâm"
+    },
+    {
+      "question": "Chọn định nghĩa đúng về địa chỉ MAC?",
+      "options": [
+        "Được ghi sẵn trên thiết bị mạng",
+        "Do người quản trị mạng khai báo",
+        "Có thể thay đổi",
+        "Gồm 4 byte"
+      ],
+      "answer": "Được ghi sẵn trên thiết bị mạng"
+    },
+    {
+      "question": "Mô hình OSI gồm bao nhiêu tầng?",
+      "options": [
+        "4 tầng",
+        "5 tầng",
+        "6 tầng",
+        "7 tầng"
+      ],
+      "answer": "7 tầng"
+    },
+    {
+      "question": "Khi dữ liệu được đóng gói, thứ tự nào là đúng?",
+      "options": [
+        "Segment, data, frame, packet, bit",
+        "Data, segment, packet, frame, bit",
+        "Segment, packet, data, frame, bit",
+        "Data, segment, frame, packet, bit"
+      ],
+      "answer": "Data, segment, packet, frame, bit"
+    },
+    {
+      "question": "Đặc điểm của mạng dạng đường thẳng?",
+      "options": [
+        "Tất cả các nút mạng kết nối vào nút mạng trung tâm",
+        "Tất cả kết nối trên cùng một đường truyền vật lý",
+        "Tất cả các nút mạng đều kết nối trực tiếp với nhau",
+        "Mỗi nút mạng kết nối với 2 nút mạng còn lại"
+      ],
+      "answer": "Tất cả các nút mạng đều kết nối trực tiếp với nhau"
+    },
+    {
+      "question": "Lệnh nào dùng để xem địa chỉ IP của máy tính?",
+      "options": [
+        "TCP/IP",
+        "IPCONFIG",
+        "IP",
+        "PING"
+      ],
+      "answer": "IPCONFIG"
+    },
+    {
+      "question": "Giao thức nào dưới đây là giao thức chuẩn trong kết nối Internet?",
+      "options": [
+        "NETBEUI",
+        "IPX/SPX",
+        "TCP/IP",
+        "Tất cả đều sai"
+      ],
+      "answer": "TCP/IP"
+    },
+    {
+      "question": "Dịch vụ DHCP dùng để?",
+      "options": [
+        "Cấp địa chỉ IP cho máy trạm",
+        "Phân giải tên miền và địa chỉ IP",
+        "Truyền file qua mạng",
+        "Gửi thư điện tử"
+      ],
+      "answer": "Cấp địa chỉ IP cho máy trạm"
+    },
+    {
+      "question": "Dịch vụ DNS dùng để?",
+      "options": [
+        "Cấp địa chỉ IP cho máy trạm",
+        "Phân giải tên miền và địa chỉ IP",
+        "Truyền file qua mạng",
+        "Gửi thư điện tử"
+      ],
+      "answer": "Phân giải tên miền và địa chỉ IP"
+    },
+    {
+      "question": "Khi soạn thảo Email muốn đính kèm tập tin chúng ta chọn?",
+      "options": [
+        "Send",
+        "Copy",
+        "Attachment",
+        "File/save"
+      ],
+      "answer": "Attachment"
+    },
+    {
+      "question": "Mạng Internet ra đời năm nào?",
+      "options": [
+        "1965",
+        "1969",
+        "1978",
+        "1984"
+      ],
+      "answer": "1969"
+    },
+    {
+      "question": "Dịch vụ Internet được cung cấp chính thức ở Việt Nam năm?",
+      "options": [
+        "1986",
+        "1990",
+        "1997",
+        "2000"
+      ],
+      "answer": "1997"
+    },
+    {
+      "question": "ARPANET là?",
+      "options": [
+        "Tiền thân của mạng Internet",
+        "Một chuẩn mạng cục bộ",
+        "Một chuẩn mạng diện rộng",
+        "Mô hình phân tầng"
+      ],
+      "answer": "Tiền thân của mạng Internet"
+    },
+    {
+      "question": "TCP/IP có bao nhiêu tầng?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Nhà cung cấp dịch vụ Internet được viết tắt là?",
+      "options": [
+        "IAP",
+        "IIS",
+        "ISP",
+        "ICP"
+      ],
+      "answer": "ISP"
+    },
+    {
+      "question": "Lệnh PING dùng để?",
+      "options": [
+        "Tìm IP address của 1 computer hoặc website",
+        "Kiểm tra cấu hình máy tính",
+        "Kiểm tra các máy tính trong mạng có liên thông không",
+        "Xem danh sách các máy tính trong mạng"
+      ],
+      "answer": "Kiểm tra các máy tính trong mạng có liên thông không"
+    },
+    {
+      "question": "Phần mềm nào dưới đây không phải là trình duyệt?",
+      "options": [
+        "Cốc Cốc",
+        "Firefox",
+        "Safari",
+        "VLC Player"
+      ],
+      "answer": "VLC Player"
+    },
+    {
+      "question": "Nút BACK trên trình duyệt dùng để?",
+      "options": [
+        "Trở lại trang trước",
+        "Đi đến trang kế tiếp",
+        "Truy cập lịch sử duyệt web",
+        "Về trang chủ"
+      ],
+      "answer": "Trở lại trang trước"
+    },
+    {
+      "question": "Phần mềm nào dưới đây dùng để tăng tốc tải tập tin trên mạng?",
+      "options": [
+        "Windows Media Player",
+        "Internet Download Manager",
+        "Chrome",
+        "Instagram"
+      ],
+      "answer": "Internet Download Manager"
+    },
+    {
+      "question": "Chức năng CC trong soạn thảo email là?",
+      "options": [
+        "Gửi cho người thứ nhất",
+        "Gửi một bản copy đến một hay nhiều người khác",
+        "Gửi thư nháp",
+        "Gửi tập tin đính kèm"
+      ],
+      "answer": "Gửi một bản copy đến một hay nhiều người khác"
+    },
+    {
+      "question": "Địa chỉ email nào dưới đây là hợp lệ?",
+      "options": [
+        "hoevien$duytan.edu.vn",
+        "hoevien@duytan.edu.vn",
+        "hoevien@duytan.edu.vn",
+        "hoevien.duytan.edu.vn"
+      ],
+      "answer": "hoevien@duytan.edu.vn"
+    },
+    {
+      "question": "Trong Windows 7 có thể chia sẻ tối đa bao nhiêu user truy cập đồng thời?",
+      "options": [
+        "10 user",
+        "20 user",
+        "50 user",
+        "Không hạn chế số lượng"
+      ],
+      "answer": "20 user"
+    },
+    {
+      "question": "Cách tạo mới một user trong Windows?",
+      "options": [
+        "My Computer - Manage - Local Users and Groups - Users - New User - Nhập thông tin - Create",
+        "My Computer - Manage - Local Users and Groups - Groups - New User - Nhập thông tin - Create",
+        "My Computer - Manage - Local Users and Groups - New Group - Nhập thông tin - Create",
+        "My Computer - Manage - Local Users and Groups - New User - Nhập thông tin - Create"
+      ],
+      "answer": "My Computer - Manage - Local Users and Groups - Users - New User - Nhập thông tin - Create"
+    },
+    {
+      "question": "Cách đổi mật khẩu một user trong Windows?",
+      "options": [
+        "My Computer - Manage - Local Users and Groups - Users - Chọn user cần đổi - Set Password - Proceed - Nhập password mới - OK",
+        "My Computer - Manage - Local Users and Groups - Chọn user cần đổi - Set Password - Proceed - Nhập password mới - OK",
+        "My Computer - Manage - Local Users and Groups - Groups - Chọn user cần đổi - Set Password - Proceed - Nhập -",
+        "My Computer - Manage - Local Users and Groups - Users - Chọn user cần đổi - Delete - Yes"
+      ],
+      "answer": "My Computer - Manage - Local Users and Groups - Users - Chọn user cần đổi - Set Password - Proceed - Nhập password mới - OK"
+    },
+    {
+      "question": "Administrator là tài khoản?",
+      "options": [
+        "Có quyền quản trị cao nhất",
+        "Tài khoản khách",
+        "Tài khoản chia sẻ",
+        "Tài khoản bị giới hạn"
+      ],
+      "answer": "Có quyền quản trị cao nhất"
+    },
+    {
+      "question": "Để điều khiển máy tính từ xa trong mạng LAN, ta thường sử dụng phần mềm nào?",
+      "options": [
+        "Remote Desktop Connection",
+        "TeamViewer",
+        "Chrome",
+        "VLC Player"
+      ],
+      "answer": "Remote Desktop Connection"
+    },
+    {
+      "question": "Để lưu lại liên kết những trang web hay trên Chrome/Firefox ta sử dụng?",
+      "options": [
+        "Bookmark",
+        "Favourite",
+        "Download",
+        "Private Browsing"
+      ],
+      "answer": "Bookmark"
+    },
+    {
+      "question": "Lợi ích của phần mềm Internet Download Manager?",
+      "options": [
+        "Tải với tốc độ tối đa đường truyền tải",
+        "Resume tải các tệp tin khi bị gián đoạn",
+        "Lên tải các tệp tin",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Trong trình duyệt Chrome, để di chuyển giữa các Tab ta sử dụng phím?",
+      "options": [
+        "Ctrl + Tab",
+        "Ctrl + F4",
+        "Ctrl + W",
+        "Ctrl + J"
+      ],
+      "answer": "Ctrl + Tab"
+    },
+    {
+      "question": "Địa chỉ IP v4 gồm có bao nhiêu byte?",
+      "options": [
+        "4 byte",
+        "5 byte",
+        "8 byte",
+        "32 byte"
+      ],
+      "answer": "4 byte"
+    },
+    {
+      "question": "Octet đầu tiên của một địa chỉ IP có dạng nhị phân là 01010101. Vậy nó thuộc lớp nào?",
+      "options": [
+        "Lớp A",
+        "Lớp B",
+        "Lớp C",
+        "Lớp D"
+      ],
+      "answer": "Lớp A"
+    },
+    {
+      "question": "Một địa chỉ IP là: 183.207.228.121. Vậy nó thuộc lớp nào?",
+      "options": [
+        "Lớp A",
+        "Lớp B",
+        "Lớp C",
+        "Lớp D"
+      ],
+      "answer": "Lớp B"
+    },
+    {
+      "question": "Địa chỉ IP nào dưới đây là Private IP?",
+      "options": [
+        "10.5.0.188",
+        "97.77.104.22",
+        "117.169.66.230",
+        "213.136.79.132"
+      ],
+      "answer": "10.5.0.188"
+    },
+    {
+      "question": "Địa chỉ IP nào dưới đây là Public IP?",
+      "options": [
+        "10.5.1.1",
+        "172.16.0.1",
+        "192.168.1.15",
+        "123.30.215.27"
+      ],
+      "answer": "123.30.215.27"
+    },
+    {
+      "question": "Lớp A có tối đa bao nhiêu host trên mỗi mạng?",
+      "options": [
+        "16.777,216",
+        "65,535",
+        "254",
+        "128"
+      ],
+      "answer": "16.777,216"
+    },
+    {
+      "question": "Số nhị phân 10111100 đổi ra thập phân là?",
+      "options": [
+        "187",
+        "188",
+        "189",
+        "190"
+      ],
+      "answer": "188"
+    },
+    {
+      "question": "Cấu trúc 1 địa chỉ Email là?",
+      "options": [
+        "<tên người dùng>@<tên miền>",
+        "<tên người dùng>@",
+        "<tên người dùng> <tên miền>",
+        "<tên người dùng>, <tên miền>"
+      ],
+      "answer": "<tên người dùng>@<tên miền>"
+    },
+    {
+      "question": "TCP/IP là viết tắt của?",
+      "options": [
+        "Transmission Control Protocol/Internet Protocol",
+        "Transmission Control Panel/Internet Protocol",
+        "Transmission Control Protype/Internet Protype",
+        "Transmission Control Protocol/Internet Protype"
+      ],
+      "answer": "Transmission Control Protocol/Internet Protocol"
+    },
+    {
+      "question": "Địa chỉ muachung.com có nghĩa là?",
+      "options": [
+        "Địa chỉ của trang web thương mại",
+        "Đọc địa chỉ của trang web giáo dục",
+        "Địa chỉ trang web quân sự",
+        "Địa chỉ trang web giải trí"
+      ],
+      "answer": "Địa chỉ của trang web thương mại"
+    },
+    {
+      "question": "WWW viết tắt của gì?",
+      "options": [
+        "Word Wide Web",
+        "World Wide Web",
+        "Web Wide World",
+        "Win Word Web"
+      ],
+      "answer": "World Wide Web"
+    },
+    {
+      "question": "Những phần mềm nào dùng để duyệt web?",
+      "options": [
+        "Chrome",
+        "Cốc Cốc",
+        "Firefox",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "HTTP là gì?",
+      "options": [
+        "Giao thức truyền tải siêu văn bản",
+        "Ngôn ngữ soạn thảo web",
+        "Tên của trang web",
+        "Địa chỉ của trang web"
+      ],
+      "answer": "Giao thức truyền tải siêu văn bản"
+    },
+    {
+      "question": "Cổng nối cable UTP giữa PC với Router ADSL là cổng nào?",
+      "options": [
+        "RJ45",
+        "RJ11",
+        "PS2",
+        "USB"
+      ],
+      "answer": "RJ45"
+    },
+    {
+      "question": "Thiết bị để kết nối mạng WiFi là thiết bị nào sau đây?",
+      "options": [
+        "Access Point",
+        "Modem",
+        "Router",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Access Point"
+    },
+    {
+      "question": "Thiết bị cung cấp Internet cho gia đình là thiết bị nào sau đây?",
+      "options": [
+        "Router ADSL",
+        "Access Point",
+        "Hub",
+        "Switch"
+      ],
+      "answer": "Router ADSL"
+    },
+    {
+      "question": "Thiết bị để kết nối nhiều PC thành mạng LAN là thiết bị nào sau đây?",
+      "options": [
+        "Switch",
+        "Router ADSL",
+        "UPS",
+        "Filter"
+      ],
+      " Hawkins": "Switch"
+    },
+    {
+      "question": "Sợi cáp UTP Cat5/5e cần bao nhiêu đầu RJ45 để kết nối PC với Router?",
+      "options": [
+        "2 đầu",
+        "1 đầu",
+        "3 đầu",
+        "4 đầu"
+      ],
+      "answer": "2 đầu"
+    },
+    {
+      "question": "Đèn Link của Router ADSL không sáng. Lỗi này có thể là lỗi nào sau đây?",
+      "options": [
+        "Hỏng dây điện thoại",
+        "Hỏng dây cáp",
+        "Hỏng đầu RJ45",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Hỏng dây điện thoại"
+    },
+    {
+      "question": "Đèn Data của Router ADSL không sáng. Lỗi này có thể là lỗi nào sau đây?",
+      "options": [
+        "Kết nối về ISP bị lỗi",
+        "Hỏng dây điện thoại",
+        "Hỏng đầu RJ45",
+        "Hỏng dây cáp"
+      ],
+      "answer": "Kết nối về ISP bị lỗi"
+    },
+    {
+      "question": "Icon LAN (nằm dưới system bar) bị dấu chéo đỏ. Lỗi này có thể là lỗi nào sau đây?",
+      "options": [
+        "Hỏng cáp",
+        "Hỏng dây điện thoại",
+        "Kết nối về ISP bị lỗi",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Hỏng cáp"
+    },
+    {
+      "question": "Icon LAN (nằm dưới system bar) bị dấu chấm than vàng. Lỗi này có thể là lỗi nào sau đây?",
+      "options": [
+        "Lỗi thiết lập địa chỉ IP",
+        "Hỏng cáp",
+        "Hỏng dây điện thoại",
+        "Kết nối về ISP bị lỗi"
+      ],
+      "answer": "Lỗi thiết lập địa chỉ IP"
+    },
+    {
+      "question": "Thiết bị nào giúp PC nối với cáp mạng?",
+      "options": [
+        "NIC",
+        "VGA",
+        "RAM",
+        "CPU"
+      ],
+      "answer": "NIC"
+    },
+    {
+      "question": "Router ADSL có IP là 192.168.1.1 và PC có IP là 192.168.2.2 có thể nối mạng LAN với nhau?",
+      "options": [
+        "Có",
+        "Không",
+        "Có, nhưng phải đổi cáp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Router ADSL có IP là 172.16.1.1 và PC có IP là 172.17.1.1 có thể nối mạng LAN với nhau?",
+      "options": [
+        "Có",
+        "Không",
+        "Có, nhưng phải đổi cáp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có"
+    },
+    {
+      "question": "Router ADSL có IP là 10.0.0.1 và PC có IP là 10.1.1.1 có thể nối mạng LAN với nhau?",
+      "options": [
+        "Không",
+        "Có",
+        "Có, nhưng phải đổi cáp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Không"
+    },
+    {
+      "question": "Giao thức sử dụng chính cho mạng LAN hiện nay là giao thức nào?",
+      "options": [
+        "TCP/IP",
+        "IPX/SPX",
+        "Apple Talk",
+        "X.25"
+      ],
+      "answer": "TCP/IP"
+    },
+    {
+      "question": "Giao thức sử dụng chính cho mạng Internet hiện nay là giao thức nào?",
+      "options": [
+        "TCP/IP",
+        "IPX/SPX",
+        "Apple Talk",
+        "X.25"
+      ],
+      "answer": "TCP/IP"
+    },
+    {
+      "question": "Giao thức TCP/IP có bao nhiêu phiên bản hiện nay?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Dịch vụ dùng để chuyển đổi tên miền với địa chỉ IP là dịch vụ nào?",
+      "options": [
+        "DNS",
+        "DHCP",
+        "VoIP",
+        "Email"
+      ],
+      "answer": "DNS"
+    },
+    {
+      "question": "Dịch vụ dùng để cấp phát động địa chỉ IP là dịch vụ nào?",
+      "options": [
+        "DHCP",
+        "DNS",
+        "VoIP",
+        "Email"
+      ],
+      "answer": "DHCP"
+    },
+    {
+      "question": "Địa chỉ IP thiết lập cho PC dùng để làm gì?",
+      "options": [
+        "Định danh trạm",
+        "Thiết lập tên máy",
+        "Thiết lập mạng con",
+        "Chỉ định trạm Routing"
+      ],
+      "answer": "Định danh trạm"
+    },
+    {
+      "question": "Địa chỉ Subnet Mask thiết lập cho PC dùng để làm gì?",
+      "options": [
+        "Thiết lập mạng con",
+        "Định danh trạm",
+        "Thiết lập tên máy",
+        "Chỉ định trạm Routing"
+      ],
+      "answer": "Thiết lập mạng con"
+    },
+    {
+      "question": "Địa chỉ Default Gateway thiết lập cho PC dùng để làm gì?",
+      "options": [
+        "Chỉ định trạm Routing",
+        "Thiết lập mạng con",
+        "Định danh trạm",
+        "Thiết lập tên máy"
+      ],
+      "answer": "Chỉ định trạm Routing"
+    },
+    {
+      "question": "Địa chỉ DNS thiết lập cho PC dùng để làm gì?",
+      "options": [
+        "Chỉ định trạm phân giải tên miền",
+        "Chỉ định trạm Routing",
+        "Định danh trạm",
+        "Thiết lập tên máy"
+      ],
+      "answer": "Chỉ định trạm phân giải tên miền"
+    },
+    {
+      "question": "Nếu PC thiết lập thiếu địa chỉ DNS thì PC có thể sử dụng Internet được hay không?",
+      "options": [
+        "Không",
+        "Được",
+        "Được, nhưng phải đổi cáp",
+        "Được, nhưng phải có địa chỉ IP"
+      ],
+      "answer": "Không"
+    },
+    {
+      "question": "Nếu PC thiết lập thiếu địa chỉ Default Gateway thì PC có thể sử dụng Internet được hay không?",
+      "options": [
+        "Không",
+        "Được",
+        "Được, nhưng phải đổi cáp",
+        "Được, nhưng phải có địa chỉ IP"
+      ],
+      "answer": "Không"
+    },
+    {
+      "question": "Để kiểm tra lưu lượng mạng Internet đã sử dụng, người dùng cần phải có những gì?",
+      "options": [
+        "Tên và mật khẩu tài khoản với ISP",
+        "Địa chỉ IP do ISP cấp",
+        "Thiết bị mạng do ISP cấp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tên và mật khẩu tài khoản với ISP"
+    },
+    {
+      "question": "Để cài đặt Internet trên Router ADSL, ta cần biết thông tin nào sau đây?",
+      "options": [
+        "Tên và mật khẩu tài khoản với ISP",
+        "Địa chỉ IP do ISP cấp",
+        "ID thiết bị mạng do ISP cấp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tên và mật khẩu tài khoản với ISP"
+    },
+    {
+      "question": "Để cài đặt Internet trên Router ADSL, ta cần biết thông tin nào sau đây?",
+      "options": [
+        "Thông số PVI/PCI của ISP",
+        "Địa chỉ IP của PC",
+        "Địa chỉ IP do ISP cấp",
+        "ID thiết bị mạng do ISP cấp"
+      ],
+      "answer": "Thông số PVI/PCI của ISP"
+    },
+    {
+      "question": "Để cài đặt Internet trên Router ADSL, ta cần biết thông tin nào sau đây?",
+      "options": [
+        "Địa chỉ IP của Router ADSL",
+        "Địa chỉ IP của PC",
+        "Địa chỉ IP do ISP cấp",
+        "ID thiết bị mạng do ISP cấp"
+      ],
+      "answer": "Địa chỉ IP của Router ADSL"
+    },
+    {
+      "question": "Để cài đặt Internet trên Router ADSL, ta cần biết thông tin nào sau đây?",
+      "options": [
+        "Tên và mật khẩu tài khoản đăng nhập Router ADSL",
+        "Địa chỉ IP của PC",
+        "Địa chỉ IP do ISP cấp",
+        "ID thiết bị mạng do ISP cấp"
+      ],
+      "answer": "Tên và mật khẩu tài khoản đăng nhập Router ADSL"
+    },
+    {
+      "question": "Card mạng lắp trên PC có thể dùng không dây được hay không?",
+      "options": [
+        "Được",
+        "Không",
+        "Được, nhưng phải của hãng LinkSys",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Được"
+    },
+    {
+      "question": "Chuẩn WiFi 802.11b có tốc độ truy cập mạng là bao nhiêu?",
+      "options": [
+        "11 Mbps",
+        "54 Mbps",
+        "100 Mbps",
+        "1000 Mbps"
+      ],
+      "answer": "11 Mbps"
+    },
+    {
+      "question": "Chuẩn WiFi 802.11g có tốc độ truy cập bao nhiêu?",
+      "options": [
+        "54 Mbps",
+        "11 Mbps",
+        "100 Mbps",
+        "1000 Mbps"
+      ],
+      "answer": "54 Mbps"
+    },
+    {
+      "question": "Chuẩn WiFi 802.11n có tốc độ truy cập bao nhiêu?",
+      "options": [
+        "Trên 100 Mbps",
+        "54 Mbps",
+        "11 Mbps",
+        "Trên 1000 Mbps"
+      ],
+      "answer": "Trên 100 Mbps"
+    },
+    {
+      "question": "Cáp dây UTP Cat5/5e dùng cho mạng LAN có tốc độ truy cập bao nhiêu?",
+      "options": [
+        "100 Mbps",
+        "11 Mbps",
+        "1000 Mbps",
+        "54 Mbps"
+      ],
+      "answer": "100 Mbps"
+    },
+    {
+      "question": "Cáp dây UTP Cat6 dùng cho mạng LAN có tốc độ bao nhiêu",
+      "options": [
+        "1000 Mbps",
+        "11 Mbps",
+        "100 Mbps",
+        "54 Mbps"
+      ],
+      "answer": "1000 Mbps"
+    },
+    {
+      "question": "Laptop có thể vừa sử dụng card mạng có dây và không dây được hay không?",
+      "options": [
+        "Được",
+        "Không",
+        "Được, nhưng phải của hãng LinkSys",
+        "Được, nhưng thiết bị phải do ISP cấp"
+      ],
+      "answer": "Được"
+    },
+    {
+      "question": "Có thể sử dụng được bao nhiêu thiết bị Access Point (WiFi) trong nhà?",
+      "options": [
+        "Không giới hạn",
+        "Chỉ 1 thiết bị",
+        "Nhiều thiết bị, nhưng phải do ISP cấp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Không giới hạn"
+    },
+    {
+      "question": "Router ADSL có thể tích hợp chung với Access Point được hay không?",
+      "options": [
+        "Được",
+        "Không",
+        "Được, nhưng phải của hãng LinkSys",
+        "Được, nhưng thiết bị phải do ISP cấp"
+      ],
+      "answer": "Được"
+    },
+    {
+      "question": "Router ADSL có cấm một số địa chỉ IP truy cập về nó được hay không?",
+      "options": [
+        "Được",
+        "Không",
+        "Được, nhưng phải của hãng LinkSys",
+        "Được, nhưng thiết bị phải do ISP cấp"
+      ],
+      "answer": "Được"
+    },
+    {
+      "question": "Router ADSL có cấm một số địa chỉ MAC truy cập về nó được hay không?",
+      "options": [
+        "Được",
+        "Không",
+        "Được, nhưng phải của hãng LinkSys",
+        "Được, nhưng thiết bị phải do ISP cấp"
+      ],
+      "answer": "Được"
+    }
+  ]
+}

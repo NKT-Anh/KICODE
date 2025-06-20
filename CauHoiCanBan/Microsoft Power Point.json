@@ -1,0 +1,994 @@
+{
+  "questions": [
+    {
+      "question": "MS Powerpoint: Muốn trình diễn tài liệu được soạn thảo, ta thực hiện",
+      "options": [
+        "File - View Show",
+        "Window - View Show",
+        "Slide Show - View Show",
+        "Tools - View Show"
+      ],
+      "answer": "Slide Show - View Show"
+    },
+    {
+      "question": "MS Powerpoint: Để thêm một Slide mới vào, ta thực hiện",
+      "options": [
+        "Home - New Slide",
+        "Design - New Slide",
+        "Slide Show - New Slide",
+        "Insert - New Slide"
+      ],
+      "answer": "Insert - New Slide"
+    },
+    {
+      "question": "MS Powerpoint: Để thay đổi thiết kế của Slide, ta thực hiện",
+      "options": [
+        "Home - Themes",
+        "Design - Themes",
+        "Slide Show - Themes",
+        "Insert - Themes"
+      ],
+      "answer": "Design - Themes"
+    },
+    {
+      "question": "MS Powerpoint: Để thiết lập hiệu ứng cho đối tượng trong 1 slide, ta thực hiện",
+      "options": [
+        "Transition - chọn hiệu ứng",
+        "Design - chọn hiệu ứng",
+        "Slide Show - chọn hiệu ứng",
+        "Animations - chọn hiệu ứng"
+      ],
+      "answer": "Animations - chọn hiệu ứng"
+    },
+    {
+      "question": "MS Powerpoint: Một đối tượng trong 1 slide có thể thiết lập bao nhiêu hiệu ứng",
+      "options": [
+        "1",
+        "Nhiều",
+        "3",
+        "2"
+      ],
+      "answer": "Nhiều"
+    },
+    {
+      "question": "MS Powerpoint: Để xóa hiệu ứng đã thiết lập cho đối tượng, ta thực hiện",
+      "options": [
+        "Animations - Animation Pane, rồi chọn delete",
+        "Animations - Animation Pane, rồi chọn Remove",
+        "Cả 2 đều đúng",
+        "Cả 2 đều sai"
+      ],
+      "answer": "Animations - Animation Pane, rồi chọn Remove"
+    },
+    {
+      "question": "MS Powerpoint: Để chạy Slide ta cần chọn",
+      "options": [
+        "Nhấn F5",
+        "View/ Slide Show",
+        "Cả hai đều đúng",
+        "Cả hai đều sai"
+      ],
+      "answer": "Cả hai đều đúng"
+    },
+    {
+      "question": "MS Powerpoint: Để tạo hiệu ứng chuyển tiếp giữa các slide ta vào slide show chọn",
+      "options": [
+        "Slide Transition",
+        "View Show",
+        "Custom Animation",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Slide Transition"
+    },
+    {
+      "question": "MS Powerpoint: Để tạo slide mới",
+      "options": [
+        "Nhấn Ctrl + M",
+        "Nhấn F5",
+        "Cả hai đúng",
+        "Cả hai sai"
+      ],
+      "answer": "Nhấn Ctrl + M"
+    },
+    {
+      "question": "MS Powerpoint: Để lưu các slide ta phải",
+      "options": [
+        "Nhấn Ctrl + S",
+        "File / Save",
+        "Cả hai đúng",
+        "Cả hai sai"
+      ],
+      "answer": "Cả hai đúng"
+    },
+    {
+      "question": "MS Powerpoint: Số lượng các slide của 1 bài",
+      "options": [
+        "Tùy ý",
+        "Từ 1 đến 3 Slide",
+        "Từ 3 Slide trở lên",
+        "Số Slide không được vượt quá 100"
+      ],
+      "answer": "Tùy ý"
+    },
+    {
+      "question": "MS Powerpoint: Tạo hiệu ứng hoạt hình cho slide ta vào slide show chọn",
+      "options": [
+        "Custom Animation",
+        "Preset Animation",
+        "Custom Show",
+        "Cả 3 đều sai"
+      ],
+      "answer": "Custom Animation"
+    },
+    {
+      "question": "MS Powerpoint: Chọn kiểu slide",
+      "options": [
+        "Format / Slide Layout",
+        "Common Tasks / Slide Layout",
+        "Cả hai đúng",
+        "Cả hai sai"
+      ],
+      "answer": "Cả hai đúng"
+    },
+    {
+      "question": "MS Powerpoint: Để sử dụng màu nền có sẵn từ các mẫu cho các slide ta vào format chọn",
+      "options": [
+        "Apply Design Template",
+        "Background",
+        "Cả hai đúng",
+        "Cả hai sai"
+      ],
+      "answer": "Apply Design Template"
+    },
+    {
+      "question": "MS Powerpoint: Để thực thi các slide",
+      "options": [
+        "F5",
+        "View / Slide Show",
+        "Click vào biểu tượng hình màn chiếu",
+        "Tất cả đúng"
+      ],
+      "answer": "Tất cả đúng"
+    },
+    {
+      "question": "MS Powerpoint: Để tạo màu nền cho slide",
+      "options": [
+        "Format / Background",
+        "Format / Font",
+        "Cả hai đúng",
+        "Cả hai sai"
+      ],
+      "answer": "Format / Background"
+    },
+    {
+      "question": "MS Powerpoint: Trong trình soạn thảo trình chiếu MS Powerpoint, mục Design cho phép bạn",
+      "options": [
+        "Chèn và định dạng Picture cho trang trình chiếu",
+        "Chèn và định dạng Shape cho trang trình chiếu",
+        "Thiết kế và định dạng Theme, Background, Style cho trang trình chiếu",
+        "Thêm và định dạng Hiệu ứng của đối tượng trang trình chiếu"
+      ],
+      "answer": "Thiết kế và định dạng Theme, Background, Style cho trang trình chiếu"
+    },
+    {
+      "question": "MS Powerpoint: Trong trình soạn thảo trình chiếu MS Powerpoint, mục Transitions cho phép bạn",
+      "options": [
+        "Thêm và định dạng Hiệu ứng lật trang cho trang trình chiếu",
+        "Chèn và định dạng Shape cho trang trình chiếu",
+        "Thiết kế và định dạng Theme, Background, Style cho trang trình chiếu",
+        "Thêm và định dạng Hiệu ứng các đối tượng trang trình chiếu"
+      ],
+      "answer": "Thêm và định dạng Hiệu ứng lật trang cho trang trình chiếu"
+    },
+    {
+      "question": "MS Powerpoint: Thêm và định dạng Hiệu ứng các đối tượng trang trình chiếu",
+      "options": [
+        "Chèn và định dạng Picture cho trang trình chiếu",
+        "Thiết kế và định dạng Theme, Background, Style cho trang trình chiếu",
+        "Thêm và định dạng Hiệu ứng lật trang cho trang trình chiếu",
+        "Thêm và định dạng Hiệu ứng các đối tượng trang trình chiếu"
+      ],
+      "answer": "Thêm và định dạng Hiệu ứng các đối tượng trang trình chiếu"
+    },
+    {
+      "question": "MS Powerpoint: Trong trình soạn thảo trình chiếu MS Powerpoint, với mỗi đối tượng bạn có thể thêm bao nhiêu Hiệu ứng cho đối tượng đó?",
+      "options": [
+        "Một",
+        "Hai",
+        "Ba",
+        "Rất nhiều"
+      ],
+      "answer": "Rất nhiều"
+    },
+    {
+      "question": "MS Powerpoint: Trong bảng quản lý các Hiệu ứng (Animation Pane), bạn có thể",
+      "options": [
+        "Thay đổi thứ tự xuất hiện cho các hiệu ứng",
+        "Thiết lập thời gian diễn ra hiệu ứng",
+        "Cho phép số lần lặp lại hiệu ứng",
+        "Tất cả các ý trên"
+      ],
+      "answer": "Tất cả các ý trên"
+    },
+    {
+      "question": "MS Powerpoint: Chuyên mục nào sau đây không nằm trong phần hiệu ứng Animations của soạn thảo trình chiếu MS Powerpoint?",
+      "options": [
+        "Xuất hiện (Entrance)",
+        "Nội dung động (Dynamic Content)",
+        "Làm nổi bật (Emphasis)",
+        "Biến mất (Exit)"
+      ],
+      "answer": "Nội dung động (Dynamic Content)"
+    },
+    {
+      "question": "MS Powerpoint: Trong trình soạn thảo trình chiếu MS Powerpoint, để bắt đầu chạy trình chiếu thì bạn nhấn",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "F12",
+        "F7"
+      ],
+      "answer": "F5"
+    },
+    {
+      "question": "MS Powerpoint: Trong trình soạn thảo trình chiếu MS Powerpoint, để bắt đầu chạy trình chiếu từ Slide đang chọn thì bạn nhấn",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "Ctrl + N",
+        "Ctrl + M"
+      ],
+      "answer": "Shift + F5"
+    },
+    {
+      "question": "MS Powerpoint: Trong trình soạn thảo trình chiếu MS Powerpoint, để Copy Slide đang chọn",
+      "options": [
+        "Ctrl + W",
+        "Ctrl + M",
+        "Ctrl + D",
+        "Ctrl + S"
+      ],
+      "answer": "Ctrl + D"
+    },
+    {
+      "question": "MS Powerpoint: Trong trình soạn thảo trình chiếu MS Powerpoint, để thoát khỏi chế độ trình chiếu slide thì bạn nhấn",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "Esc",
+        "F12"
+      ],
+      "answer": "Esc"
+    },
+    {
+      "question": "MS Powerpoint: Sau khi đã thiết kế xong bài trình diễn, cách làm nào sau đây không phải để trình chiếu ngay bài trình diễn đó?",
+      "options": [
+        "Chọn Slide Show → Custom Show",
+        "Chọn Slide Show → View Show",
+        "Chọn View → Slide Show",
+        "Nhấn phim F5"
+      ],
+      "answer": "Chọn Slide Show → Custom Show"
+    },
+    {
+      "question": "MS Powerpoint: Thao tác chọn File → Close dùng để",
+      "options": [
+        "In tập tin hiện tại",
+        "Mở một tập tin nào đó",
+        "Đóng tập tin hiện tại",
+        "Thoát khỏi Powerpoint"
+      ],
+      "answer": "Đóng tập tin hiện tại"
+    },
+    {
+      "question": "MS Powerpoint: Sau khi đã chọn một đoạn văn bản, cách nào sau đây không phải để làm mất đi đoạn văn bản đó?",
+      "options": [
+        "Chọn Edit → Cut",
+        "Nhấn tổ hợp phím Alt + X",
+        "Nhấn phim Delete",
+        ""
+      ],
+      "answer": "Nhấn tổ hợp phím Alt + X"
+    },
+    {
+      "question": "MS Powerpoint: Đang trình chiếu một bài trình diễn, muốn dừng trình diễn ta nhấn phim",
+      "options": [
+        "Tab",
+        "Esc",
+        "Home",
+        "End"
+      ],
+      "answer": "Esc"
+    },
+    {
+      "question": "MS Powerpoint: Muốn mở một tập tin đã tồn tại trên đĩa, đầu tiên ta phải",
+      "options": [
+        "Chọn File → Open",
+        "Chọn File → New",
+        "Chọn File → Save",
+        "Chọn File → Save As"
+      ],
+      "answer": "Chọn File → Open"
+    },
+    {
+      "question": "MS Powerpoint: Để định dạng một dòng chữ vừa in đậm, vừa in nghiêng và gạch chân, ta thực hiện",
+      "options": [
+        "Đưa con trỏ văn bản vào giữa dòng chữ đó, nhấn Ctrl + U, Ctrl + I và Ctrl + I",
+        "Đưa con trỏ văn bản vào giữa dòng chữ đó, nhấn Ctrl + B, Ctrl + U và Ctrl + I",
+        "Chọn dòng chữ đó, nhấn Ctrl + U, Ctrl + I và Ctrl + B",
+        "Nhấn Ctrl + U, Ctrl + I và Ctrl + B"
+      ],
+      "answer": "Chọn dòng chữ đó, nhấn Ctrl + U, Ctrl + I và Ctrl + B"
+    },
+    {
+      "question": "MS Powerpoint: Để lưu lại tập tin GADT.PPT đang mở, ta có thể",
+      "options": [
+        "Chọn File → Save",
+        "Chọn File → Save As",
+        "Chọn File → Save hoặc File → Save As đều được",
+        "Chọn File → Close"
+      ],
+      "answer": "Chọn File → Save"
+    },
+    {
+      "question": "MS Powerpoint: Để hủy bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím",
+      "options": [
+        "Ctrl + X",
+        "Ctrl + Z",
+        "Ctrl + C",
+        "Ctrl + V"
+      ],
+      "answer": "Ctrl + Z"
+    },
+    {
+      "question": "MS Powerpoint: Thao tác chọn File → Open là để",
+      "options": [
+        "Mở một presentation đã có trên đĩa",
+        "Tạo mới một presentation để thiết kế bài trình diễn",
+        "Lưu lại presentation đang thiết kế",
+        "Lưu lại presentation đang thiết kế với một tên khác"
+      ],
+      "answer": "Mở một presentation đã có trên đĩa"
+    },
+    {
+      "question": "MS Powerpoint: Trong khi thiết kế giáo án điện tử, thực hiện thao tác chọn Insert → New Slide là để",
+      "options": [
+        "Chèn thêm một slide mới vào ngay trước slide hiện hành",
+        "Chèn thêm một slide mới vào ngay sau slide hiện hành",
+        "Chèn thêm một slide mới vào ngay trước slide đầu tiên",
+        "Chèn thêm một slide mới vào ngay sau slide cuối cùng"
+      ],
+      "answer": "Chèn thêm một slide mới vào ngay sau slide hiện hành"
+    },
+    {
+      "question": "MS Powerpoint: Thanh công cụ nào để thêm và xóa slide",
+      "options": [
+        "Normal View",
+        "Folder View",
+        "Status Bar",
+        "Reading View"
+      ],
+      "answer": "Normal View"
+    },
+    {
+      "question": "MS Powerpoint: Thanh công cụ nào để di chuyển thứ tự slide",
+      "options": [
+        "Normal View",
+        "Folder View",
+        "Status Bar",
+        "Reading View"
+      ],
+      "answer": "Normal View"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập nào dùng để thiết lập giao diện của slide",
+      "options": [
+        "Design",
+        "Transition",
+        "Animation",
+        "Review"
+      ],
+      "answer": "Design"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập nào dùng để thiết lập hiệu ứng chuyển slide",
+      "options": [
+        "Transition",
+        "Design",
+        "Animation",
+        "Review"
+      ],
+      "answer": "Transition"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập nào dùng để thiết lập hiệu ứng các đối tượng của slide",
+      "options": [
+        "Animation",
+        "Transition",
+        "Design",
+        "Review"
+      ],
+      "answer": "Animation"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập nào dùng để thiết lập liên kết đến các slide",
+      "options": [
+        "Hyperlink",
+        "Transition",
+        "Animation",
+        "Review"
+      ],
+      "answer": "Hyperlink"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập Animation - Entrance sẽ tạo hiệu ứng nào cho đối tượng",
+      "options": [
+        "Xuất hiện",
+        "Tại chỗ",
+        "Thoát",
+        "Di chuyển"
+      ],
+      "answer": "Xuất hiện"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập Animation - Emphasis sẽ tạo hiệu ứng nào cho đối tượng",
+      "options": [
+        "Tại chỗ",
+        "Xuất hiện",
+        "Thoát",
+        "Di chuyển"
+      ],
+      "answer": "Tại chỗ"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập Animation - Motion Path sẽ tạo hiệu ứng nào cho đối tượng",
+      "options": [
+        "Di chuyển",
+        "Tại chỗ",
+        "Thoát",
+        "Xuất hiện"
+      ],
+      "answer": "Di chuyển"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập Animation - Exit sẽ tạo hiệu ứng nào cho đối tượng",
+      "options": [
+        "Thoát",
+        "Tại chỗ",
+        "Xuất hiện",
+        "Di chuyển"
+      ],
+      "answer": "Thoát"
+    },
+    {
+      "question": "MS Powerpoint: Action Button dùng để làm gì",
+      "options": [
+        "Tạo liên kết",
+        "Tạo hiệu ứng",
+        "Tạo giao diện",
+        "Tạo định dạng slide"
+      ],
+      "answer": "Tạo liên kết"
+    },
+    {
+      "question": "MS Powerpoint: Tùy chọn Effect option của một kiểu Animation dùng để làm gì",
+      "options": [
+        "Thay đổi các thiết lập mặc định của hiệu ứng",
+        "Thay đổi kiểu kích chuột trên đối tượng",
+        "Thay đổi phím tắt trên đối tượng",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Thay đổi các thiết lập mặc định của hiệu ứng"
+    },
+    {
+      "question": "MS Powerpoint: Tùy chọn Timing của một kiểu Animation dùng để làm gì",
+      "options": [
+        "Thay đổi cách thực hiện hiệu ứng",
+        "Thay đổi các thiết lập mặc định của hiệu ứng",
+        "Thay đổi phím tắt trên đối tượng",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Thay đổi cách thực hiện hiệu ứng"
+    },
+    {
+      "question": "MS Powerpoint: Mục đích thiết lập Design cho các slide để đem lợi ích gì",
+      "options": [
+        "Giúp cho slide có giao diện đẹp, thu hút người xem",
+        "Giúp nhấn mạnh các ý báo cáo",
+        "Giúp slide hoạt động nhanh hơn",
+        "Giúp PC thể hiện tốt slide"
+      ],
+      "answer": "Giúp cho slide có giao diện đẹp, thu hút người xem"
+    },
+    {
+      "question": "MS Powerpoint: Mục đích thiết lập Transition cho các slide để đem lại lợi ích gì",
+      "options": [
+        "Giúp cho quá trình chuyển đổi slide gây được chú ý người xem",
+        "Giúp nhấn mạnh các ý báo cáo",
+        "Giúp slide hoạt động nhanh hơn",
+        "Giúp PC thể hiện tốt slide"
+      ],
+      "answer": "Giúp cho quá trình chuyển đổi slide gây được chú ý người xem"
+    },
+    {
+      "question": "MS Powerpoint: Mục đích thiết lập Animation cho các đối tượng trên slide để đem lại lợi ích gì",
+      "options": [
+        "Thiết lập trình tự xuất hiện nội dung trên một slide",
+        "Giúp cho slide có giao diện đẹp, thu hút người xem",
+        "Giúp slide hoạt động nhanh hơn",
+        "Giúp PC thể hiện tốt slide"
+      ],
+      "answer": "Thiết lập trình tự xuất hiện nội dung trên một slide"
+    },
+    {
+      "question": "MS Powerpoint: Mục đích thiết lập Animation cho các đối tượng trên slide để đem lại lợi ích gì",
+      "options": [
+        "Thiết lập trình tự xuất hiện nội dung trên một slide",
+        "Giúp cho slide có giao diện đẹp, thu hút người xem",
+        "Giúp slide hoạt động nhanh hơn",
+        "Giúp PC thể hiện tốt slide"
+      ],
+      "answer": "Thiết lập trình tự xuất hiện nội dung trên một slide"
+    },
+    {
+      "question": "MS Powerpoint: Mục đích thiết lập hiệu ứng Animation - Emphasis cho các đối tượng trên slide để đem lại lợi ích gì",
+      "options": [
+        "Nhấn mạnh các ý báo cáo đến người xem",
+        "Giúp cho slide có giao diện đẹp, thu hút người xem",
+        "Giúp slide hoạt động nhanh hơn",
+        "Giúp PC thể hiện tốt slide"
+      ],
+      "answer": "Nhấn mạnh các ý báo cáo đến người xem"
+    },
+    {
+      "question": "MS Powerpoint: Mục đích thiết lập hiệu ứng Animation - Emphasis cho các đối tượng trên slide để đem lại lợi ích gì",
+      "options": [
+        "Thay đổi vị trí của đối tượng, nhằm thể hiện một ý báo cáo",
+        "Giúp cho slide có giao diện đẹp, thu hút người xem",
+        "Giúp slide hoạt động nhanh hơn",
+        "Giúp PC thể hiện tốt slide"
+      ],
+      "answer": "Thay đổi vị trí của đối tượng, nhằm thể hiện một ý báo cáo"
+    },
+    {
+      "question": "MS Powerpoint: Mục đích thiết lập hiệu ứng Animation - Exit cho các đối tượng trên slide để đem lại lợi ích gì",
+      "options": [
+        "Giúp nội dung biến mất để nhấn mạnh các ý báo cáo",
+        "Giúp cho slide có giao diện đẹp, thu hút người xem",
+        "Giúp slide hoạt động nhanh hơn",
+        "Giúp PC thể hiện tốt slide"
+      ],
+      "answer": "Giúp nội dung biến mất để nhấn mạnh các ý báo cáo"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập nào cho phép các đối tượng tự động thực hiện hiệu ứng",
+      "options": [
+        "Tùy chọn Timing của hiệu ứng",
+        "Tùy chọn Effect option của hiệu ứng",
+        "Tùy chọn Animation của hiệu ứng",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tùy chọn Timing của hiệu ứng"
+    },
+    {
+      "question": "MS Powerpoint: Thiết lập nào cho phép kích chuột vào đối tượng để thực hiện hiệu ứng",
+      "options": [
+        "Trigger",
+        "Hyperlink",
+        "Action Button",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Trigger"
+    },
+    {
+      "question": "MS Powerpoint: Ta có thể thiết lập cho slide thực hiện hiệu ứng quay vòng liên tục",
+      "options": [
+        "Có thể",
+        "Không thể",
+        "Có thể, nhưng phải thiết lập giao diện slide",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có thể"
+    },
+    {
+      "question": "MS Powerpoint: Ta có thể thiết lập cho tập tin *.pptx tự thực hiện mà không cần mở theo ứng dụng MS Powerpoint",
+      "options": [
+        "Có thể",
+        "Không thể",
+        "Có thể, nhưng phải thiết lập giao diện slide",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Có thể"
+    },
+    {
+      "question": "MS Powerpoint: Nút lệnh ScreenShot có chức năng?",
+      "options": [
+        "Chèn video vào Slide",
+        "Chèn hình ảnh từ vị trí bất kỳ trong máy vào Slide",
+        "Chèn âm thanh vào Slide",
+        "Chụp ảnh màn hình để chèn vào Slide"
+      ],
+      "answer": "Chụp ảnh màn hình để chèn vào Slide"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để chèn file ảnh có sẵn trong máy tính vào Slide?",
+      "options": [
+        "Insert/ Word Art",
+        "Insert/ SmartArt",
+        "Insert/ Chart",
+        "Insert/ Picture"
+      ],
+      "answer": "Insert/ Picture"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để chèn hình vẽ vào Slide?",
+      "options": [
+        "Insert/ Equation",
+        "Insert/ Audio",
+        "Insert/ Video",
+        "Insert/ Shapes"
+      ],
+      "answer": "Insert/ Shapes"
+    },
+    {
+      "question": "MS Powerpoint: Lệnh Insert/ Shapes dùng để thực hiện công việc gì?",
+      "options": [
+        "Chèn công thức toán học vào Slide",
+        "Chèn video vào Slide",
+        "Chèn các file âm thanh vào Slide",
+        "Chèn hình vẽ vào Slide"
+      ],
+      "answer": "Chèn hình vẽ vào Slide"
+    },
+    {
+      "question": "MS Powerpoint: Để sao chép đối tượng đồ họa từ định dạng này sang định dạng khác, ta sử dụng công cụ nào sau đây?",
+      "options": [
+        "Paste Format",
+        "Paste All",
+        "Paste Painter",
+        "Paste Special"
+      ],
+      "answer": "Paste Special"
+    },
+    {
+      "question": "MS Powerpoint: Tùy chọn Lock Aspect Ratio cho phép",
+      "options": [
+        "Thay đổi tỷ lệ xoay 90 độ so với ban đầu",
+        "Khôi phục lại ảnh gốc",
+        "Thay đổi kích thước ảnh đồng thời biến đổi tỷ lệ ảnh gốc",
+        "Giữ nguyên tỷ lệ ảnh khi thay đổi kích thước"
+      ],
+      "answer": "Giữ nguyên tỷ lệ ảnh khi thay đổi kích thước"
+    },
+    {
+      "question": "MS Powerpoint: Để lật ngang ảnh, ta sử dụng tùy chọn nào sau đây?",
+      "options": [
+        "Flip Horizontal",
+        "Flip Vertical",
+        "Rotate Right 90",
+        "Rotate Left 90"
+      ],
+      "answer": "Flip Horizontal"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để chèn Công thức toán học vào Slide?",
+      "options": [
+        "Insert/ Equation",
+        "Insert/ Audio",
+        "Insert/ Video",
+        "Insert/ Chart"
+      ],
+      "answer": "Insert/ Equation"
+    },
+    {
+      "question": "MS Powerpoint: Lệnh Insert/ Equation dùng để thực hiện công việc gì?",
+      "options": [
+        "Chèn công thức toán học vào Slide",
+        "Chèn biểu đồ vào Slide",
+        "Chèn hình ảnh vào Slide",
+        "Chèn các file âm thanh vào Slide"
+      ],
+      "answer": "Chèn công thức toán học vào Slide"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để đánh số trang cho các Slide?",
+      "options": [
+        "Insert/ Slide Number",
+        "View/ Slide Number",
+        "Format/ Slide Number",
+        "Home/ Slide Number"
+      ],
+      "answer": "Insert/ Slide Number"
+    },
+    {
+      "question": "MS Powerpoint: Chèn chữ nghệ thuật WordArt?",
+      "options": [
+        "Vào Insert / WordArt",
+        "Vào Home / Insert WordArt",
+        "Vào Insert / Insert WordArt",
+        "Vào Slide / WordArt"
+      ],
+      "answer": "Vào Insert / WordArt"
+    },
+    {
+      "question": "MS Powerpoint: Để tạo tiêu đề cuối trang cho slide hiện tại?",
+      "options": [
+        "Insert/ Footer and Header/ Chọn Footer/ Nhập nội dung",
+        "Insert/ Footer and Header/ Chọn Date and Time/ Nhập nội dung",
+        "Insert/ Footer and Header/ Chọn Slide Number/ Nhập nội dung",
+        "Insert/ Footer and Header/ Chọn Slide/ Nhập nội dung"
+      ],
+      "answer": "Insert/ Footer and Header/ Chọn Footer/ Nhập nội dung"
+    },
+    {
+      "question": "MS Powerpoint: Để thay đổi đường viền (nét vẽ) của đối tượng, ta sử dụng tùy chọn nào sau đây?",
+      "options": [
+        "Shape Outline",
+        "Shape Fill",
+        "Shape Effects",
+        "Shape Position"
+      ],
+      "answer": "Shape Outline"
+    },
+    {
+      "question": "MS Powerpoint: Chọn phát biểu đúng?",
+      "options": [
+        "Có thể chỉnh sửa từng đối tượng sau khi gom nhóm chúng",
+        "Không thể chỉnh sửa từng đối tượng sau khi gom nhóm chúng",
+        "",
+        "Không thể di chuyển các đối tượng sau khi gom nhóm"
+      ],
+      "answer": "Có thể chỉnh sửa từng đối tượng sau khi gom nhóm chúng"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để đưa một đối tượng đồ họa lên trên một đối tượng khác?",
+      "options": [
+        "Vào Home/ Arrange/ Bring Forward",
+        "Vào Home/ Arrange/ Bring to Front",
+        "Vào Home/ Arrange/ Send Backward",
+        "Vào Home/ Arrange/ Sent to Back"
+      ],
+      "answer": "Vào Home/ Arrange/ Bring Forward"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để thiết lập hiệu ứng cho văn bản, hình ảnh...",
+      "options": [
+        "Animation/ chọn hiệu ứng",
+        "Insert/ chọn hiệu ứng",
+        "File/ chọn hiệu ứng",
+        "Home/ chọn hiệu ứng"
+      ],
+      "answer": "Animation/ chọn hiệu ứng"
+    },
+    {
+      "question": "MS Powerpoint: Chức năng Animations dùng để làm gì?",
+      "options": [
+        "Định dạng hiệu ứng cho các đối tượng trên slide",
+        "Định dạng kiểu lật trang cho các slide",
+        "Định dạng giao diện cho slide",
+        "Định dạng kiểu chữ cho slide"
+      ],
+      "answer": "Định dạng hiệu ứng cho các đối tượng trên slide"
+    },
+    {
+      "question": "MS Powerpoint: Sau khi chèn hiệu ứng cho đối tượng trên slide, muốn hiệu ứng xuất hiện đồng thời khi trình diễn, tại mục Start ta chọn?",
+      "options": [
+        "With Previous",
+        "After Previous",
+        "On Click",
+        "After Click"
+      ],
+      "answer": "With Previous"
+    },
+    {
+      "question": "MS Powerpoint: Hiệu ứng cho các đối tượng trên Slide gồm có nhóm nào sau đây?",
+      "options": [
+        "Tất cả đều sai",
+        "Exit, Entrance, Emphasis",
+        "Motion Path, Exit, Entrance",
+        "Motion Path, Exit, Emphasis"
+      ],
+      "answer": "Tất cả đều sai"
+    },
+    {
+      "question": "MS Powerpoint: Mục Effect Options của hiệu ứng chuyển đổi trạng REVEAL có bao nhiêu kiểu?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "MS Powerpoint: Chọn phát biểu sai?",
+      "options": [
+        "Hiệu ứng chuyển đổi các trang ORBIT thuộc nhóm Subtle",
+        "Vào Design / Page Setup... để cài đặt trang in, khổ giấy",
+        "Nhấn tổ hợp phím Shift + F9 để bật hoặc tắt khung lưới Gridlines",
+        "Biểu tượng mặt cười Smiley Face thuộc nhóm Basic Shapes"
+      ],
+      "answer": "Hiệu ứng chuyển đổi các trang ORBIT thuộc nhóm Subtle"
+    },
+    {
+      "question": "MS Powerpoint: Thao tác nào sau đây để chạy thử Slide hiện tại?",
+      "options": [
+        "Vào Transitions / Preview",
+        "Vào Home / Preview",
+        "Vào File / Preview",
+        "Vào Design / Preview"
+      ],
+      "answer": "Vào Transitions / Preview"
+    },
+    {
+      "question": "MS Powerpoint: Để thêm phần ghi chú cho trang thuyết trình, ta sử dụng kiểu hiển thị nào sau đây?",
+      "options": [
+        "Notes Page và Normal",
+        "Notes Page và Slide Sorter",
+        "Notes Page và Reading View",
+        "Slide Sorter và Normal"
+      ],
+      "answer": "Notes Page và Normal"
+    },
+    {
+      "question": "MS Powerpoint: Thao tác nào sau đây để in trang thuyết trình trên khổ giấy kiểu dọc?",
+      "options": [
+        "Vào Design/ Page Setup/ Orientation/ Notes, Handouts and Outline/ Portrait",
+        "Vào Design/ Page Setup/ Orientation/ Slide/ Portrait",
+        "Vào Design/ Slide Orientation/ Portrait",
+        "Vào Design/ Orientation/ Slide/ Portrait"
+      ],
+      "answer": "Vào Design/ Page Setup/ Orientation/ Notes, Handouts and Outline/ Portrait"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để ẩn một slide đã được chọn?",
+      "options": [
+        "Slide Show/ Hide Slide",
+        "Edit/ Hide Slide",
+        "Format/ Hide Slide",
+        "Insert/ Hide Slide"
+      ],
+      "answer": "Slide Show/ Hide Slide"
+    },
+    {
+      "question": "MS Powerpoint: Thao tác nào sau đây để bật tính năng kiểm tra chính tả?",
+      "options": [
+        "Vào Review/ Spelling/ Options/ Check spelling as you type",
+        "Vào View/ Spelling/ Options/ Check spelling as you type",
+        "Vào Review/ Spelling/ Options/ Check grammar as you type",
+        "Vào Review/ Spelling/ Check spelling as you type"
+      ],
+      "answer": "Vào Review/ Spelling/ Options/ Check spelling as you type"
+    },
+    {
+      "question": "MS Powerpoint: Trong phần Hyperlink ta chọn First Slide sẽ cho phép liên kết tới slide?",
+      "options": [
+        "Di chuyển về Slide đầu tiên",
+        "Di chuyển về Slide trước đó",
+        "Di chuyển về Slide tiếp theo",
+        "Di chuyển về Slide cuối cùng"
+      ],
+      "answer": "Di chuyển về Slide đầu tiên"
+    },
+    {
+      "question": "MS Powerpoint: Trong PowerPoint, tổ hợp Phím nào sau được dùng để in?",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + O",
+        "Ctrl + N",
+        "Ctrl + S"
+      ],
+      "answer": "Ctrl + P"
+    },
+    {
+      "question": "MS Powerpoint: Để thay đổi kích cỡ của trang thuyết trình phù hợp với màn hình trình chiếu, ta sử dụng tùy chọn nào sau đây?",
+      "options": [
+        "On-screen Show",
+        "35mm Slides",
+        "Overhead",
+        "Banner"
+      ],
+      "answer": "On-screen Show"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để in mỗi Slides trên một trang in?",
+      "options": [
+        "File/ Print/ Settings/ 1 Slide",
+        "File/ Print/ Notes Page",
+        "File/ Print/ 2 Slides",
+        "File/ Print/ Outline"
+      ],
+      "answer": "File/ Print/ Settings/ 1 Slide"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào dùng để trình chiếu từ slide đầu tiên?",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "Ctrl + F5",
+        "Alt + F5"
+      ],
+      "answer": "F5"
+    },
+    {
+      "question": "MS Powerpoint: Dùng phím nào để dừng trình chiếu?",
+      "options": [
+        "Esc",
+        "End",
+        "Home",
+        "Alt"
+      ],
+      "answer": "Esc"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào dùng để trình chiếu Slide?",
+      "options": [
+        "Slide Show/ From Beginning",
+        "View/ From Beginning",
+        "Insert/ From Beginning",
+        "File/ From Beginning"
+      ],
+      "answer": "Slide Show/ From Beginning"
+    },
+    {
+      "question": "MS Powerpoint: Thực hiện thao tác nào để lựa chọn nhiều Slide không liên tiếp trong một Presentation?",
+      "options": [
+        "Kích chọn vào 1 Slide cần chọn, giữ phím Shift và thực hiện việc kích chọn các Slide tiếp theo",
+        "Kích chọn vào 1 Slide, giữ phím Ctrl và thực hiện việc kích chọn các Slide khác",
+        "",
+        "Kích chọn vào 1 Slide, giữ phím Ctrl + Shift và thực hiện việc kích chọn các Slide tiếp theo"
+      ],
+      "answer": "Kích chọn vào 1 Slide, giữ phím Ctrl và thực hiện việc kích chọn các Slide khác"
+    },
+    {
+      "question": "MS Powerpoint: Để thêm 1 slide giống slide được chọn ta dùng tổ hợp phím lệnh nào sau đây?",
+      "options": [
+        "ALT + H + E + D",
+        "ALT + H + I + D",
+        "ALT + H + D + I",
+        "ALT + H + E + I"
+      ],
+      "answer": "ALT + H + I + D"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để xóa 1 Slide đã được chọn?",
+      "options": [
+        "Kích chuột phải vào Slide muốn xóa/ New Slide",
+        "Kích chuột phải vào Slide muốn xóa/ Delete Slide",
+        "Kích chuột phải vào Slide muốn xóa/ Duplicate Slide",
+        "Kích chuột phải vào Slide muốn xóa/ Add Section"
+      ],
+      "answer": "Kích chuột phải vào Slide muốn xóa/ Delete Slide"
+    },
+    {
+      "question": "MS Powerpoint: Chế độ hiển thị Outline là chế độ có tính năng nào sau đây?",
+      "options": [
+        "Cho phép hiển thị để xóa các slide nhanh hơn",
+        "Cho phép chỉ nhìn thấy chữ, không nhìn thấy hình",
+        "Cho phép chỉ hiển thị hình ảnh, không hiển thị chữ",
+        "Cho phép hiển thị để soạn thảo từng slide riêng biệt"
+      ],
+      "answer": "Cho phép chỉ nhìn thấy chữ, không nhìn thấy hình"
+    },
+    {
+      "question": "MS Powerpoint: Cách nào để hiển thị cửa sổ soạn thảo nội dung Slide?",
+      "options": [
+        "View/ Slide Sorter",
+        "View/ Normal",
+        "View/ Notes Page",
+        "View/ Reading View"
+      ],
+      "answer": "View/ Normal"
+    },
+    {
+      "question": "MS Powerpoint: Tổ hợp phím CTRL + H tương ứng với lựa chọn nào sau đây?",
+      "options": [
+        "Vào Home/ Reset",
+        "Vào Home/ Replace",
+        "Vào Insert/ Picture",
+        "Vào View/ Slide Master"
+      ],
+      "answer": "Vào Home/ Replace"
+    }
+  ]
+}

@@ -1,0 +1,1525 @@
+{
+  "topic": "Kiến thức chung về Tin học",
+  "questions": [
+    {
+      "question": "Kiến thức chung: Để tắt máy tính đúng cách ta chọn",
+      "options": [
+        "Tắt nguồn điện",
+        "Bấm nút Power trên hộp máy",
+        "Bấm nút Reset trên hộp máy",
+        "Nhấn nút Start ở góc dưới bên trái màn hình nền và chọn mục Shutdown"
+      ],
+      "answer": "Nhấn nút Start ở góc dưới bên trái màn hình nền và chọn mục Shutdown"
+    },
+    {
+      "question": "Kiến thức chung: Để phòng chống Virus cách tốt nhất là?",
+      "options": [
+        "Thường xuyên kiểm tra đĩa, đặc biệt thận trọng khi sao chép dữ liệu từ nơi khác mang tới",
+        "Sử dụng các chương trình quét virus nổi tiếng và phải cập nhật thường xuyên",
+        "Cả 2 đáp án trên đều đúng",
+        "Cả 2 đáp án trên đều sai"
+      ],
+      "answer": "Cả 2 đáp án trên đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Khi đặt tên tệp hoặc thư mục trong DOS không được sử dụng các ký tự nào sau đây?",
+      "options": [
+        ". ? $ \\ / : = < > [ ]",
+        "Các chữ số từ 0 đến 5",
+        "Các chữ cái từ A đến G",
+        "Các chữ và số đi cùng nhau"
+      ],
+      "answer": ". ? $ \\ / : = < > [ ]"
+    },
+    {
+      "question": "Kiến thức chung: Chọn câu trả lời thích hợp nhất: Tại sao phải định kỳ sử dụng công cụ chống phân mảnh đĩa cứng?",
+      "options": [
+        "Để ổ đĩa cứng máy tính lâu hỏng",
+        "Để tốc độ truy xuất dữ liệu từ đĩa cứng nhanh hơn",
+        "Để tạo ra nhiều không gian trống hơn trong đĩa cứng",
+        "Để nén dữ liệu trong đĩa cứng tốt hơn"
+      ],
+      "answer": "Để tốc độ truy xuất dữ liệu từ đĩa cứng nhanh hơn"
+    },
+    {
+      "question": "Kiến thức chung: Virus tin học thực chất là?",
+      "options": [
+        "Một loại vi sinh vật sống ký sinh trên các thiết bị vật lý của máy tính",
+        "Một kháng thể tồn tại bên ngoài không khí",
+        "Một đoạn chương trình có kích thước cực kỳ nhỏ bé nhưng lại bao hàm trong nó những chức năng rất đa dạng",
+        "A và B đều đúng"
+      ],
+      "answer": "Một đoạn chương trình có kích thước cực kỳ nhỏ bé nhưng lại bao hàm trong nó những chức năng rất đa dạng"
+    },
+    {
+      "question": "Kiến thức chung: Bạn đã cài đặt một đĩa mới để sử dụng nó. Mục đích của công việc định dạng là gì?",
+      "options": [
+        "Phục hồi dữ liệu bị mất trong đĩa",
+        "Tạo một đĩa chỉ đọc",
+        "Tạo một đĩa để đọc và chấp nhận dữ liệu"
+      ],
+      "answer": "Tạo một đĩa để đọc và chấp nhận dữ liệu"
+    },
+    {
+      "question": "Kiến thức chung: Các phát biểu sau, phát biểu nào đúng?",
+      "options": [
+        "Tên File không được chứa khoảng trống",
+        "Tên File không nên có dấu tiếng Việt",
+        "Tên File được dài trên 255 ký tự",
+        "Tên File được chấp nhận ký tự #"
+      ],
+      "answer": "Tên File không nên có dấu tiếng Việt"
+    },
+    {
+      "question": "Kiến thức chung: Khi nhận được một tệp tin qua email, bạn nên xử lý như thế nào để đảm bảo an toàn?",
+      "options": [
+        "Mở tệp tin này ra để kiểm tra loại tệp tin",
+        "Chuyển thư này cho ai đó mà bạn nghĩ rằng bạn có thể nhận biết được",
+        "Quét tệp tin này bằng chương trình chống virus",
+        "Lưu bản sao tệp tin này vào đĩa cứng và mở bản sao này"
+      ],
+      "answer": "Quét tệp tin này bằng chương trình chống virus"
+    },
+    {
+      "question": "Kiến thức chung: Câu nào dưới đây không đúng?",
+      "options": [
+        "Virus máy tính lây nhiễm qua dùng chung máy tính",
+        "Virus máy tính lây nhiễm khi sao chép qua đĩa",
+        "Virus máy tính lây nhiễm khi sao chép qua mạng",
+        "Virus máy tính lây nhiễm qua Internet"
+      ],
+      "answer": "Virus máy tính lây nhiễm qua dùng chung máy tính"
+    },
+    {
+      "question": "Kiến thức chung: Virus máy tính không có khả năng hỗ trợ con người trong trường hợp nào dưới đây?",
+      "options": [
+        "Khi dịch một cuốn sách",
+        "Khi chẩn đoán bệnh",
+        "Khi phân tích tâm lý một con người",
+        "Tất cả các trường hợp trên"
+      ],
+      "answer": "Tất cả các trường hợp trên"
+    },
+    {
+      "question": "Kiến thức chung: Virus máy tính lây lan qua những con đường nào?",
+      "options": [
+        "Qua thiết bị nhớ USB, ổ đĩa di động",
+        "Qua sao chép file",
+        "Qua web đen, qua các phần mềm crack, keygen",
+        "Cả 3 phương án trên"
+      ],
+      "answer": "Cả 3 phương án trên"
+    },
+    {
+      "question": "Kiến thức chung: Phát biểu nào về hệ điều hành sau đây là không đúng?",
+      "options": [
+        "Hệ điều hành đảm bảo giao tiếp giữa người dùng và máy tính",
+        "Chức năng chính của hệ điều hành là thực hiện tìm kiếm thông tin trên Internet",
+        "Hệ điều hành cung cấp các phương tiện và dịch vụ để người sử dụng dễ dàng thực hiện chương trình, quản lý chặt chẽ, khai thác các tài nguyên của máy tính một cách tối ưu",
+        "Hệ điều hành Windows là một hệ điều hành dùng cho máy tính cá nhân của hãng Microsoft"
+      ],
+      "answer": "Chức năng chính của hệ điều hành là thực hiện tìm kiếm thông tin trên Internet"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows, để mở chương trình quản lý tác vụ (Task Manager) bạn dùng tổ hợp phím:",
+      "options": [
+        "Ctrl + S",
+        "Alt + F4",
+        "Ctrl + Alt + F4",
+        "Ctrl + Alt + Delete"
+      ],
+      "answer": "Ctrl + Alt + Delete"
+    },
+    {
+      "question": "Kiến thức chung: Trong máy tính, thông tin tồn tại dưới các dạng tệp tin nào?",
+      "options": [
+        "Tệp tin chương trình",
+        "Tệp tin dữ liệu",
+        "Cả hai đều đúng",
+        "Cả hai đều sai"
+      ],
+      "answer": "Cả hai đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Khi khởi động máy tính, phần mềm nào được thực hiện trước?",
+      "options": [
+        "Hệ điều hành",
+        "Phần mềm gõ tiếng Việt",
+        "Phần mềm diệt Virus máy tính",
+        "Phần mềm Word, Excel"
+      ],
+      "answer": "Hệ điều hành"
+    },
+    {
+      "question": "Kiến thức chung: Theo bạn phần mềm Windows, Linux có đặc điểm nào chung?",
+      "options": [
+        "Cả hai đều là phần mềm ứng dụng",
+        "Cả hai đều là thiết bị phần cứng",
+        "Cả hai đều là hệ điều hành",
+        "Cả hai đều là phần mềm hệ thống"
+      ],
+      "answer": "Cả hai đều là hệ điều hành"
+    },
+    {
+      "question": "Kiến thức chung: Khi đang dùng máy tính, để khởi động lại hệ thống thì bạn dùng cách nào sau đây:",
+      "options": [
+        "Tại giao diện desktop ⇒ Alt + F4 ⇒ Restart",
+        "Kích Start menu ⇒ Shutdown ⇒ Restart",
+        "Bấm nút Reset trên hộp máy",
+        "Tất cả các cách trên"
+      ],
+      "answer": "Tất cả các cách trên"
+    },
+    {
+      "question": "Kiến thức chung: Khi đang dùng máy tính, để tắt hệ thống đúng cách thì bạn dùng cách nào sau đây:",
+      "options": [
+        "Rút dây nguồn điện máy tính",
+        "Kích Start menu ⇒ Shutdown",
+        "Bấm nút Power trên hộp máy",
+        "Bấm nút Reset trên hộp máy"
+      ],
+      "answer": "Kích Start menu ⇒ Shutdown"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows, muốn khởi chạy một chương trình nào đó thì:",
+      "options": [
+        "Mở My Computer và kích đôi chuột trái vào tên chương trình",
+        "Mở My Computer và kích vào chương trình ⇒ bấm Enter",
+        "Mở My Computer và kích chuột phải vào chương trình ⇒ Open",
+        "Tất cả các cách trên đều đúng"
+      ],
+      "answer": "Tất cả các cách trên đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows, khi đang mở cửa sổ thư mục hiện hành muốn trở về màn hình nền desktop thì:",
+      "options": [
+        "Bấm tổ hợp phím Windows + D",
+        "Kích chuột phải lên thanh Taskbar ⇒ Show the desktop",
+        "Cả hai cách trên đều đúng",
+        "Cả hai cách trên đều sai"
+      ],
+      "answer": "Cả hai cách trên đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows, các tệp tin được chọn và xóa bằng tổ hợp phím Shift + Delete thì:",
+      "options": [
+        "Có thể khôi phục bằng cách mở trong My Computer",
+        "Có thể khôi phục bằng cách mở trong My Documents",
+        "Có thể khôi phục bằng cách mở trong Recycle Bin",
+        "Không thể khôi phục lại được"
+      ],
+      "answer": "Không thể khôi phục lại được"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows, biểu tượng của thư mục thường có màu?",
+      "options": [
+        "Xanh",
+        "Đỏ",
+        "Tím",
+        "Vàng"
+      ],
+      "answer": "Vàng"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows, thư mục thường được tổ chức dưới dạng:",
+      "options": [
+        "Chuỗi",
+        "Dãy",
+        "Cây",
+        "Đồ thị"
+      ],
+      "answer": "Cây"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows, để mở chương trình quản lý tác vụ (Task Manager) thì bạn dùng tổ hợp phím nào:",
+      "options": [
+        "Ctrl + F1",
+        "Alt + F4",
+        "Ctrl + Alt + Delete",
+        "Ctrl + Shift + Delete"
+      ],
+      "answer": "Ctrl + Alt + Delete"
+    },
+    {
+      "question": "Kiến thức chung: Trong My Computer của hệ điều hành Windows, để xóa một đối tượng tệp tin hay thư mục thì bạn:",
+      "options": [
+        "Kích vào đối tượng đó và nhấn phím Delete",
+        "Kích chuột phải vào đối tượng đó ⇒ Delete",
+        "Kích vào đối tượng đó và nhấn tổ hợp phím Ctrl + D",
+        "Tất cả các câu trên đều đúng"
+      ],
+      "answer": "Tất cả các câu trên đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Định dạng tệp tin có đuôi .exe thuộc loại:",
+      "options": [
+        "Tệp tin chương trình",
+        "Tệp tin dữ liệu",
+        "Cả hai đều đúng",
+        "Cả hai đều sai"
+      ],
+      "answer": "Tệp tin chương trình"
+    },
+    {
+      "question": "Kiến thức chung: Để chọn nhiều đối tượng không liền kề nhau trong Windows, ta giữ phím nào?",
+      "options": [
+        "Ctrl",
+        "Shift",
+        "Alt",
+        "Insert"
+      ],
+      "answer": "Ctrl"
+    },
+    {
+      "question": "Kiến thức chung: Tên nào sau đây không phải là tên tệp tin hoặc thư mục riêng lẻ?",
+      "options": [
+        "Thuchanhword.doc",
+        "Baibanpnhom.docx",
+        "http://ttinhoc.duytan.edu.vn",
+        "Hinhanh.bmp"
+      ],
+      "answer": "http://ttinhoc.duytan.edu.vn"
+    },
+    {
+      "question": "Kiến thức chung: Theo bạn, virus máy tính gây ra tác hại nào đối với người dùng?",
+      "options": [
+        "Tiêu tốn tài nguyên hệ thống",
+        "Phá hủy hoặc đánh cắp dữ liệu",
+        "Gây khó chịu cho người dùng",
+        "Cả 3 phương án trên"
+      ],
+      "answer": "Cả 3 phương án trên"
+    },
+    {
+      "question": "Kiến thức chung: Chương trình nào sau đây không phải là chương trình diệt virus?",
+      "options": [
+        "Kaspersky",
+        "Winrar",
+        "Avast Free Antivirus",
+        "BKAV"
+      ],
+      "answer": "Winrar"
+    },
+    {
+      "question": "Kiến thức chung: Hãy cho biết thiết bị nào sau đây là thiết bị nhập?",
+      "options": [
+        "Bàn phím, chuột, máy scan",
+        "Màn hình, bàn phím, chuột",
+        "Máy in, máy scan",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Bàn phím, chuột, máy scan"
+    },
+    {
+      "question": "Kiến thức chung: Máy tính là gì?",
+      "options": [
+        "Là công cụ phát hiện nói dối",
+        "Là công cụ cho phép xử lý thông tin một cách thủ công",
+        "Là công cụ không dùng để tính toán",
+        "Là công cụ cho phép xử lý thông tin một cách tự động"
+      ],
+      "answer": "Là công cụ cho phép xử lý thông tin một cách tự động"
+    },
+    {
+      "question": "Kiến thức chung: Đĩa CDRW có chức năng gì sau đây?",
+      "options": [
+        "Đọc/ghi",
+        "Đọc",
+        "Ghi",
+        "Tất cả đều sai"
+      ],
+      "answer": "Đọc/ghi"
+    },
+    {
+      "question": "Kiến thức chung: RAM là viết tắt của",
+      "options": [
+        "Reliable Access Memory",
+        "Recordable Access Memory",
+        "Random Access Memory",
+        "Readable Access Memory"
+      ],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "Kiến thức chung: Cổng giao tiếp nào sau đây không sử dụng cho máy in?",
+      "options": [
+        "USB",
+        "Parallel",
+        "Network",
+        "PS/2"
+      ],
+      "answer": "PS/2"
+    },
+    {
+      "question": "Kiến thức chung: Ổ đĩa cứng là thiết bị thuộc loại",
+      "options": [
+        "Bộ nhớ trong",
+        "Bộ nhớ ngoài",
+        "Bộ nhớ cố định",
+        "Bộ nhớ truy cập ngẫu nhiên"
+      ],
+      "answer": "Bộ nhớ ngoài"
+    },
+    {
+      "question": "Kiến thức chung: Cách nào sau đây không thể mở Task Manager?",
+      "options": [
+        "Nhấn tổ hợp phím: Ctrl, Alt, Del",
+        "Nhấn tổ hợp phím: Ctrl, Shift, Esc",
+        "Click chuột phải vào thanh Taskbar chọn TaskManager",
+        "Chạy lệnh 'taskman' trong hộp thoại Run"
+      ],
+      "answer": "Chạy lệnh 'taskman' trong hộp thoại Run"
+    },
+    {
+      "question": "Kiến thức chung: Tổ hợp phím nào sau đây có tác dụng đóng chương trình hiện hành",
+      "options": [
+        "Alt + F4",
+        "Alt + F5",
+        "Alt + C",
+        "Alt + D"
+      ],
+      "answer": "Alt + F4"
+    },
+    {
+      "question": "Kiến thức chung: Tổ hợp phím nào sau đây có tác dụng khởi động chương trình Explorer",
+      "options": [
+        "Win + E",
+        "Win + R",
+        "Win + T",
+        "Win + Y"
+      ],
+      "answer": "Win + E"
+    },
+    {
+      "question": "Kiến thức chung: Để xem thuộc tính của file hoặc thư mục ta thực hiện thao tác nào",
+      "options": [
+        "Chọn file hoặc thư mục cần xem sau đó nhấn tổ hợp phím Alt + Enter",
+        "Click chuột phải lên file hoặc thư mục cần xem sau đó chọn Properties",
+        "Tất cả đều đúng",
+        "Tất cả đều sai"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Muốn xem các chương trình đã cài đặt trên máy tính ta vào đâu trong Control Panel",
+      "options": [
+        "Programs and Features",
+        "Mouse",
+        "Changer",
+        "Keyboard"
+      ],
+      "answer": "Programs and Features"
+    },
+    {
+      "question": "Kiến thức chung: Khi thao tác bảo trì máy tính người kỹ thuật viên cần phải mặc gì?",
+      "options": [
+        "Đồng phục bảo hộ lao động",
+        "Đồng phục thể thao",
+        "Đồng phục học thể dục",
+        "Không cần đồng phục"
+      ],
+      "answer": "Đồng phục bảo hộ lao động"
+    },
+    {
+      "question": "Kiến thức chung: Người kỹ thuật viên cần tuân thủ nguyên tắc gì khi thao tác sửa chữa trực tiếp với máy tính?",
+      "options": [
+        "Không đi chân trần khi tiếp xúc",
+        "Không mặc áo quá nóng",
+        "Không mặc quần dài",
+        "Không đội nón bảo hiểm"
+      ],
+      "answer": "Không đi chân trần khi tiếp xúc"
+    },
+    {
+      "question": "Kiến thức chung: Trước khi thao tác trực tiếp với thiết bị người kỹ thuật viên cần làm gì đầu tiên?",
+      "options": [
+        "Dùng bút thử điện để kiểm tra trước khi thao tác",
+        "Mở thiết bị ra sửa ngay",
+        "Gọi điện cho khách hàng",
+        "Vào internet xem quy trình sửa chữa"
+      ],
+      "answer": "Dùng bút thử điện để kiểm tra trước khi thao tác"
+    },
+    {
+      "question": "Kiến thức chung: Nguyên tắc nào sau đây có thể cải thiện tình trạng an toàn cho người kỹ thuật viên?",
+      "options": [
+        "5S",
+        "4S",
+        "3S",
+        "2S"
+      ],
+      "answer": "5S"
+    },
+    {
+      "question": "Kiến thức chung: Khi thao tác sửa chữa thiết bị với độ cao trên 2m người kỹ thuật viên tuyệt đối phải làm gì?",
+      "options": [
+        "Đeo dây an toàn",
+        "Quan sát kỹ trước khi leo lên cao",
+        "Mang máy xuống thấp để thao tác",
+        "Không cần làm gì"
+      ],
+      "answer": "Đeo dây an toàn"
+    },
+    {
+      "question": "Kiến thức chung: Cần phải làm gì trước khi thao tác bảo trì dữ liệu?",
+      "options": [
+        "Sao lưu dữ liệu",
+        "Xóa dữ liệu",
+        "Cắt dữ liệu",
+        "Không cần phải làm gì"
+      ],
+      "answer": "Sao lưu dữ liệu"
+    },
+    {
+      "question": "Kiến thức chung: Để đảm bảo an toàn dữ liệu khi truy cập internet thì cần phải?",
+      "options": [
+        "Đề phòng các email và đường link lạ",
+        "Không vào các trang web không an toàn",
+        "Sử dụng phần mềm diệt virus",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Khi lỡ tay xóa dữ liệu ta có thể vào đâu để khôi phục lại?",
+      "options": [
+        "Recycle Bin",
+        "Documents",
+        "Recent Items",
+        "Downloads"
+      ],
+      "answer": "Recycle Bin"
+    },
+    {
+      "question": "Kiến thức chung: Việc backup dữ liệu phải đảm bảo các yếu tố nào sau đây?",
+      "options": [
+        "Có kế hoạch backup định kỳ",
+        "An toàn của dữ liệu",
+        "Cách ly với môi trường đặt máy",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Trong hệ điều hành Windows ta có thể backup dữ liệu bằng ứng dụng nào sau đây?",
+      "options": [
+        "System Restore",
+        "Disk Cleanup",
+        "Disk Defragmenter",
+        "Resource Monitor"
+      ],
+      "answer": "System Restore"
+    },
+    {
+      "question": "Kiến thức chung: Khi đầu nối máy tính với nguồn điện cần lưu ý gì?",
+      "options": [
+        "Công suất định mức của nguồn cấp",
+        "Dòng điện định mức của nguồn cấp",
+        "Điện áp định mức của nguồn cấp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Tất cả đều đúng"
+    },
+    {
+      "question": "Kiến thức chung: Khi đầu nối các đầu cắm nối đối với cáp nguồn, cáp tín hiệu, bo mạch thì cần lưu ý gì?",
+      "options": [
+        "Vị trí chân số 1 hay chiều cắm",
+        "Có bao nhiêu chân",
+        "Màu dây của cáp",
+        "Kích cỡ của cáp"
+      ],
+      "answer": "Vị trí chân số 1"
+    },
+    {
+      "question": "Kiến thức chung: Khi lắp ráp các thiết bị sử dụng điện thế thấp như RAM, các card mở rộng thì khi thao tác ta cần phải làm gì?",
+      "options": [
+        "Đeo vòng tĩnh điện",
+        "Đeo vòng nhôm",
+        "Đeo vòng bạc",
+        "Đeo vòng vàng"
+      ],
+      "answer": "Đeo vòng tĩnh điện"
+    },
+    {
+      "question": "Kiến thức chung: Những hành vi nào sau đây dễ làm hư hỏng ổ đĩa cứng nhất?",
+      "options": [
+        "Chạy trình chống phân mảnh đĩa cứng",
+        "Phân vùng ổ đĩa cứng",
+        "Di chuyển ổ đĩa cứng khi đang hoạt động",
+        "Định dạng"
+      ],
+      "answer": "Di chuyển ổ đĩa cứng khi đang hoạt động"
+    },
+    {
+      "question": "Kiến thức chung: Những hành vi nào sau đây dễ làm hư hỏng bộ nhớ RAM nhất?",
+      "options": [
+        "Cắm RAM khi chưa ngắt điện",
+        "Thường xuyên chạy ít chương trình",
+        "Thường xuyên di chuyển máy",
+        "Mở máy liên tục"
+      ],
+      "answer": "Cắm RAM khi chưa ngắt điện"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm nào sau đây dùng để nghe nhạc, chơi video trong hệ điều hành Windows?",
+      "options": [
+        "Windows Media Player",
+        "Calculator",
+        "Internet Explorer",
+        "On-Screen Keyboard"
+      ],
+      "answer": "Windows Media Player"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm nào sau đây dùng để tính toán trong hệ điều hành Windows?",
+      "options": [
+        "Calculator",
+        "On-Screen Keyboard",
+        "Windows Media Player",
+        "On-Screen Keyboard"
+      ],
+      "answer": "Calculator"
+    },
+    {
+      "question": "Kiến thức chung: Muốn truy cập internet thì ta cần sử dụng phần mềm nào sau đây?",
+      "options": [
+        "Internet Explorer",
+        "Windows Media Player",
+        "Calculator",
+        "Internet Explorer"
+      ],
+      "answer": "Internet Explorer"
+    },
+    {
+      "question": "Kiến thức chung: Muốn soạn thảo văn bản ta có thể sử dụng phần mềm nào sau đây?",
+      "options": [
+        "Notepad",
+        "Internet Explorer",
+        "Calculator",
+        "Windows Media Player"
+      ],
+      "answer": "Notepad"
+    },
+    {
+      "question": "Kiến thức chung: Ta có thể dùng bàn phím ảo để thay thế cho bàn phím cơ khi bị hỏng bằng phần mềm nào sau đây?",
+      "options": [
+        "On-Screen Keyboard",
+        "Internet Explorer",
+        "Calculator",
+        "Windows Media Player"
+      ],
+      "answer": "On-Screen Keyboard"
+    },
+    {
+      "question": "Kiến thức chung: Máy Desktop có mấy bộ phận chức năng?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị chuột máy tính thuộc bộ phận nào của desktop?",
+      "options": [
+        "Input",
+        "Output",
+        "Process",
+        "Memory"
+      ],
+      "answer": "Input"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị bàn phím thuộc bộ phận nào của desktop?",
+      "options": [
+        "Input",
+        "Output",
+        "Process",
+        "Memory"
+      ],
+      "answer": "Input"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị màn hình thuộc bộ phận nào của desktop?",
+      "options": [
+        "Output",
+        "Input",
+        "Process",
+        "Memory"
+      ],
+      "answer": "Output"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị HDD thuộc bộ phận nào của desktop?",
+      "options": [
+        "Memory",
+        "Output",
+        "Process",
+        "Input"
+      ],
+      "answer": "Memory"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị RAM thuộc bộ phận nào của desktop?",
+      "options": [
+        "Memory",
+        "Output",
+        "Process",
+        "Input"
+      ],
+      "answer": "Memory"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị ROM thuộc bộ phận nào của desktop?",
+      "options": [
+        "Memory",
+        "Output",
+        "Process",
+        "Input"
+      ],
+      "answer": "Memory"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị Mainboard thuộc bộ phận nào của desktop?",
+      "options": [
+        "Process",
+        "Output",
+        "Input",
+        "Memory"
+      ],
+      "answer": "Process"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị Power thuộc bộ phận nào của desktop?",
+      "options": [
+        "Process",
+        "Output",
+        "Input",
+        "Memory"
+      ],
+      "answer": "B"
+    },
+    {
+      "question":  "Kiến thức chung: Thiết bị Printer thuộc bộ phận nào của desktop?",
+      "options": [
+        "Input",
+        "Output",
+        "Process",
+        "Memory"
+      ],
+      "answer": "Output"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm trình điều khiển thiết bị gọi là gì?",
+      "options": [
+        "Driver",
+        "OS",
+        "Application",
+        "Virus"
+      ],
+      "answer": "Driver"
+    },
+    {
+      "question": "Kiến thức chung: Thông số Corei5 là nói đến thiết bị nào của desktop?",
+      "options": [
+        "CPU",
+        "RAM",
+        "HDD",
+        "Mainboard"
+      ],
+      "answer": "CPU"
+    },
+    {
+      "question": "Kiến thức chung: Thông số 3.0 MHz là nói đến thiết bị nào của desktop?",
+      "options": [
+        "CPU",
+        "RAM",
+        "HDD",
+        "Mainboard"
+      ],
+      "answer": "CPU"
+    },
+    {
+      "question": "Kiến thức chung: Thông số 1 TB là nói đến thiết bị nào của desktop?",
+      "options": [
+        "HDD",
+        "RAM",
+        "CPU",
+        "Mainboard"
+      ],
+      "answer": "HDD"
+    },
+    {
+      "question": "Kiến thức chung: Thông số 1155 LGA là nói đến thiết bị nào của desktop?",
+      "options": [
+        "Mainboard",
+        "RAM",
+        "HDD",
+        "CPU"
+      ],
+      "answer": "Mainboard"
+    },
+    {
+      "question": "Kiến thức chung: Thông số 5400 RPM là nói đến thiết bị nào của desktop?",
+      "options": [
+        "HDD",
+        "RAM",
+        "CPU",
+        "D"
+      ],
+      "answer": "HDD"
+    },
+    {
+      "question": "Kiến thức chung: Thông số Thread là nói đến thiết bị nào của desktop?",
+      "options": [
+        "CPU",
+        "RAM",
+        "HDD",
+        "Mainboard"
+      ],
+      "answer": "CPU"
+    },
+    {
+      "question": "Kiến thức chung: Mainboard: khe cắm card màn hình là khe cắm nào?",
+      "options": [
+        "PCI Express",
+        "Slot Ram",
+        "LGA",
+        "24 Pin"
+      ],
+      "answer": "PCI Express"
+    },
+    {
+      "question": "Kiến thức chung: Mainboard: cổng cắm phím chuột hình tròn có tên là gì?",
+      "options": [
+        "PS2",
+        "USB",
+        "VGA",
+        "HDMI"
+      ],
+      "answer": "PS2"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm Kaspersky thuộc loại phần mềm nào?",
+      "options": [
+        "Trình diệt Virus",
+        "Trình ứng dụng bình thường",
+        "Trình điều khiển",
+        "Hệ điều hành"
+      ],
+      "answer": "Trình diệt Virus"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm Unikey thuộc loại phần mềm nào?",
+      "options": [
+        "Trình ứng dụng bình thường",
+        "Trình diệt Virus",
+        "Trình điều khiển",
+        "Hệ điều hành"
+      ],
+      "answer": "Trình ứng dụng bình thường"
+    },
+    {
+      "question": "Kiến thức chung: File có phần mở rộng .MP3 thuộc loại file nào?",
+      "options": [
+        "Âm thanh",
+        "Hình ảnh",
+        "Văn bản",
+        "Bảng tính"
+      ],
+      "answer": "Âm thanh"
+    },
+    {
+      "question": "Kiến thức chung: File có phần mở rộng .JPG thuộc loại file nào?",
+      "options": [
+        "Hình ảnh",
+        "Âm thanh",
+        "Văn bản",
+        "Bảng tính"
+      ],
+      "answer": "Hình ảnh"
+    },
+    {
+      "question": "Kiến thức chung: File có phần mở rộng .MP4 thuộc loại file nào?",
+      "options": [
+        "Video",
+        "Âm thanh",
+        "Văn bản",
+        "Bảng tính"
+      ],
+      "answer": "Video"
+    },
+    {
+      "question": "Kiến thức chung: File có phần mở rộng .DOCX thuộc loại file nào?",
+      "options": [
+        "Văn bản",
+        "Hình ảnh",
+        "Âm thanh",
+        "Bảng tính"
+      ],
+      "answer": "Văn bản"
+    },
+    {
+      "question": "Kiến thức chung: File có phần mở rộng .XLSX thuộc loại file nào?",
+      "options": [
+        "Bảng tính bảng",
+        "Hình ảnh",
+        "Âm thanh",
+        "Văn bản"
+      ],
+      "answer": "Bảng tính bảng"
+    },
+    {
+      "question": "Kiến thức chung: File có phần mở rộng .ACCDB thuộc loại file nào?",
+      "options": [
+        "Cơ sở dữ liệu",
+        "Văn bản",
+        "Đồ họa",
+        "Bảng tính"
+      ],
+      "answer": "Cơ sở dữ liệu"
+    },
+    {
+      "question": "Kiến thức chung: Dấu hiệu nhận biết PC bị virus?",
+      "options": [
+        "CPU và RAM bị tiêu hao nhiều",
+        "PC bị khởi động lại",
+        "Màn hình không hiển thị",
+        "Âm thanh bị tắt"
+      ],
+      "answer": "CPU và RAM bị tiêu hao nhiều"
+    },
+    {
+      "question": "Kiến thức chung: Dấu hiệu nhận biết PC bị virus?",
+      "options": [
+        "Thư mục bị biến thành file",
+        "PC bị màn hình xanh",
+        "Màn hình không hiển thị",
+        "Âm thanh bị tắt"
+      ],
+      "answer": "Thư mục bị biến thành file"
+    },
+    {
+      "question": "Kiến thức chung: Biểu tượng icon màn hình dưới system bar có dấu chéo đỏ thể hiện điều gì?",
+      "options": [
+        "PC chưa cắm dây mạng hoặc dây hỏng",
+        "PC bị ngắt Internet",
+        "PC bị hư ổ cứng",
+        "PC bị lỗi phần mềm"
+      ],
+      "answer": "PC chưa cắm dây mạng hoặc hỏng"
+    },
+    {
+      "question": "Kiến thức chung: Biểu tượng icon màn hình dưới system bar có dấu chấm than vàng thể hiện điều gì?",
+      "options": [
+        "PC không nhận được địa chỉ IP",
+        "PC bị ngắt Internet",
+        "PC bị hư ổ cứng",
+        "PC chưa cắm dây mạng hoặc dây hỏng"
+      ],
+      "answer": "PC không nhận được địa chỉ IP"
+    },
+    {
+      "question": "Kiến thức chung: Desktop có thể bổ sung RAM hay không?",
+      "options": [
+        "Được, nhưng phải cùng Bus hệ thống",
+        "Không",
+        "Được",
+        "Được, nhưng phải cùng dung lượng"
+      ],
+      "answer": "Được, nhưng phải cùng Bus hệ thống"
+    },
+    {
+      "question": "Kiến thức chung: Desktop có thể thay đổi CPU hay không?",
+      "options": [
+        "Được, CPU",
+        "Không",
+        "Được",
+        "Được, nhưng phải trùng số Core"
+      ],
+      "answer": "Được, CPU"
+    },
+    {
+      "question": "Kiến thức chung: Desktop có thể thay đổi POWER hay không?",
+      "options": [
+        "Được, nhưng phải cùng số Pin ổ cắm",
+        "Không",
+        "Được",
+        "Được, nhưng phải loại 550W"
+      ],
+      "answer": "Được, phải cùng số Pin"
+
+    },
+    {
+      "question": "Kiến thức chung: Desktop có thể bổ sung CPU hay không?",
+      "options": [
+        "Không",
+        "Được, CPU",
+        "Được",
+        "Được, nhưng trùng số Core"
+      ],
+      "answer": "Không"
+    },
+    {
+      "question": "Kiến thức chung: Desktop có thể thay thế Mainboard hay không?",
+      "options": [
+        "Được, LGA và Slot",
+        "Không",
+        "Được",
+        "Được, nhưng trùng số Core"
+      ],
+      "answer": "Được, LGA và Slot"
+    },
+    {
+      "question": "Kiến thức chung: Bộ nhớ RAM và ROM là bộ nhớ gì?",
+      "options": [
+        "Primary memory",
+        "Receive memory",
+        "Secondary memory",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Primary memory"
+    },
+    {
+      "question": "Kiến thức chung: Các thiết bị nào thông dụng hiện nay dùng để cung cấp dữ liệu cho máy xử lý?",
+      "options": [
+        "Bàn phím (Keyboard), Chuột (Mouse), Máy in (Printer)",
+        "Máy quét ảnh (Scanner)",
+        "Bàn phím (Keyboard), Chuột (Mouse) và Máy quét ảnh (Scanner)",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Bàn phím (Keyboard), Chuột (Mouse) và Máy quét ảnh (Scanner)"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị nào sau đây dùng để kết nối mạng?",
+      "options": [
+        "Ram",
+        "Rom",
+        "Internet",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Internet"
+    },
+    {
+      "question": "Kiến thức chung: Đọc các thông số cấu hình của một máy tính thông thường: 2 GHz - 20GB - 256MB, bạn cho biết con số 256MB chỉ điều gì?",
+      "options": [
+        "Chỉ tốc độ của bộ vi xử lý",
+        "Chỉ dung lượng của bộ nhớ chỉ đọc ROM",
+        "Chỉ dung lượng của bộ nhớ RAM",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Chỉ dung lượng của bộ nhớ RAM"
+    },
+    {
+      "question": "Kiến thức chung: Chọn câu trả lời: Đĩa cứng là",
+      "options": [
+        "Thiết bị lưu trữ ngoài",
+        "Thiết bị lưu trữ trong",
+        "Thiết bị lưu trữ nhanh",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Thiết bị lưu trữ ngoài"
+    },
+    {
+      "question": "Kiến thức chung: Câu nào chưa đúng trong số các câu sau?",
+      "options": [
+        "Phần mềm chia sẻ - Shareware: có bản quyền, dùng thử trước khi mua",
+        "Phần mềm thương mại: không cho phép sao chép",
+        "Phần mềm nguồn mở - C",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Phần mềm thương mại"
+    },
+    {
+      "question": "Kiến thức chung: Sau một thời gian sử dụng máy tính, bạn thấy máy tính chạy chậm hơn nhiều, đặc biệt khi mở nhiều chương trình ứng dụng cùng một lúc. Nguyên nhân?",
+      "options": [
+        "Ram quá ít",
+        "Xung nhịp bộ vi xử lý bị chậm lại",
+        "Hệ thống đường truyền bị thu hẹp",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Ram quá ít"
+    },
+    {
+      "question": "Kiến thức chung: Dữ liệu của bộ phận nào sau đây sẽ bị mất khi ngắt nguồn điện?",
+      "options": [
+        "Rom",
+        "FDD",
+        "RAM",
+        "Tất cả đều đúng"
+      ],
+      "answer": "RAM"
+    },
+    {
+      "question": "Kiến thức chung: Hệ điều hành nào sau đây không sử dụng giao diện đồ họa?",
+      "options": [
+        "Windows 7",
+        "Windows 95",
+        "MS-DOS",
+        "Tất cả đều đúng"
+      ],
+      "answer": "MS-DOS"
+    },
+    {
+      "question": "Kiến thức chung: Phát biểu nào sau đây là sai?",
+      "options": [
+        "Máy vi tính vẫn có thể soạn thảo văn bản mà không cần hệ điều hành",
+        "Phải cài đặt hệ điều hành trước khi cài các phần mềm ứng dụng khác",
+        "C++ là một ngôn ngữ lập trình",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Máy vi tính vẫn có thể soạn thảo văn bản mà không cần hệ điều hành"
+    },
+    {
+      "question": "Kiến thức chung: User ID thường được sử dụng?",
+      "options": [
+        "Để đăng nhập vào máy tính",
+        "Phải cài đặt hệ điều hành trước khi cài các phần mềm ứng dụng khác",
+        "Để xác minh bạn trong mạng",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Để xác minh bạn trong mạng"
+    },
+    {
+      "question": "Kiến thức chung: Cách đặt mật khẩu nào là an toàn nhất?",
+      "options": [
+        "Gồm các ký tự là chữ",
+        "Phải cài đặt",
+        "Mật khẩu nên có ít nhất là 8 ký tự và có cả số",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Mật khẩu nên có ít nhất là 8 ký tự"
+    },
+    {
+      "question": "Kiến thức chung: Tường lửa có chức năng?",
+      "options": [
+        "Kết nối Internet",
+        "Phải cài đặt",
+        "Ngăn chặn các kết nối độc hại",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Ngăn chặn các kết nối độc hại"
+    },
+    {
+      "question": "Kiến thức chung: Để đảm bảo an toàn dữ liệu, đối với mật khẩu máy tính bạn nên?",
+      "options": [
+        "Không bao giờ thay đổi mật khẩu",
+        "Đặt mật khẩu ngắn gọn",
+        "Thường xuyên thay đổi mật khẩu",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Thường xuyên thay đổi mật khẩu"
+    },
+    {
+      "question": "Kiến thức chung: Bạn nhận được một email đính kèm một tệp tin từ một người lạ, bạn nên làm gì để đảm bảo an toàn?",
+      "options": [
+        "Mở tệp tin ngay để kiểm tra nội dung",
+        "Chuyển email này cho người khác để kiểm tra",
+        "Quét tệp tin bằng phần mềm diệt virus trước khi mở",
+        "Lưu tệp tin vào máy tính và mở ngay"
+      ],
+      "answer": "Quét tệp tin bằng phần mềm diệt virus trước khi mở"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị nào dùng để bảo vệ máy tính khi nguồn điện không ổn định?",
+      "options": [
+        "Bộ nguồn máy tính (PSU)",
+        "Bộ lưu điện (UPS)",
+        "Chip cầu bắc",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Bộ lưu điện (UPS)"
+    },
+    {
+      "question": "Kiến thức chung: Khi bật máy tính mà máy tính kêu tiếng beep dài liên tục thì do thiết bị nào sau đây?",
+      "options": [
+        "Mainboard",
+        "RAM",
+        "VGA",
+        "Tất cả đều đúng"
+      ],
+      "answer": "RAM"
+    },
+    {
+      "question": "Kiến thức chung: UPS là?",
+      "options": [
+        "Một thiết bị bảo vệ máy tính của bạn tránh sự tắt nguồn điện đột ngột",
+        "Một thiết bị bảo vệ quá điện",
+        "Một thiết bị đặt mật khẩu",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Một thiết bị bảo vệ máy tính của bạn tránh sự tắt nguồn điện đột ngột"
+    },
+    {
+      "question": "Kiến thức chung: Khi sử dụng máy tính, môi trường thích hợp để đặt máy tính là?",
+      "options": [
+        "Thời tiết ẩm ướt",
+        "Bụi",
+        "Môi trường sạch sẽ",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Môi trường sạch sẽ"
+    },
+    {
+      "question": "Kiến thức chung: Đâu không phải là tác hại của virus máy tính?",
+      "options": [
+        "Xóa dữ liệu trong máy tính",
+        "Ảnh hưởng đến sức khỏe của con người",
+        "Làm cho máy tính hoạt động bất thường",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Ảnh hưởng đến sức khỏe của con người"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm nào sau đây không phải là phần mềm ứng dụng?",
+      "options": [
+        "Windows Media Player",
+        "Ubuntu",
+        "Matlab",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Ubuntu"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm nào sau đây phải trả phí bản quyền?",
+      "options": [
+        "Ubuntu",
+        "UniKey",
+        "Microsoft Office",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Microsoft Office"
+    },
+    {
+      "question": "Kiến thức chung: Boot Virus là loại virus lây nhiễm vào các tệp tin?",
+      "options": [
+        "Các tệp tin văn bản",
+        "Các tệp tin đồ họa",
+        "Các tệp tin hệ thống",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Các tệp tin hệ thống"
+    },
+    {
+      "question": "Kiến thức chung: Phiên bản Service Pack của phần mềm?",
+      "options": [
+        "Là phiên bản sửa lỗi hoặc nâng cấp cho phiên bản cũ hơn",
+        "Là phiên bản dùng thử",
+        "Là phiên bản mẫu",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Là phiên bản sửa lỗi hoặc nâng cấp cho phiên bản cũ hơn"
+    },
+    {
+      "question": "Kiến thức chung: Phiên bản Trial của phần mềm?",
+      "options": [
+        "Là phiên bản sửa lỗi hoặc nâng cấp cho phiên bản cũ hơn",
+        "Là phiên bản dùng thử",
+        "Là phiên bản mẫu",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Là phiên bản dùng thử"
+    },
+    {
+      "question": "Kiến thức chung: Một Mainboard hãng Intel dành cho Desktop cấu hình trung bình có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 1.5 triệu đến 3 triệu",
+        "Từ 5 triệu đến 10 triệu",
+        "Từ 15 triệu đến 20 triệu",
+        "Trên 30 triệu"
+      ],
+      "answer": "Từ 1.5 triệu đến 3 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một CPU Corei5 hãng Intel dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 4 triệu đến 6 triệu",
+        "Từ 8 triệu đến 10 triệu",
+        "Từ 15 triệu đến 20 triệu",
+        "Trên 20 triệu"
+      ],
+      "answer": "Từ 4 triệu đến 6 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một CPU Corei3 hãng Intel dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 2 triệu đến 3 triệu",
+        "Từ 4 triệu đến 6 triệu",
+        "Từ 8 triệu đến 10 triệu",
+        "Trên 10 triệu"
+      ],
+      "answer": "Từ 2 triệu đến 3 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một CPU Corei7 hãng Intel dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 7 triệu đến 15 triệu",
+        "Từ 20 triệu đến 30 triệu",
+        "Từ 35 triệu",
+        "Trên 50 triệu"
+      ],
+      "answer": "Từ 7 triệu đến"
+    },
+    {
+      "question": "Kiến thức chung: Một HDD 1TB dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Từ 5 triệu đến 10 triệu",
+        "Trên 10 triệu"
+      ],
+      "answer": "Từ 1 triệu đến 2 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một Monitor 19 inch dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Từ 5 triệu đến 10 triệu",
+        "Trên 10 triệu"
+      ],
+      "answer": "Từ 1 triệu đến 2 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một thanh Ram 4GB dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 500 ngàn đến dưới 1 triệu",
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Trên 5 triệu"
+      ],
+      "answer": "Từ 500 ngàn đến dưới 1 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một Case loại thường dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 200 ngàn đến 400 ngàn",
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Trên 5 triệu"
+      ],
+      "answer": "Từ 200 ngàn đến 400 ngàn"
+    },
+    {
+      "question": "Kiến thức chung: Một Power dưới 500W dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 200 ngàn đến 400 ngàn",
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Trên 5 triệu"
+      ],
+      "answer": "Từ 200 ngàn đến 400 ngàn"
+    },
+    {
+      "question": "Kiến thức chung: Một Printer Laser có cấu hình trung bình có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 2 triệu đến 4 triệu",
+        "Từ 6 triệu đến 10 triệu",
+        "Từ 12 triệu đến 20 triệu",
+        "Trên 20 triệu"
+      ],
+      "answer": "Từ 2 triệu đến 4 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một VGA Card có Ram 1GB có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Từ 5 triệu đến 10 triệu",
+        "Trên 10 triệu"
+      ],
+      "answer": "Từ 1 triệu đến 2 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một ổ DVD dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 200 ngàn đến 400 ngàn",
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Trên 5 triệu"
+      ],
+      "answer": "Từ 200 ngàn đến 400 ngàn"
+    },
+    {
+      "question": "Kiến thức chung: Một Keyboard có dây dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 100 ngàn đến 200 ngàn",
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Trên 5 triệu"
+      ],
+      "answer": "Từ 100 ngàn đến 200 ngàn"
+    },
+    {
+      "question": "Kiến thức chung: Một Keyboard không dây dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Từ 500 ngàn đến dưới 1 triệu",
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Trên 5 triệu"
+      ],
+      "answer": "Từ 500 ngàn đến dưới 1 triệu"
+    },
+    {
+      "question": "Kiến thức chung: Một Mouse có dây dành cho Desktop có giá khoảng bao nhiêu?",
+      "options": [
+        "Dưới 100 ngàn đến 200 ngàn",
+        "Từ 1 triệu đến 2 triệu",
+        "Từ 3 triệu đến 5 triệu",
+        "Trên 5 triệu"
+      ],
+      "answer": "Dưới 100 ngàn đến 200 ngàn"
+    },
+    {
+      "question": "Kiến thức chung: Trong máy vi tính ROM (Read Only Memory) được định nghĩa là?",
+      "options": [
+        "Bộ nhớ chỉ đọc",
+        "Bộ nhớ truy xuất ngẫu nhiên",
+        "Bộ nhớ trong",
+        "Bộ nhớ ngoài"
+      ],
+      "answer": "Bộ nhớ chỉ đọc"
+    },
+    {
+      "question": "Kiến thức chung: Phần cứng (hardware) máy tính gồm có?",
+      "options": [
+        "Chương trình ứng dụng, bộ nhớ, máy scan, chuột, bàn phím",
+        "Hệ điều hành, đĩa cứng, màn hình, chuột, bàn phím",
+        "Bộ nhớ, bộ xử lý trung ương (CPU), các thiết bị nhập xuất",
+        "Các câu trên đều đúng"
+      ],
+      "answer": "Bộ nhớ, bộ xử lý trung ương (CPU), các thiết bị nhập xuất"
+    },
+    {
+      "question": "Kiến thức chung: Phần mềm (software) máy tính là?",
+      "options": [
+        "Là những bộ phận chịu lực",
+        "Là chương trình ra lệnh cho máy tính thực hiện công việc",
+        "Cả hai câu trên đúng",
+        "Cả hai câu trên sai"
+      ],
+      "answer": "Là chương trình ra lệnh cho máy tính thực hiện công việc"
+    },
+    {
+      "question": "Kiến thức chung: Trong máy tính RAM được định nghĩa là?",
+      "options": [
+        "Bộ nhớ",
+        "Bộ nhớ chỉ định",
+        "Bộ nhớ truy xuất ngẫu nhiên",
+        "Khác"
+      ],
+      "answer": "Bộ nhớ truy xuất ngẫu nhiên"
+    },
+    {
+      "question": "Kiến thức chung: Bộ nhớ trong gồm có?",
+      "options": [
+        "Rom và các thiết bị khác",
+        "Ram và các thiết bị khác",
+        "Rom và Ram",
+        "Rom, Ram và các thiết bị khác"
+      ],
+      "answer": "Rom và Ram"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị lưu trữ bên ngoài phổ biến nhất hiện nay?",
+      "options": [
+        "Đĩa A, B, C, D",
+        "Đĩa cứng, đĩa mềm, đĩa quang",
+        "Ngoài các loại kể trên",
+        "Các loại trên đều sai"
+      ],
+      "answer": "Đĩa cứng, đĩa mềm, đĩa quang"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị nhập của máy tính bao gồm?",
+      "options": [
+        "Bàn phím, chuột, máy quét, máy in, màn hình",
+        "Màn hình, máy in, máy quét, chuột",
+        "Chuột, bàn phím, máy quét",
+        "Máy in, chuột, màn hình, đĩa cứng"
+      ],
+      "answer": "Chuột, bàn phím, máy quét"
+    },
+    {
+      "question": "Kiến thức chung: Thiết bị xuất của máy tính bao gồm?",
+      "options": [
+        "Màn hình, máy in, chuột, bàn phím",
+        "Chuột, bàn phím, máy quét",
+        "Máy in, màn hình",
+        "Ngoài các thiết bị trên"
+      ],
+      "answer": "Máy in, màn hình"
+    },
+    {
+      "question": "Kiến thức chung: Chọn phát biểu đúng?",
+      "options": [
+        "Windows là phần mềm ứng dụng đa chức năng",
+        "MS-DOS là hệ điều hành khai thác đĩa",
+        "Máy vi tính được chế tạo đầu tiên tại Trung Quốc",
+        "Máy vi tính thông minh hơn con người"
+      ],
+      "answer": "MS-DOS là hệ điều hành khai thác đĩa"
+    },
+    {
+      "question": "Kiến thức chung: Nếu nghi ngờ máy tính nhiễm virus, cách tốt nhất để kiểm tra và diệt virus là?",
+      "options": [
+        "Cài lại hệ điều hành và các chương trình khác",
+        "Cài chương trình chống virus và quét ổ đĩa",
+        "Lưu trữ và khôi phục tệp tin dự phòng",
+        "Khởi động lại và xóa tệp nghi ngờ"
+      ],
+      "answer": "Cài chương trình chống virus và quét ổ đĩa"
+    },
+    {
+      "question": "Kiến thức chung: Trong công việc nào con người làm tốt hơn máy tính?",
+      "options": [
+        "Tính toán phức tạp",
+        "Sản xuất tự động hóa",
+        "Nhận dạng sự vật",
+        "Công việc nguy hiểm"
+      ],
+      "answer": "Nhận dạng sự vật"
+    },
+    {
+      "question": "Kiến thức chung: 1 byte bằng?",
+      "options": [
+        "2 bit",
+        "8 bit",
+        "16 bit",
+        "10 bit"
+      ],
+      "answer": "8 bit"
+    },
+    {
+      "question": "Kiến thức chung: Máy tính có 1 ổ đĩa cứng chia làm 2 phân vùng. Tên ổ đĩa logic là?",
+      "options": [
+        "A: và B:",
+        "C: và D:",
+        "A: và C:",
+        "C1: và C2:"
+      ],
+      "answer": "C: và D:"
+    },
+    {
+      "question": "Kiến thức chung: Hệ điều hành Windows?",
+      "options": [
+        "Phần mềm cần thiết để máy tính hoạt động",
+        "Phần mềm cài sẵn trong mọi máy tính",
+        "Phần mềm không thể thay đổi",
+        "Phần mềm do Microsoft độc quyền"
+      ],
+      "answer": "Phần mềm cần thiết để máy tính hoạt động"
+    },
+    {
+      "question": "Kiến thức chung: Để khởi động lại máy tính, phát biểu nào sai?",
+      "options": [
+        "Nhấn phím Ctrl + Alt + Del, chọn Restart",
+        "Nhấn nút Start từ màn hình nền",
+        "Bấm nút Power trên hộp máy",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Bấm nút Power trên hộp máy"
+    }
+  ]
+}

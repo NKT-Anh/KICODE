@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "KICODE",
+    "slug": "tin_hoc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoKicode.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logoKicode.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoKicode.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.thaianh2003.tin_hoc"
+    },
+    "web": {
+      "favicon": "./assets/logoKicode.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "afa37898-c61c-451e-8a1d-93552cdfcfe9"
+      }
+    }
+  }
+}

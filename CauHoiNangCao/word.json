@@ -1,0 +1,2171 @@
+{
+  "questions": [
+    {
+
+      "question": "Trong Microsoft Word, phím tắt để tăng kích cỡ chữ lên 1 đơn vị là",
+      "options": [
+        "SHIFT+]",
+        "CTRL+]",
+        "SHIFT+[",
+        "CTRL+["
+      ],
+      "answer": "CTRL+]"
+    },
+    {
+
+      "question": "Trong Microsoft Word, phím tắt để giảm kích cỡ chữ xuống 1 đơn vị là",
+      "options": [
+        "CTRL+|",
+        "SHIFT+]",
+        "SHIFT+[",
+        "CTRL+["
+      ],
+      "answer": "CTRL+["
+    },
+    {
+
+      "question": "Trong Microsoft Word, phím tắt để tăng kích cỡ chữ lên (từ kích thước 12 trở đi) là",
+      "options": [
+        "CTRL+SHIFT+>",
+        "CTRL+SHIFT+(",
+        "CTRL+SHIFT+<",
+        "CTRL+SHIFT+)"
+      ],
+      "answer": "CTRL+SHIFT+>"
+    },
+    {
+
+      "question": "Trong Microsoft Word, phím tắt để giảm kích cỡ chữ xuống 2 đơn vị (đến kích thước 12) là",
+      "options": [
+        "CTRL+SHIFT+>",
+        "CTRL+SHIFT+)",
+        "CTRL+SHIFT+<",
+        "CTRL+SHIFT+("
+      ],
+      "answer": "CTRL+SHIFT+<"
+    },
+    {
+
+      "question": "Trong Microsoft Word, phím tắt để chuyển kiểu in hoa/thường là",
+      "options": [
+        "CTRL+SHIFT+",
+        "SHIFT+F3",
+        "ALT+F3",
+        "CTRL+F3"
+      ],
+      "answer": "SHIFT+F3"
+    },
+    {
+
+      "question": "Trong Microsoft Word, phím tắt để ngắt cột theo ý muốn là gì",
+      "options": [
+        "CTRL+SHIFT+ENTER",
+        "CTRL+ENTER",
+        "SHIFT+ENTER",
+        "ALT+ENTER"
+      ],
+      "answer": "CTRL+SHIFT+ENTER"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để sắp xếp tăng dần cho một cột trong bảng ta chọn mục nào sau đây",
+      "options": [
+        "Ascending",
+        "Descending",
+        "Increase",
+        "Decrease"
+      ],
+      "answer": "Ascending"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để sắp xếp giảm dần cho một cột trong bảng ta chọn mục nào sau đây",
+      "options": [
+        "Descending",
+        "Decrease",
+        "Ascending",
+        "Increase"
+      ],
+      "answer": "Descending"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để có thể sử dụng biểu mẫu (form) đã thiết kế, ta dùng chức năng bảo vệ nào",
+      "options": [
+        "Filling in Form",
+        "No changes (Read only)",
+        "Tracked changes",
+        "Chức năng bảo vệ nào cũng được"
+      ],
+      "answer": "Filling in Form"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để so sánh 02 văn bản ta sử dụng công cụ nào",
+      "options": [
+        "REVIEW/Compare/Compare...",
+        "REVIEW/Compare/Combine...",
+        "File/Save",
+        "File/Share"
+      ],
+      "answer": "REVIEW/Compare/Compare..."
+    },
+    {
+
+      "question": "Trong Microsoft Word, để đánh mục lục tự động không dựa trên Outline có được không. Nếu được thì có cần kết hợp với công cụ không?",
+      "options": [
+        "Được. Dùng kết hợp với Style định dạng",
+        "Không được",
+        "Được. Kết hợp với công cụ đánh số thứ tự",
+        "Được. Không cần kết hợp với công cụ"
+      ],
+      "answer": "Được. Dùng kết hợp với Style định dạng"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để thay đổi đơn vị đo trong Word ta thực hiện",
+      "options": [
+        "File/Options/Advanced/Display/Show measurements in unit of",
+        "Home/Paragraph/Indents",
+        "View/Show/Ruler",
+        "Page Layout/Page Setup"
+      ],
+      "answer": "File/Options/Advanced/Display/Show measurements in unit of"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để gộp ô trong bảng ta thực hiện cách nào sau đây",
+      "options": [
+        "TABLE TOOLS/LAYOUT/Merge/Split Cells",
+        "TABLE TOOLS/LAYOUT/Merge/Merge Cells",
+        "TABLE TOOLS/LAYOUT/Merge/Separate Cells",
+        "TABLE TOOLS/LAYOUT/Merge/Split Table"
+      ],
+      "answer": "TABLE TOOLS/LAYOUT/Merge/Merge Cells"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để tách bảng ta thực hiện cách nào sau đây",
+      "options": [
+        "TABLE TOOLS/LAYOUT/Merge/Split Table",
+        "TABLE TOOLS/LAYOUT/Merge/Split Cells",
+        "TABLE TOOLS/LAYOUT/Merge/Merge Cells",
+        "TABLE TOOLS/LAYOUT/Merge/Separate Cells"
+      ],
+      "answer": "TABLE TOOLS/LAYOUT/Merge/Split Table"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để thay đổi lề văn bản trong ô của bảng ta thực hiện cách nào sau đây",
+      "options": [
+        "TABLE TOOLS/LAYOUT/Alignment/Cell Margins",
+        "TABLE TOOLS/LAYOUT/Alignment/Text Direction",
+        "TABLE TOOLS/LAYOUT/Merge/Separate Cells",
+        "TABLE TOOLS/LAYOUT/Merge/Split Cells"
+      ],
+      "answer": "TABLE TOOLS/LAYOUT/Alignment/Cell Margins"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để thay đổi hướng văn bản trong ô của bảng ta thực hiện cách nào sau đây",
+      "options": [
+        "TABLE TOOLS/LAYOUT/Alignment/Text Direction",
+        "TABLE TOOLS/LAYOUT/Merge/Separate Cells",
+        "TABLE TOOLS/LAYOUT/Alignment/Cell Margins",
+        "TABLE TOOLS/LAYOUT/Cell Size/AutoFit"
+      ],
+      "answer": "TABLE TOOLS/LAYOUT/Alignment/Text Direction"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để có thể thay đổi độ rộng từng cột khác nhau ta phải làm gì",
+      "options": [
+        "Bật chức năng Line between",
+        "Bật chức năng Equal column width",
+        "Tắt chức năng Line between",
+        "Tắt chức năng Equal column width"
+      ],
+      "answer": "Tắt chức năng Equal column width"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để thiết lập gợi ý mặc định mỗi khi lưu tập tin mới ta dùng cách nào sau đây",
+      "options": [
+        "File/Options/Save/Save documents/Default file location",
+        "File/Options/Save/Save documents/Save AutoRecover Information every",
+        "File/Options/Save/Save documents/Server drafts location",
+        "File/Options/Save/Save documents/Save AutoRecover information every"
+      ],
+      "answer": "File/Options/Save/Save documents/Default file location"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để điều chỉnh cách chèn/dán vào văn bản ta thực hiện",
+      "options": [
+        "File/Options/Advanced/Cut, copy and paste/Pasting from other programs",
+        "File/Options/Advanced/Cut, copy and paste/Insert/paste pictures as",
+        "File/Options/Advanced/Cut, copy and paste/Use the Insert key for paste",
+        "File/Options/Advanced/Cut, copy and paste/Pasting between documents"
+      ],
+      "answer": "File/Options/Advanced/Cut, copy and paste/Insert/paste pictures as"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để thực hiện đóng dấu chìm trên văn bản (Watermark) với nội dung 'cấm sao chép' ta thực hiện cách nào sau đây",
+      "options": [
+        "Vào Home/Styles/Text watermark/Text: gõ 'cấm sao chép' sau đó nhấn Ok",
+        "Vào Design/Page Background/Watermark/Custom Watermark/Text watermark/Text: gõ 'cấm sao chép' sau đó nhấn Ok",
+        "Vào Design/Review/Protect/Custom Watermark/Text watermark/Text: gõ 'cấm sao chép' sau đó nhấn Ok",
+        "Vào References/Captions/Insert Caption/Text watermark/Text: gõ 'cấm sao chép' sau đó nhấn Ok"
+      ],
+      "answer": "Vào Design/Page Background/Watermark/Custom Watermark/Text watermark/Text: gõ 'cấm sao chép' sau đó nhấn Ok"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để bật/tắt chế độ kiểm tra lỗi chính tả ngôn ngữ khi soạn thảo văn bản (đường gợn màu đỏ dưới từ sai chính tả) ta làm cách nào sau đây",
+      "options": [
+        "File/Options/Proofing/When correcting spelling and grammar in Word/Check spelling as you type",
+        "File/Options/Proofing/When correcting spelling and grammar in Word/Use contextual spelling",
+        "File/Options/Proofing/When correcting spelling and grammar in Word/Check grammar with spelling",
+        "File/Options/Proofing/When correcting spelling and grammar in Word/Mark grammar errors as you type"
+      ],
+      "answer": "File/Options/Proofing/When correcting spelling and grammar in Word/Check spelling as you type"
+    },
+    {
+
+      "question": "Trong các tab lệnh sau, tab lệnh nào có thể dùng để tạo biểu mẫu (form) trong Microsoft Word",
+      "options": [
+        "DEVELOPER",
+        "DESIGN",
+        "REVIEW",
+        "INSERT"
+      ],
+      "answer": "DEVELOPER"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết phím tắt dùng để chuyển sang dạng hiển thị mã lệnh của trường (Field)",
+      "options": [
+        "Alt+F9",
+        "Shift+F9",
+        "Ctrl+F9",
+        "F9"
+      ],
+      "answer": "Alt+F9"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết phím tắt dùng để tăng mức thứ tự (đẩy ra xa lề trang) cho đoạn đã áp dụng đánh thứ tự nhiều mức",
+      "options": [
+        "Tab",
+        "Ctrl+Tab",
+        "Alt+Tab",
+        "Shift+Tab"
+      ],
+      "answer": "Tab"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết phím tắt dùng để giảm mức thứ tự (lui ra sát lề trang hơn) cho đoạn đã áp dụng đánh thứ tự nhiều mức",
+      "options": [
+        "Tab",
+        "Alt+Tab",
+        "Shift+Tab",
+        "Ctrl+Tab"
+      ],
+      "answer": "Shift+Tab"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết công cụ cho phép chọn mẫu trang bìa cho văn bản",
+      "options": [
+        "Insert/Text/WordArt",
+        "Design/Document Formatting",
+        "Design/Page Background",
+        "Insert/Pages/Cover Page"
+      ],
+      "answer": "Insert/Pages/Cover Page"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết tên công cụ áp dụng mẫu định dạng xen kẽ các dòng cho bảng",
+      "options": [
+        "Banded Rows",
+        "Header Row",
+        "First Row",
+        "Banded Columns"
+      ],
+      "answer": "Banded Rows"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết tên công cụ áp dụng mẫu định dạng tiêu đề cho bảng",
+      "options": [
+        "Header Row",
+        "First Row",
+        "Banded Rows",
+        "Row Header"
+      ],
+      "answer": "Header Row"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết tên công cụ phân bố đều độ cao các dòng trong bảng",
+      "options": [
+        "Distribute Rows",
+        "Equal Rows",
+        "Insert Above",
+        "Insert Below"
+      ],
+      "answer": "Distribute Rows"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết tên công cụ áp dụng mẫu định dạng xen kẽ các cột cho bảng",
+      "options": [
+        "Banded Columns",
+        "Banded Rows",
+        "Header Row",
+        "First Column"
+      ],
+      "answer": "Banded Columns"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết tên công cụ phân bố đều độ rộng các cột trong bảng",
+      "options": [
+        "Distribute Columns",
+        "Equal Columns",
+        "Insert Left",
+        "Insert Right"
+      ],
+      "answer": "Distribute Columns"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết tên công cụ dùng để đánh mục lục tự động",
+      "options": [
+        "Table of Contents",
+        "Footnotes",
+        "Endnotes",
+        "Comment"
+      ],
+      "answer": "Table of Contents"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết loại biểu mẫu nào có thể cho nhập giá trị hoặc lập công thức tính toán",
+      "options": [
+        "Text Form Field",
+        "Check Box Form Field",
+        "Drop-Down Form Field",
+        "Input Form Field"
+      ],
+      "answer": "Text Form Field"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết ý nghĩa công cụ REVIEW/Comments/Delete All Comments Show",
+      "options": [
+        "Xóa toàn bộ những nhận xét/ghi chú đang hiển thị",
+        "Xóa toàn bộ những nhận xét/ghi chú trong văn bản",
+        "Xóa những nhận xét/ghi chú đang chọn",
+        "Xóa toàn bộ nhận xét/ghi chú và xóa cả văn bản đã được nhận xét/ghi chú"
+      ],
+      "answer": "Xóa toàn bộ những nhận xét/ghi chú đang hiển thị"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết chức năng của công cụ VIEW/Show/Gridlines",
+      "options": [
+        "Hiển thị đường lưới kẻ ô trên văn bản",
+        "Vẽ đường thẳng vào văn bản",
+        "Hiển thị thanh thước",
+        "Gạch chân cho tất cả các ký tự trong văn bản"
+      ],
+      "answer": "Hiển thị đường lưới kẻ ô trên văn bản"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách điều chỉnh khung trang được tính từ văn bản thay vì lề trang",
+      "options": [
+        "Insert/Pages/Cover Page",
+        "Insert/Illustrations/Online Pictures",
+        "File/Options/Display/Mục Measure from: chọn Text",
+        "Design/Page Background/Page Borders/Options/Mục Measure from: chọn Text"
+      ],
+      "answer": "Design/Page Background/Page Borders/Options/Mục Measure from: chọn Text"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết nơi bật/tắt chức năng xem trước tác dụng của lệnh định dạng trên văn bản khi lướt chuột qua bảng chọn lựa định dạng",
+      "options": [
+        "File/Options/General/User Interface options/ScreenTip style",
+        "File/Options/General/User Interface options/Update document content while dragging",
+        "File/Options/General/User Interface options/Enable Live Preview",
+        "File/Options/General/User Interface options/Show Mini Toolbar on selection"
+      ],
+      "answer": "File/Options/General/User Interface options/Enable Live Preview"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết chức năng nhúng font đã sử dụng vào văn bản (vẫn hiển thị font đó thậm chí khi mở văn bản trên máy không có cài đặt font đó)",
+      "options": [
+        "File/Options/Save/Preserve fidelity when sharing this document/Embed fonts in the file",
+        "File/Options/Advanced/Display/Always use these fonts",
+        "File/Options/General/User Interface options/Embed fonts",
+        "File/Options/Proofing/Embed fonts in the file"
+      ],
+      "answer": "File/Options/Save/Preserve fidelity when sharing this document/Embed fonts in the file"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết thao tác thay đổi mức thứ tự cho đoạn đang áp dụng đánh thứ tự nhiều mức",
+      "options": [
+        "Design/Paragraph Spacing/Change List Level/Chọn mức cần thay đổi sang",
+        "Home/Paragraph/Multilevel List/Change List Level/Chọn mức cần thay đổi sang",
+        "Insert/SmartArt/Change List Level/Chọn mức cần thay đổi sang",
+        "References/Table of Contents/Multilevel List/Change List Level/Chọn mức cần thay đổi sang"
+      ],
+      "answer": "Home/Paragraph/Multilevel List/Change List Level/Chọn mức cần thay đổi sang"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách viền xung quanh trang bằng mẫu cây dừa",
+      "options": [
+        "File/Open/chọn mẫu đường viền cây dừa",
+        "Design/Document Formatting/Mục Art chọn mẫu đường viền cây dừa",
+        "Design/Page Background/Page Borders/Mục Art chọn mẫu đường viền cây dừa",
+        "Insert/Text/WordArt/chọn mẫu đường viền cây dừa"
+      ],
+      "answer": "Design/Page Background/Page Borders/Mục Art chọn mẫu đường viền cây dừa"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết nơi bật/tắt chức năng định dạng nhanh hơn văn bản",
+      "options": [
+        "File/Options/General/User Interface options/Update document content while dragging",
+        "File/Options/General/User Interface options/Enable Live Preview",
+        "File/Options/General/User Interface options/Show Mini Toolbar on selection",
+        "File/Options/General/User Interface options/ScreenTip style"
+      ],
+      "answer": "File/Options/General/User Interface options/Show Mini Toolbar on selection"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách tạo một mục Văn bản tự động (AutoText)",
+      "options": [
+        "Chọn khối văn bản muốn tạo tự động rồi vào Insert/Symbols/Symbol/Save selection to AutoText Gallery, điền thông tin cần thiết, sau đó nhấn Ok để kết thúc",
+        "Chọn khối văn bản muốn tạo tự động rồi vào Insert/Text/Quick Parts/AutoText/Save selection to AutoText Gallery, điền thông tin cần thiết, sau đó nhấn Ok để kết thúc",
+        "Chọn khối văn bản muốn tạo tự động rồi vào Home/Paragraph/AutoText/Save selection to AutoText Gallery, điền thông tin cần thiết, sau đó nhấn Ok để kết thúc",
+        "Chọn khối văn bản muốn tạo tự động rồi vào File/Options/AutoText/Save selection to AutoText Gallery, điền thông tin cần thiết, sau đó nhấn Ok để kết thúc"
+      ],
+      "answer": "Chọn khối văn bản muốn tạo tự động rồi vào Insert/Text/Quick Parts/AutoText/Save selection to AutoText Gallery, điền thông tin cần thiết, sau đó nhấn Ok để kết thúc"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để hiển thị danh sách các tập tin đã mở gần đây, ta thực hiện",
+      "options": [
+        "File/Options/Advanced/Editing options/chọn Typing replaces selected text",
+        "File/Options/Advanced/Editing options/chọn Use CTRL + Click to follow hyperlink",
+        "File/Options/Advanced/Display/Show this number of unpinned Recent Folders: 10",
+        "File/Options/Advanced/Display/Show this number of Recent Documents: 10"
+      ],
+      "answer": "File/Options/Advanced/Display/Show this number of Recent Documents: 10"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách để tự động cân chỉnh kích thước bảng tự động co giãn theo nội dung",
+      "options": [
+        "TABLE TOOLS/LAYOUT/Cell Size/AutoFit/AutoFit Contents",
+        "TABLE TOOLS/LAYOUT/Cell Size/Distribute Rows",
+        "TABLE TOOLS/LAYOUT/Cell Size/Distribute Columns",
+        "TABLE TOOLS/LAYOUT/Cell Size/AutoFit/AutoFit to Window"
+      ],
+      "answer": "TABLE TOOLS/LAYOUT/Cell Size/AutoFit/AutoFit Contents"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách để tự động cân chỉnh kích thước bảng vừa với độ rộng của trang",
+      "options": [
+        "TABLE TOOLS/LAYOUT/Cell Size/AutoFit/AutoFit to Window",
+        "TABLE TOOLS/LAYOUT/Cell Size/Distribute Columns",
+        "TABLE TOOLS/LAYOUT/Cell Size/AutoFit/AutoFit Contents",
+        "TABLE TOOLS/LAYOUT/Cell Size/Distribute Rows"
+      ],
+      "answer": "TABLE TOOLS/LAYOUT/Cell Size/AutoFit/AutoFit to Window"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách thay đổi đường nối giữa đề mục với số trang (chấm, gạch đứt nét, liền nét) khi đánh mục lục tự động",
+      "options": [
+        "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Tab leader: chọn loại mong muốn",
+        "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Right align page numbers: chọn một loại mong muốn",
+        "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../General/Show levels: chọn level mong muốn",
+        "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Show page numbers: chọn số mong muốn"
+      ],
+      "answer": "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Tab leader: chọn loại mong muốn"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết tùy chọn nào sau đây giúp mỗi đề mục trong mục lục là liên kết đến nội dung tương ứng trong văn bản",
+      "options": [
+        "Use hyperlinks instead of page numbers",
+        "Show page numbers",
+        "Right align page numbers",
+        "Show levels"
+      ],
+      "answer": "Use hyperlinks instead of page numbers"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách nào sau đây cho phép chèn một siêu liên kết",
+      "options": [
+        "INSERT/Links/Hyperlink/Existing File or Web page/Address: gõ địa chỉ web cần liên kết",
+        "INSERT/Links/Hyperlink/Place in This Document/Address: gõ địa chỉ web cần liên kết",
+        "INSERT/Links/Hyperlink/E-mail Address/Address: gõ địa chỉ web cần liên kết",
+        "Insert/Illustrations/Online Pictures"
+      ],
+      "answer": "INSERT/Links/Hyperlink/Existing File or Web page/Address: gõ địa chỉ web cần liên kết"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách nào sau đây cho phép xóa một siêu liên kết",
+      "options": [
+        "Đặt con trỏ tại vị trí có siêu liên kết/INSERT/Links/Hyperlink/Remove Link",
+        "Đặt con trỏ tại vị trí có siêu liên kết/REVIEW/Links/Hyperlink/Remove Link",
+        "Đặt con trỏ tại vị trí có siêu liên kết/DESIGN/Links/Hyperlink/Remove Link",
+        "Đặt con trỏ tại vị trí có siêu liên kết/REFERENCES/Links/Hyperlink/Remove Link"
+      ],
+      "answer": "Đặt con trỏ tại vị trí có siêu liên kết/INSERT/Links/Hyperlink/Remove Link"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách thêm hướng dẫn cho một trường biểu mẫu văn bản để mỗi khi người dùng chọn trường đó hướng dẫn hiển thị trên thanh trạng thái (status bar)",
+      "options": [
+        "Text Form Field/Text Form Field Options/Add Help Text.../Tại thẻ Status Bar/None: Gõ nội dung hướng dẫn",
+        "Text Form Field/Text Form Field Options/Bookmark: Gõ nội dung hướng dẫn",
+        "Text Form Field/Text Form Field Options/Default Text: Gõ nội dung hướng dẫn",
+        "Text Form Field/Text Form Field Options/Add Help Text.../Tại thẻ Help Key(F1)/Type your own: Gõ nội dung hướng dẫn"
+      ],
+      "answer": "Text Form Field/Text Form Field Options/Add Help Text.../Tại thẻ Status Bar/None: Gõ nội dung hướng dẫn"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết cách thêm hướng dẫn cho một trường biểu mẫu văn bản để mỗi khi người dùng chọn trường đó và nhấn F1 thì hướng dẫn sẽ hiển thị",
+      "options": [
+        "Text Form Field/Text Form Field Options/Add Help Text.../Tại thẻ Help Key(F1)/Type your own: Gõ nội dung hướng dẫn",
+        "Text Form Field/Text Form Field Options/Add Help Text.../Tại thẻ Help Key(F1)/None: Gõ nội dung hướng dẫn",
+        "Text Form Field/Text Form Field Options/Add Help Text.../Tại thẻ Status Bar/Nội dung hướng dẫn",
+        "Text Form Field/Text Form Field Options/Default Text: Gõ nội dung hướng dẫn"
+      ],
+      "answer": "Text Form Field/Text Form Field Options/Add Help Text.../Tại thẻ Help Key(F1)/Type your own: Gõ nội dung hướng dẫn"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cho biết chức năng của công cụ VIEW/Show/Navigation Pane",
+      "options": [
+        "Xem/duyệt qua các đề mục của văn bản, tìm kiếm nhanh trong văn bản",
+        "Thay đổi chế độ xem văn bản",
+        "Xem văn bản trước khi in và tùy chỉnh các thông tin cần thiết cho việc in",
+        "Cho phép chọn kích thước phóng to hay thu nhỏ văn bản trên màn hình"
+      ],
+      "answer": "Xem/duyệt qua các đề mục của văn bản, tìm kiếm nhanh trong văn bản"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây cho phép chèn một siêu liên kết vào văn bản mà không cần dùng chuột",
+      "options": [
+        "Chọn khối văn bản, sau đó nhấn Ctrl+K, gõ địa chỉ web vào ô Address",
+        "Chọn khối văn bản, sau đó nhấn Ctrl+C, gõ địa chỉ web vào ô Address",
+        "Chọn khối văn bản, sau đó nhấn Ctrl+V, gõ địa chỉ web vào ô Address",
+        "Chọn khối văn bản, sau đó nhấn Ctrl+X, gõ địa chỉ web vào ô Address"
+      ],
+      "answer": "Chọn khối văn bản, sau đó nhấn Ctrl+K, gõ địa chỉ web vào ô Address"
+    },
+    {
+
+      "question": "Trong Microsoft Word, để cập nhật lại nội dung của một khối trường (Field) ta thực hiện",
+      "options": [
+        "Chọn khối trường, cập nhật sau đó bấm phím F9",
+        "Chọn khối trường, cập nhật sau đó bấm phím Ctrl+F9",
+        "Chọn khối trường, cập nhật sau đó bấm phím Shift+F9",
+        "Chọn khối trường, cập nhật sau đó bấm phím Alt+F9"
+      ],
+      "answer": "Chọn khối trường, cập nhật sau đó bấm phím F9"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách tạo viền màu xung quanh ký tự",
+      "options": [
+        "Home/Font/Text Effect and Typography/Outline/Chọn màu trong bảng màu",
+        "Home/Font/Text Effect and Typography/Shadow",
+        "Home/Font/Text Effect and Typography/Glow",
+        "Home/Font/Text Effect and Typography/Reflection"
+      ],
+      "answer": "Home/Font/Text Effect and Typography/Outline/Chọn màu trong bảng màu"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách hủy màu đường viền xung quanh ký tự",
+      "options": [
+        "Home/Font/Text Effect and Typography/Outline/No Outline",
+        "Home/Font/Text Effect and Typography/Reflection",
+        "Home/Font/Text Effect and Typography/Shadow",
+        "Home/Font/Text Effect and Typography/Glow"
+      ],
+      "answer": "Home/Font/Text Effect and Typography/Outline/No Outline"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây thực hiện việc dán văn bản giữ định dạng gốc",
+      "options": [
+        "Home/Clipboard/Paste/Paste Options/Keep Source Formatting",
+        "Home/Clipboard/Paste/Paste Options/Merge Formatting",
+        "Home/Clipboard/Paste/Paste Options/Match Formatting",
+        "Home/Clipboard/Paste/Paste Options/Keep Text Only"
+      ],
+      "answer": "Home/Clipboard/Paste/Paste Options/Keep Source Formatting"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây thực hiện việc đánh số nhiều mức trong đoạn",
+      "options": [
+        "Home/Font/Multilevel List",
+        "Insert/Paragraph/Multilevel List",
+        "Home/Style/Multilevel List",
+        "Home/Paragraph/Multilevel List"
+      ],
+      "answer": "Home/Paragraph/Multilevel List"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách điều chỉnh hình ảnh nằm chính giữa văn bản",
+      "options": [
+        "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/In Line With Text",
+        "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Square",
+        "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Tight",
+        "Click chọn hình/Picture Tools/Format/Arrange/Position/In Line With Text"
+      ],
+      "answer": "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Square"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách điều chỉnh hình ảnh nằm bên trên văn bản là",
+      "options": [
+        "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Behind Text",
+        "Click chọn hình/Picture Tools/Format/Arrange/Position/In Front of Text",
+        "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Square",
+        "Click chọn hình/Picture Tools/Format/Arrange/Position/In Line With Text"
+      ],
+      "answer": "Click chọn hình/Picture Tools/Format/Arrange/Position/In Front of Text"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây điều chỉnh khoảng cách từ đoạn đến lề trái chính xác là 12pt",
+      "options": [
+        "Home/Paragraph/Spacing/Tại mục Left gõ 12 pt",
+        "Home/Paragraph/Line Spacing/Exactly và Ô At gõ 12 pt",
+        "Page Layout/Paragraph/Spacing/Tại mục Right gõ 12 pt",
+        "Home/Paragraph/Line Spacing/Multiple và Ô At gõ 12 pt"
+      ],
+      "answer": "Home/Paragraph/Spacing/Tại mục Left gõ 12 pt"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây điều chỉnh khoảng cách giữa các dòng trong đoạn chính xác là 13pt",
+      "options": [
+        "Home/Paragraph/Line Spacing/At least và Ô At gõ 13 pt",
+        "Home/Paragraph/Line Spacing/Exactly và Ô At gõ 13 pt",
+        "Home/Paragraph/Line Spacing/Single và Ô At gõ 13 pt",
+        "Home/Paragraph/Line Spacing/Multiple và Ô At gõ 13 pt"
+      ],
+      "answer": "Home/Paragraph/Line Spacing/Exactly và Ô At gõ 13 pt"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây điều chỉnh khoảng cách giữa các dòng trong đoạn là bội 2.5",
+      "options": [
+        "Home/Paragraph/Line Spacing/At least và Ô At gõ 2.5",
+        "Home/Paragraph/Line Spacing/Exactly và Ô At gõ 2.5",
+        "Home/Paragraph/Line Spacing/Multiple và Ô At gõ 2.5",
+        "Home/Paragraph/Line Spacing/Single và Ô At gõ 2.5"
+      ],
+      "answer": "Home/Paragraph/Line Spacing/Multiple và Ô At gõ 2.5"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách để điều chỉnh khung trang KHÔNG bao gồm tiêu đề đầu trang (Header) là cách nào sau đây",
+      "options": [
+        "Design/Page Background/Page Borders/Options/Mục Measure from: chọn Text và mục Options bỏ chọn Surround header",
+        "Insert/Header & Footer/Header/Remove header",
+        "Design/Page Background/Page Borders/Options/Header/Remove header",
+        "Insert/Header & Footer/Header/Mục Measure from: chọn Text và mục Options bỏ chọn Surround header"
+      ],
+      "answer": "Design/Page Background/Page Borders/Options/Mục Measure from: chọn Text và mục Options bỏ chọn Surround header"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây điều chỉnh khoảng cách giữa các dòng trong đoạn tối thiểu là 12pt",
+      "options": [
+        "Home/Paragraph/Line Spacing/At least và Ô At gõ 12 pt",
+        "Home/Paragraph/Line Spacing/Multiple và Ô At gõ 12 pt",
+        "Home/Paragraph/Line Spacing/Exactly và Ô At gõ 12 pt",
+        "Home/Paragraph/Line Spacing/Single và Ô At gõ 12 pt"
+      ],
+      "answer": "Home/Paragraph/Line Spacing/At least và Ô At gõ 12 pt"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây dùng để tạo một mẫu định dạng (Style)",
+      "options": [
+        "HOME/Styles/Create Style",
+        "PAGE LAYOUT/Styles/Create Style",
+        "DESIGN/Styles/Create Style",
+        "INSERT/Styles/Create Style"
+      ],
+      "answer": "HOME/Styles/Create Style"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách tạo Menu Rực rỡ cho ký tự",
+      "options": [
+        "Home/Font/Text Effect and Typography/Glow",
+        "Home/Font/Text Effect and Typography/Reflection/Reflection Variations/Chọn một mẫu thích hợp",
+        "Home/Font/Text Effect and Typography/Outline/Chọn màu trong bảng màu",
+        "Home/Font/Text Effect and Typography/Outline/No Outline"
+      ],
+      "answer": "Home/Font/Text Effect and Typography/Reflection/Reflection Variations/Chọn một mẫu thích hợp"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây thực hiện việc dán văn bản không giữ định dạng gốc",
+      "options": [
+        "Home/Clipboard/Paste/Paste Options/Merge Formatting",
+        "Home/Clipboard/Paste/Paste Options/Keep Text Only",
+        "Home/Clipboard/Paste/Paste Options/Keep Source Formatting",
+        "Home/Clipboard/Paste/Paste Options/Match Formatting"
+      ],
+      "answer": "Home/Clipboard/Paste/Paste Options/Keep Text Only"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách để hủy chia cột trong văn bản",
+      "options": [
+        "PAGE LAYOUT/Page Setup/Columns/One",
+        "PAGE LAYOUT/Page Setup/Columns/Delete Columns",
+        "PAGE LAYOUT/Page Setup/Columns/Remove Columns",
+        "PAGE LAYOUT/Page Setup/Columns/Remove All Columns"
+      ],
+      "answer": "PAGE LAYOUT/Page Setup/Columns/One"
+    },
+    {
+
+      "question": "Trong Microsoft Word, cách nào sau đây cho phép chuyển nhanh văn bản vào bảng",
+      "options": [
+        "Chọn khối đoạn văn bản cần chuyển rồi vào INSERT/Tables/Table/Convert Text to Table.../Chọn các thông số phù hợp/Ok để kết thúc",
+        "Chọn khối đoạn văn bản cần chuyển rồi vào TABLE TOOLS/DESIGN/Convert Text to Table.../Chọn các thông số phù hợp/Ok để kết thúc",
+        "Chọn khối đoạn văn bản cần chuyển rồi vào TABLE TOOLS/Home/Convert Text to Table.../Chọn các thông số phù hợp/Ok để kết thúc"
+       
+        ],
+        "answer": "Chọn khối đoạn văn bản cần chuyển rồi vào INSERT/Tables/Table/Convert Text to Table.../Chọn các thông số phù hợp/Ok để kết thúc"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, cách nào sau đây cho phép tạo mục lục theo các cấp độ của mẫu định dạng",
+        "options": [
+          "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Options/TOC level: gõ số ứng với cấp độ mục lục ở ô phù hợp",
+          "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Show levels: chọn số cấp đề mục cần tạo mục lục",
+          "INSERT/Table of Contents/Table of Contents/Custom Table of Contents.../Options/TOC level: gõ số ứng với cấp độ mục lục ở ô phù hợp",
+          "DESIGN/Table of Contents/Table of Contents/Custom Table of Contents.../Options/TOC level: gõ số ứng với cấp độ mục lục ở ô phù hợp"
+        ],
+        "answer": "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Options/TOC level: gõ số ứng với cấp độ mục lục ở ô phù hợp"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, khi chia văn bản thành 3 cột đều nhau, nếu độ rộng của ta rộng là 17cm và khoảng cách giữa các cột là 1cm thì độ rộng của mỗi cột là",
+        "options": [
+          "5cm",
+          "5.5cm",
+          "4.67cm",
+          "4cm"
+        ],
+        "answer": "5cm"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, khi tạo một mẫu định dạng (Style) phải chọn chức năng gì để áp dụng cho đoạn",
+        "options": [
+          "Style based on/Line",
+          "Style based on/Paragraph",
+          "Style for following paragraph/Paragraph",
+          "Style type/Paragraph"
+        ],
+        "answer": "Style type/Paragraph"
+      },
+      {
+
+        "question": "Trong Microsoft Word, khi tạo một mẫu định dạng (Style) phải chọn chức năng gì để áp dụng cho ký tự",
+        "options": [
+          "Style type/Character",
+          "Style for following paragraph/Character",
+          "Style based on/Character",
+          "Style based on/Text"
+        ],
+        "answer": "Style type/Character"
+      },
+      {
+
+        "question": "Trong Microsoft Word, khi tạo một mẫu định dạng (Style) phải chọn chức năng gì để văn bản đã sử dụng mẫu sẽ tự động cập nhật nếu ta chỉnh sửa lại mẫu",
+        "options": [
+          "Style based on",
+          "Automatically update",
+          "Only in this document",
+          "Add to the Styles gallery"
+        ],
+        "answer": "Automatically update"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, khi đặt 'password to modify' để cho văn bản thì điều gì sẽ xảy ra",
+        "options": [
+          "Được phép xem, chỉnh sửa văn bản, nhưng không cho lưu những kết quả trên chính file cũ",
+          "Không cho phép chỉnh sửa nội dung văn bản",
+          "Được phép thao tác trên văn bản, và được lưu kết quả bình thường",
+          "Không cho mở văn bản"
+        ],
+        "answer": "Được phép xem, chỉnh sửa văn bản, nhưng không cho lưu những kết quả trên chính file cũ"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, khi đặt 'password to modify' thì làm thế nào để xem được văn bản nếu không có mật khẩu",
+        "options": [
+          "Khi mở văn bản có hiển thị khung nhỏ thì nhấn vào nút 'Read Only'",
+          "Khi mở văn bản có hiển thị khung nhỏ thì nhấn Cancel",
+          "Khi mở văn bản có hiển thị khung nhỏ thì nhấn OK",
+          "Không thể mở được nếu không có mật khẩu"
+        ],
+        "answer": "Khi mở văn bản có hiển thị khung nhỏ thì nhấn vào nút 'Read Only'"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, lề Gutter là gì",
+        "options": [
+          "Là phần lề đối diện với gáy khi ta in hai mặt và đóng thành quyển",
+          "Là phần lề nối tiếp với gáy khi ta in hai mặt và đóng thành quyển",
+          "Là phần lề trái của trang văn bản khi ta in hai mặt và đóng thành quyển",
+          "Là phần lề phải của trang văn bản khi ta in hai mặt và đóng thành quyển"
+        ],
+        "answer": "Là phần lề đối diện với gáy khi ta in hai mặt và đóng thành quyển"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, khi chèn hình có dạng trái tim, muốn hình ảnh được văn bản bao sát theo hình trái tim ta thực hiện",
+        "options": [
+          "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/In Line With Text",
+          "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Square",
+          "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Tight",
+          "Click chọn hình/Picture Tools/Format/Arrange/Position/In Line With Text"
+        ],
+        "answer": "Click chọn hình/Picture Tools/Format/Arrange/Wrap Text/Tight"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, khi tạo mục lục tự động dựa trên Outline, làm thế nào để thiết lập số lượng cấp đề mục sẽ hiển thị",
+        "options": [
+          "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../General/Show levels",
+          "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../General/Format",
+          "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Show page numbers",
+          "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../Right align page numbers"
+        ],
+        "answer": "REFERENCES/Table of Contents/Table of Contents/Custom Table of Contents.../General/Show levels"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, công cụ nào sau đây là công cụ chỉ sao chép dạng của văn bản",
+        "options": [
+          "Home/Clipboard/Format Painter",
+          "Home/Clipboard/Copy",
+          "Home/Font/Bold",
+          "Home/Editing/Replace"
+        ],
+        "answer": "Home/Clipboard/Format Painter"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, công cụ VIEW/Window/Arrange All dùng để",
+        "options": [
+          "Sắp xếp nhanh nhiều cửa sổ Word",
+          "Sắp xếp nhanh nhiều cửa sổ chương trình khác",
+          "Chia tài liệu đang mở ra làm 02 phần theo chiều ngang",
+          "Chia tài liệu đang mở ra làm 02 phần theo chiều dọc"
+        ],
+        "answer": "Sắp xếp nhanh nhiều cửa sổ Word"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, công cụ VIEW/Window/Split dùng để",
+        "options": [
+          "Chia tài liệu ra làm 02 phần để có thể làm việc ở 02 vị trí cách xa nhau trên cùng tài liệu",
+          "Chia tài liệu thành 02 phần ngay vị trí con trỏ",
+          "Chia tài liệu ra làm 02 phần theo chiều ngang",
+          "Chia tài liệu ra làm 02 phần theo chiều dọc"
+        ],
+        "answer": "Chia tài liệu ra làm 02 phần để có thể làm việc ở 02 vị trí cách xa nhau trên cùng tài liệu"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, công cụ nào sau đây dùng để tạo một nhận xét/ghi chú (comment) trong văn bản",
+        "options": [
+          "REVIEW/Comments/New Comment",
+          "VIEW/Comments/Show Comments",
+          "REFERENCES/Comments/New Comment",
+          "INSERT/Comments/New Comment"
+        ],
+        "answer": "REVIEW/Comments/New Comment"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, công cụ cho phép chấp nhận và nhảy đến vị trí tiếp theo có sự thay đổi được ghi lại bởi chế độ tự động đánh dấu (track change) trong văn bản là",
+        "options": [
+          "REVIEW/Changes/Accept and Move to Next",
+          "REVIEW/Changes/Reject and Move to Next",
+          "REVIEW/Changes/Next",
+          "REVIEW/Changes/Previous"
+        ],
+        "answer": "REVIEW/Changes/Accept and Move to Next"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, công cụ cho phép từ chối và nhảy đến vị trí tiếp theo có sự thay đổi được ghi lại bởi chế độ tự động đánh dấu (track change) trong văn bản là",
+        "options": [
+          "REVIEW/Changes/Reject and Move to Next",
+          "REVIEW/Changes/Accept and Move to Next",
+          "REVIEW/Changes/Accept All Changes",
+          "REVIEW/Changes/Next"
+        ],
+        "answer": "REVIEW/Changes/Reject and Move to Next"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, công cụ cho phép chấp nhận tất cả sự thay đổi được ghi lại bởi chế độ tự động đánh dấu (track change) trong văn bản là",
+        "options": [
+          "REVIEW/Changes/Accept All Changes",
+          "REVIEW/Changes/Reject All Changes",
+          "REVIEW/Changes/Reject and Move to Next",
+          "REVIEW/Changes/Accept and Move to Next"
+        ],
+        "answer": "REVIEW/Changes/Accept All Changes"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, trình bày cách duyệt qua nhận xét/ghi chú (comment) của văn bản theo hướng tới",
+        "options": [
+          "REVIEW/Comments/Next",
+          "REVIEW/Comments/Show Comments",
+          "VIEW/Comments/Next",
+          "REFERENCES/Comments/New Comment"
+        ],
+        "answer": "REVIEW/Comments/Next"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, trình bày cách xóa một nhận xét/ghi chú (comment) đang chọn",
+        "options": [
+          "REVIEW/Comments/Delete",
+          "REVIEW/Comments/Delete All Comments in Document",
+          "REVIEW/Comments/Delete All Comments",
+          "REVIEW/Comments/Next"
+        ],
+        "answer": "REVIEW/Comments/Delete"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, trình bày cách hiển thị tất cả nhận xét/ghi chú (comment) trong văn bản",
+        "options": [
+          "REVIEW/Comments/Show Comments",
+          "REVIEW/Comments/New Comment",
+          "REFERENCES/Comments/New Comment",
+          "INSERT/Comments/New Comment"
+        ],
+      "answer": "REVIEW/Comments/Show Comments"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, trình bày cách tạo văn bản Word dựa trên mẫu thiết kế có sẵn",
+        "options": [
+          "Design/Page Background/Chọn một mẫu phù hợp",
+          "File/Open/Chọn một mẫu không phải Blank document",
+          "File/New/Chọn một mẫu không phải Blank document",
+          "Insert/Pages/Cover Page/New page"
+        ],
+        "answer": "File/New/Chọn một mẫu không phải Blank document"
+      },
+      {
+  
+        "question": "Trong Microsoft Word, trình bày cách tạo một cặp từ tự động thay thế khi gõ văn bản (ví dụ: khi gõ 'sv' tự động chuyển thành 'sinh viên')",
+        "options": [
+          "File/Options/Proofing/AutoCorrect Options/AutoCorrect options/Replace text as you type/Replace gõ 'sinh viên' và With gõ 'sv', sau đó nhấn Add",
+          "File/Options/Proofing/AutoCorrect Options/AutoCorrect options/Change text/Options/Replace gõ 'sv' và With gõ 'sinh viên', sau đó nhấn Add",
+          "File/Options/Proofing/AutoCorrect Options/AutoCorrect options/Replace text as you type/Replace gõ 'sv' và With gõ 'sinh viên', sau đó nhấn Add",
+          "File/Options/Proofing/AutoCorrect/Options/Replace gõ 'sinh viên' và With gõ 'sv', sau đó nhấn Add"
+        ],
+        "answer": "File/Options/Proofing/AutoCorrect Options/AutoCorrect options/Replace text as you type/Replace gõ 'sv' và With gõ 'sinh viên', sau đó nhấn Add"
+      },
+      {
+
+      "question": "Trong Microsoft Word, trình bày cách chuyển table thành văn bản",
+      "options": [
+        "Đặt con trỏ ở BÊN TRONG bảng rồi vào TABLE TOOLS/LAYOUT/Data/Convert to Text và chọn các thông số hợp lý",
+        "Đặt con trỏ ở BÊN NGOÀI bảng rồi vào TABLE TOOLS/LAYOUT/Data/Convert to Text và chọn các thông số hợp lý",
+        "Đặt con trỏ ở BÊN TRONG bảng rồi vào TABLE TOOLS/LAYOUT/Data/Sort và chọn các thông số hợp lý",
+        "Đặt con trỏ ở trong bảng rồi vào TABLE TOOLS/LAYOUT/Data/Formula và chọn các thông số hợp lý"
+      ],
+      "answer": "Đặt con trỏ ở BÊN TRONG bảng rồi vào TABLE TOOLS/LAYOUT/Data/Convert to Text và chọn các thông số hợp lý"
+    },
+    {
+
+      "question": "Trong Microsoft Word, chức năng để vạch đường phân chia giữa khi chia cột là gì",
+      "options": [
+        "Line between",
+        "Column Line",
+        "Line Separator",
+        "Column between"
+      ],
+      "answer": "Line between"
+    },
+    {
+
+        "question": "Trong Microsoft Word, để cho phép đặt mật khẩu khóa văn bản chỉ cho phép đọc là",
+        "options": [
+          "File/Info/Protect Document/Restrict Editing/No changes (Read only)",
+          "File/Info/Protect Document/Encrypt with Password",
+          "File/Info/Protect Document/Always Open Read-Only",
+          "File/Info/Protect Document/Mark as Final"
+        ],
+        "answer": "File/Info/Protect Document/Restrict Editing/No changes (Read only)"
+      },
+      {
+
+      "question": "Trình bày cách tùy chỉnh các lệnh trên 'Quick Access Toolbar' trong Microsoft Word",
+      "options": [
+        "File/Options/Quick Access Toolbar/Chọn lệnh từ danh sách 'Choose commands from', nhấn Add để thêm, dùng nút Move Up/Move Down để thay đổi thứ tự, nhấn Remove để xóa, sau đó nhấn OK",
+        "File/Options/Customize Ribbon/Chọn lệnh từ danh sách 'Choose commands from', nhấn Add để thêm",
+        "View/Toolbar/Quick Access Toolbar/Chọn lệnh và nhấn OK để thêm",
+        "Home/Quick Access Toolbar/Chọn lệnh từ danh sách và nhấn Add để thêm"
+      ],
+      "answer": "File/Options/Quick Access Toolbar/Chọn các lệnh từ danh sách Choose commands from', nhấn Add để thêm, dùng nút Move Up/Move Down để thay đổi thứ tự, nhấn Remove để xóa, sau đó nhấn OK"
+    },
+    {
+      "question": "Trong Word, để tạo thêm một phân đoạn (section) trong văn bản, bạn sử dụng?",
+      "options": [
+        "Page Layout > chọn Breaks > Chọn 1 lệnh trong nhóm Section Breaks",
+        "Page Layout > chọn Breaks > Chọn 1 lệnh trong nhóm Page Breaks",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Page Layout > chọn Breaks > Chọn 1 lệnh trong nhóm Section Breaks"
+    },
+    {
+      "question": "Trong Word, để tạo thêm một phân đoạn (section) mới, sang trang mới, bạn sử dụng?",
+      "options": [
+        "Page Layout > chọn Breaks > Next Page",
+        "Page Layout > chọn Breaks > Continuous",
+        "Page Layout > chọn Breaks > Even Pages",
+        "Page Layout > chọn Breaks > Odd Pages"
+      ],
+      "answer": "Page Layout > chọn Breaks > Next Page"
+    },
+    {
+      "question": "Trong Word, để tạo thêm một phân đoạn (section) mới, không sang trang mới (bắt đầu new section trong cùng trang), bạn sử dụng?",
+      "options": [
+        "Page Layout > chọn Breaks > Next Page",
+        "Page Layout > chọn Breaks > Continuous",
+        "Page Layout > chọn Breaks > Even Pages",
+        "Page Layout > chọn Breaks > Odd Pages"
+      ],
+      "answer": "Page Layout > chọn Breaks > Continuous"
+    },
+    {
+      "question": "Trong Word, để tạo thêm một phân đoạn (section) mới bắt đầu từ trang chẵn kế tiếp, bạn sử dụng?",
+      "options": [
+        "Page Layout > chọn Breaks > Next Page",
+        "Page Layout > chọn Breaks > Continuous",
+        "Page Layout > chọn Breaks > Even Pages",
+        "Page Layout > chọn Breaks > Odd Pages"
+      ],
+      "answer": "Page Layout > chọn Breaks > Even Pages"
+    },
+    {
+      "question": "Trong Word, để tạo thêm một phân đoạn (section) mới bắt đầu từ trang lẻ kế tiếp, bạn sử dụng?",
+      "options": [
+        "Page Layout > chọn Breaks > Next Page",
+        "Page Layout > chọn Breaks > Continuous",
+        "Page Layout > chọn Breaks > Even Pages",
+        "Page Layout > chọn Breaks > Odd Pages"
+      ],
+      "answer": "Page Layout > chọn Breaks > Odd Pages"
+    },
+    {
+      "question": "Trong Word, để tạo dụng các đầu trang, cuối trang khác nhau cho mỗi phân đoạn (section) sử dụng lựa chọn nào từ Header & Footer Tools?",
+      "options": [
+        "Chọn Different First Page trong nhóm Options của Tab Header & Footer Tools",
+        "Link to Previous trong nhóm Navigation của Tab Header & Footer Tools",
+        "Different Odd & Even Pages trong nhóm Options của Tab Header & Footer Tools",
+        "Show Document Text trong nhóm Options của Tab Header & Footer Tools"
+      ],
+      "answer": "Link to Previous trong nhóm Navigation của Tab Header & Footer Tools"
+    },
+    {
+      "question": "Trong Word, để áp dụng các đầu trang, cuối trang khác nhau cho trang đầu, bạn sử dụng lựa chọn nào từ Header & Footer Tools?",
+      "options": [
+        "Chọn Different Odd & Even Pages trong nhóm Options",
+        "Bỏ chọn Link to Previous trong nhóm Navigation",
+        "Chọn Different First Page trong nhóm Options",
+        "Chọn Show Document Text trong nhóm Options"
+      ],
+      "answer": "Chọn Different First Page trong nhóm Options"
+    },
+    {
+      "question": "Trong Word, để áp dụng các đầu trang, cuối trang khác nhau cho trang chẵn, trang lẻ, bạn sử dụng lựa chọn nào từ Header & Footer Tools?",
+      "options": [
+        "Chọn Different Odd & Even Pages trong nhóm Options",
+        "Bỏ chọn Link to Previous trong nhóm Navigation",
+        "Chọn Different First Page trong nhóm Options",
+        "Chọn Show Document Text trong nhóm Options"
+      ],
+      "answer": "Chọn Different Odd & Even Pages trong nhóm Options"
+    },
+    {
+      "question": "Trong Word, lệnh nào sau đây không tồn tại khi vào thẻ Insert chọn Header & Footer?",
+      "options": [
+        "Lệnh Header",
+        "Lệnh Footer",
+        "Lệnh Page Borders",
+        "Lệnh Page Number"
+      ],
+      "answer": "Lệnh Page Borders"
+    },
+    {
+      "question": "Trong Word, để hiển thị dấu phân đoạn (section) trong văn bản?",
+      "options": [
+        "Home, chọn Show/Hide",
+        "Tổ hợp phím Ctrl+*",
+        "Tổ hợp phím Ctrl+Enter",
+        "Câu A và B đúng"
+      ],
+      "answer": "Câu A và B đúng"
+    },
+    {
+      "question": "Trong Word, muốn tạo chú thích ở cuối văn bản (endnote)?",
+      "options": [
+        "Home > nhóm Footnotes > Insert Footnote",
+        "References > nhóm Footnotes > Insert Endnote",
+        "Insert > nhóm Footnotes > Insert Footnote",
+        "References > nhóm Footnotes > Insert Footnote"
+      ],
+      "answer": "References > nhóm Footnotes > Insert Endnote"
+    },
+    {
+      "question": "Trong Word, muốn tạo chú thích ở cuối trang của văn bản, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Home > nhóm Footnotes > Insert Footnote",
+        "References > nhóm Footnotes > Insert Endnote",
+        "Insert > nhóm Footnotes > Insert Footnote",
+        "References > nhóm Footnotes > Insert Footnote"
+      ],
+      "answer": "References > nhóm Footnotes > Insert Footnote"
+    },
+    {
+      "question": "Trong Word, để chuyển đổi chân trang (footnote) thành chân bài (endnote), bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Go to Footnote",
+        "Note option",
+        "Convert to Endnote",
+        "Cả 3 lựa chọn đều sai"
+      ],
+      "answer": "Convert to Endnote"
+    },
+    {
+      "question": "Trong Word, muốn chèn ngày tháng năm hiện hành vào văn bản, bạn thực hiện tab nào?",
+      "options": [
+        "Home > nhóm Editing > Field ... Date",
+        "Insert > nhóm Text > Quick Parts > Field ... Date",
+        "Insert > nhóm Text > Field ... Date",
+        "Insert > nhóm Text > Quick Parts > Date"
+      ],
+      "answer": "Insert > nhóm Text > Quick Parts > Field ... Date"
+    },
+    {
+      "question": "Trong Word, muốn nhúng dữ liệu vào tài liệu như một đối tượng, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Home > nhóm Editing > Object ...",
+        "Insert > nhóm Links > Object ...",
+        "Insert > nhóm Text > Object > Object ...",
+        "Tất cả các lựa chọn trên đều sai"
+      ],
+      "answer": "Insert > nhóm Text > Object > Object ..."
+    },
+    {
+      "question": "Trong Word, cách khai báo các đoạn luôn nằm trên cùng trang?",
+      "options": [
+        "Home > trong Paragraph > chọn thẻ Line and Page Break > check Keep Lines Together",
+        "Page Layout > Break > Next Page",
+        "Cả 2 đều đúng",
+        "Cả 2 đều sai"
+      ],
+      "answer": "Home > trong Paragraph > chọn thẻ Line and Page Break > check Keep Lines Together"
+    },
+    {
+      "question": "Trong Word, lệnh nào sau đây thuộc chức năng Page Number trên thẻ Insert?",
+      "options": [
+        "Lệnh Top of Page",
+        "Format Page Numbers",
+        "Bottom of Page",
+        "Cả 3 lựa chọn đều đúng"
+      ],
+      "answer": "Cả 3 lựa chọn đều đúng"
+    },
+    {
+      "question": "Để xác định kiểu mặc định của tập tin WinWord phiên bản 2013?",
+      "options": [
+        "Doc",
+        "Dotx",
+        "Docm",
+        "Docx"
+      ],
+      "answer": "Docx"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc ngắt cột trong văn bản, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Chọn Page Layout > Breaks > Column",
+        "Nhấn tổ hợp phím Ctrl+Shift+Enter",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc trình bày văn bản thành nhiều cột, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Page Layout > Columns",
+        "Insert > Columns",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Page Layout > Columns"
+    },
+    {
+      "question": "Trong Word, để sao chép định dạng chọn nhiều vùng dữ liệu khác nhau, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Double Click vào biểu tượng Format Painter trong nhóm Clipboard",
+        "Nhấn tổ hợp phím Ctrl+Shift+C",
+        "Nhấn tổ hợp phím Ctrl+C",
+        "Chọn biểu tượng Format Painter trong nhóm Clipboard"
+      ],
+      "answer": "Double Click vào biểu tượng Format Painter trong nhóm Clipboard"
+    },
+    {
+      "question": "Trong Word, cho biết công cụ nào dùng để sao chép định dạng?",
+      "options": [
+        "Format Painter",
+        "Copy, Paste",
+        "Cut, Paste",
+        "Cả 3 lựa chọn đều đúng"
+      ],
+      "answer": "Format Painter"
+    },
+    {
+      "question": "Trong Word, để đặt cách dòng trong một đoạn chính xác là 12pt, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Tại Line Spacing > At least",
+        "Tại Line Spacing > Exactly",
+        "Tại Line Spacing > Multiple",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Tại Line Spacing > Exactly"
+    },
+    {
+      "question": "Trong Word, lựa chọn nào không tồn tại trong mục đặt cách dòng trong một đoạn (line spacing)?",
+      "options": [
+        "1.5 lines",
+        "Expanded",
+        "Double",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Expanded"
+    },
+    {
+      "question": "Trong Word, để tạo khoảng cách dòng ta dùng chức năng?",
+      "options": [
+        "Line Spacing",
+        "Bullet and Numbering",
+        "Font",
+        "Paragraph"
+      ],
+      "answer": "Line Spacing"
+    },
+    {
+      "question": "Trong Word, khi cần các định dạng nhanh cho một văn bản có liên quan đến Font, Paragraph, Border, ... bạn sử dụng lựa chọn nào?",
+      "options": [
+        "AutoCorrect",
+        "AutoText",
+        "Styles",
+        "Select Browser Object"
+      ],
+      "answer": "Styles"
+    },
+    {
+      "question": "Trong Word, muốn tạo mới một Style, bạn sử dụng lựa chọn nào sau đây?",
+      "options": [
+        "Home > Style > New Style",
+        "Alt+Ctrl+Shift+S",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, cách làm ẩn vùng trắng giữa các trang (white space)?",
+      "options": [
+        "Double Click vào vùng trắng giữa các trang",
+        "Nhấn chuột 3 lần vào văn bản",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Double Click vào vùng trắng giữa các trang"
+    },
+    {
+      "question": "Trong Word, để chèn chữ nghệ thuật vào văn bản, vào thẻ Insert, bạn sử dụng?",
+      "options": [
+        "Symbol",
+        "Drop Cap",
+        "Quick Parts",
+        "WordArt"
+      ],
+      "answer": "WordArt"
+    },
+    {
+      "question": "Trong Word, để viết x², ta sử dụng tổ hợp phím?",
+      "options": [
+        "Ctrl+Shift+=",
+        "Ctrl+=",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Ctrl+Shift+="
+    },
+    {
+      "question": "Trong Word, để viết x₂, ta sử dụng tổ hợp phím?",
+      "options": [
+        "Ctrl+Shift+=",
+        "Ctrl+=",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Ctrl+="
+    },
+    {
+      "question": "Trong Word, để tăng kích cỡ của Font, người ta sử dụng tổ hợp phím?",
+      "options": [
+        "Ctrl+1",
+        "Ctrl+]",
+        "Home+L",
+        "Ctrl+S"
+      ],
+      "answer": "Ctrl+]"
+    },
+    {
+      "question": "Trong Word, để tìm và thay thế chuỗi văn bản, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Ctrl+Z",
+        "Ctrl+G",
+        "Ctrl+H",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Ctrl+H"
+    },
+    {
+      "question": "Để tìm và thay thế một từ bằng từ khác trong văn bản hiện hành trên WinWord?",
+      "options": [
+        "Sử dụng chức năng Search and Replace trong nhóm Editing",
+        "Sử dụng chức năng Find and Replace trong nhóm Editing",
+        "Sử dụng chức năng Replace trong nhóm Editing",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Sử dụng chức năng Find and Replace trong nhóm Editing"
+    },
+    {
+      "question": "Trong Word, muốn tạo mục lục tự động, thì đối tượng nào cần phải có?",
+      "options": [
+        "Style",
+        "Paragraph",
+        "Numbering",
+        "Hyperlink"
+      ],
+      "answer": "Style"
+    },
+    {
+      "question": "Trong Word, muốn tạo mục lục tự động, bạn chọn lựa chọn nào?",
+      "options": [
+        "Review > Table of Contents > Insert Table of Contents",
+        "References > Update Table",
+        "References > Table of Contents > Insert Table of Contents",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "References > Table of Contents > Insert Table of Contents"
+    },
+    {
+      "question": "Trong Word, lệnh nào để xuất mục lục tự động?",
+      "options": [
+        "Lệnh Table of Contents",
+        "Lệnh Hyperlink",
+        "Lệnh Table",
+        "Lệnh Quick Parts"
+      ],
+      "answer": "Lệnh Table of Contents"
+    },
+    {
+      "question": "Trong Word, muốn hiển thị trang tính trên màn hình, ta thực hiện?",
+      "options": [
+        "File > Print",
+        "File > OnScreen",
+        "File > View",
+        "File > Save & Send"
+      ],
+      "answer": "File > Print"
+    },
+    {
+      "question": "Lệnh nào sau đây thuộc về thiết lập cấu hình trang in trong WinWord?",
+      "options": [
+        "Lệnh Size",
+        "Lệnh Orientation",
+        "Lệnh Margins",
+        "Cả 3 lựa chọn đều đúng"
+      ],
+      "answer": "Cả 3 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, muốn in phần văn bản dạng chọn, sau khi chọn File > Print, trong vùng Page Range, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Pages",
+        "Current Page",
+        "Selection",
+        "All"
+      ],
+      "answer": "Selection"
+    },
+    {
+      "question": "Trong WinWord 2010, muốn định dạng lại trang giấy in, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "File > Options",
+        "Page Layout > Page Setup",
+        "File > Print",
+        "Cả 3 câu đều đúng"
+      ],
+      "answer": "Page Layout > Page Setup"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc thay đổi hướng trang, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "View > Print Layout",
+        "Page Layout > Orientation",
+        "Page Layout > Size",
+        "Page Layout > Text Direction"
+      ],
+      "answer": "Page Layout > Orientation"
+    },
+    {
+      "question": "Khi cần đặt lề trang chẵn trang lẻ khác nhau, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Page Layout > Page Setup > chọn thẻ Margins > chọn Mirror Margin",
+        "View > chọn Different Odd & Even Pages",
+        "Design > chọn Different Odd & Even Pages",
+        "Cả 3 lựa chọn đều sai"
+      ],
+      "answer": "Page Layout > Page Setup > chọn thẻ Margins > chọn Mirror Margin"
+    },
+    {
+      "question": "Trong Word, ta có thể thực hiện việc viền trang thông qua?",
+      "options": [
+        "Home, Paragraph, chọn Bottom Border, chọn Borders and Shading",
+        "Page Layout, Page Background, chọn Page Borders",
+        "Cả 2 lựa chọn trên đều đúng",
+        "Cả 2 lựa chọn trên đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn trên đều đúng"
+    },
+    {
+      "question": "Trong Word, để xóa các mục văn bản tự động (AutoText), bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Phím F3",
+        "Lệnh Remove AutoText",
+        "Phím Alt+F3",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Cả 3 lựa chọn trên đều sai"
+    },
+    {
+      "question": "Trong Word, bỏ tính năng chia màn hình làm việc (Split) ta sẽ?",
+      "options": [
+        "Vào View, chọn Remove Split",
+        "Double Click vào đường phân chia màn hình",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong WinWord, để đánh số thứ tự phân cấp kết hợp với kiểu đánh (Style)?",
+      "options": [
+        "Chọn chức năng Bullets trong nhóm Paragraph",
+        "Chọn chức năng Numbering trong nhóm Paragraph",
+        "Chọn chức năng Multilevel List trong nhóm Paragraph",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Chọn chức năng Multilevel List trong nhóm Paragraph"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc ghép các ô trong một bảng, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Right click > Merge Cells",
+        "Click chọn biểu tượng Merge Cells trên nhóm Layout của Table Tools",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc chia 1 ô thành nhiều ô trong một bảng?",
+      "options": [
+        "Right click > Split Cells",
+        "Click chọn biểu tượng Split Cells trên nhóm Layout của Table Tools",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, để sắp xếp dữ liệu giảm dần trong Table?",
+      "options": [
+        "Ascending",
+        "Descending",
+        "Increase",
+        "Decrease"
+      ],
+      "answer": "Descending"
+    },
+    {
+      "question": "Trong Word, để sắp xếp dữ liệu trong Table ta chọn?",
+      "options": [
+        "Data > Sort",
+        "Layout > Sort",
+        "Cả 2 đều đúng",
+        "Cả 2 đều sai"
+      ],
+      "answer": "Layout > Sort"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc tính toán trên Table?",
+      "options": [
+        "Đặt trỏ vào Table > Design > Formula",
+        "Đặt trỏ vào Table > Layout > Formula",
+        "Chọn Insert > Table > Formula",
+        "Cả 3 lựa chọn đều đúng"
+      ],
+      "answer": "Đặt trỏ vào Table > Layout > Formula"
+    },
+    {
+      "question": "Trong Word, để cập nhật lại công thức tính trong Table?",
+      "options": [
+        "F9",
+        "Ctrl+F9",
+        "Alt+F9",
+        "Shift+F9"
+      ],
+      "answer": "F9"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc lặp lại tiêu đề bảng trên các trang sử dụng lựa chọn nào?",
+      "options": [
+        "Insert > Table > Draw Table",
+        "Click chọn biểu tượng Repeat Header Row trên nhóm Layout của Table Tools",
+        "Table > Design > Banded Row",
+        "Table > Design > Header Row"
+      ],
+      "answer": "Click chọn biểu tượng Repeat Header Row trên nhóm Layout của Table Tools"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc chuyển đổi bảng (table) thành văn bản (text), bạn sử dụng chọn nào?",
+      "options": [
+        "Click chọn biểu tượng Convert To Text trên nhóm Layout của Table Tools",
+        "Click chọn biểu tượng Convert to Table trên nhóm Insert của Table Tools",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Click chọn biểu tượng Convert To Text trên nhóm Layout của Table Tools"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc chuyển đổi văn bản (text) thành bảng (table), bạn sử dụng chọn nào?",
+      "options": [
+        "Click chọn biểu tượng Convert To Text trên nhóm Layout của Table Tools",
+        "Click chọn biểu tượng Convert to Table trên nhóm Insert của Table Tools",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Click chọn biểu tượng Convert to Table trên nhóm Insert của Table Tools"
+    },
+    {
+      "question": "Trong Word, để chuyển nội dung văn bản trong table sang văn bản, chức năng nào được sử dụng?",
+      "options": [
+        "Convert to Text",
+        "Convert Text to Table",
+        "Convert Table to Text",
+        "Convert to Table"
+      ],
+      "answer": "Convert Table to Text"
+    },
+    {
+      "question": "Trong Word, nhóm công cụ nào sau đây cho phép định dạng hình ảnh?",
+      "options": [
+        "Picture Tools",
+        "Table Tools",
+        "Drawing Tools",
+        "SmartArt Tools"
+      ],
+      "answer": "Picture Tools"
+    },
+    {
+      "question": "Trong Word, thao tác chèn sơ đồ (SmartArt), muốn thêm một nhánh con, bạn sử dụng nào?",
+      "options": [
+        "Chọn Insert > Add Shape",
+        "Chọn Design > Add Shape",
+        "Chọn Format > Add Shape",
+        "Cả 3 lựa chọn đều sai"
+      ],
+      "answer": "Chọn Design > Add Shape"
+    },
+    {
+      "question": "Trong Word, để chuyển đổi sơ đồ (SmartArt) thành đối tượng vẽ, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Chuột phải vào sơ đồ, chọn Convert to Shapes",
+        "Chọn Reset Graphic từ SmartArt Tools",
+        "Cả 2 lựa chọn trên đều đúng",
+        "Cả 2 lựa chọn trên đều sai"
+      ],
+      "answer": "Chuột phải vào sơ đồ, chọn Convert to Shapes"
+    },
+    {
+      "question": "Đối tượng sơ đồ tổ chức (SmartArt) trong WinWord không cung cấp nhóm sơ đồ nào sau đây?",
+      "options": [
+        "Nhóm Hierarchy",
+        "Nhóm Pie",
+        "Nhóm Pyramid",
+        "Nhóm Cycle"
+      ],
+      "answer": "Nhóm Pie"
+    },
+    {
+      "question": "Trong Word, để khôi phục kích thước ảnh?",
+      "options": [
+        "Reset Picture & Size từ Picture Tools",
+        "Reset Picture từ Picture Tools",
+        "Chuột phải vào ảnh, Size and Position, thẻ Size, chọn Reset",
+        "Câu A và C đúng"
+      ],
+      "answer": "Câu A và C đúng"
+    },
+    {
+      "question": "Trong Word, để thay đổi màu sắc của một sơ đồ tổ chức, bạn sử dụng nhóm nào?",
+      "options": [
+        "Nhóm Shapes",
+        "Nhóm Layout",
+        "Nhóm SmartArt Styles",
+        "Nhóm Shapes Styles"
+      ],
+      "answer": "Nhóm SmartArt Styles"
+    },
+    {
+      "question": "Trong Word, để chỉnh sửa độ sáng tối và độ tương phản của ảnh, bạn sử dụng lựa chọn nào trong Picture Tools?",
+      "options": [
+        "Corrections > Sharpen/Soften",
+        "Corrections > Brightness/Contrast",
+        "Corrections > Compress Pictures",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Corrections > Brightness/Contrast"
+    },
+    {
+      "question": "Trong Word, để chỉnh sửa độ sắc nét và độ trơn mịn của ảnh, bạn sử dụng lựa chọn nào trong Picture Tools?",
+      "options": [
+        "Corrections > Sharpen/Soften",
+        "Corrections > Brightness/Contrast",
+        "Corrections > Compress Pictures",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Corrections > Sharpen/Soften"
+    },
+    {
+      "question": "Trong Word, để chèn thêm trang bìa cho tài liệu?",
+      "options": [
+        "Insert > Trong khung Pages > Cover Page",
+        "Insert > Header & Footer > Different First Page",
+        "Page Layout > Page Border",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "Insert > Trong khung Pages > Cover Page"
+    },
+    {
+      "question": "Trong Word, để tạo trang bìa, bạn chọn nút lệnh Cover Page từ thẻ nào?",
+      "options": [
+        "Chọn Insert",
+        "Chọn View",
+        "Chọn Page Layout",
+        "Chọn Review"
+      ],
+      "answer": "Chọn Insert"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc chèn một siêu liên kết trong văn bản sử dụng lựa chọn nào?",
+      "options": [
+        "Chọn biểu tượng Cross-reference trên nhóm Links của Tab Insert",
+        "Chọn biểu tượng Hyperlink trên nhóm Links của Tab Insert",
+        "Chọn biểu tượng Bookmark trên nhóm Links của Tab Insert",
+        "Cả 3 lựa chọn trên đều sai"
+      ],
+      "answer": "Chọn biểu tượng Hyperlink trên nhóm Links của Tab Insert"
+    },
+    {
+      "question": "Trong Word, để thực hiện liên kết, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Ctrl + Click trên đối tượng liên kết",
+        "Alt + Click trên đối tượng liên kết",
+        "Shift + Click trên đối tượng liên kết",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "Ctrl + Click trên đối tượng liên kết"
+    },
+    {
+      "question": "Trong Word, để thêm các điểm đánh dấu văn bản (bookmark), bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Click chọn biểu tượng Bookmark trên nhóm Links của Tab Insert",
+        "Chọn biểu tượng Bookmark trên nhóm Links của Tab Review",
+        "Cả 2 câu trên đều đúng",
+        "Cả 2 câu trên đều sai"
+      ],
+      "answer": "Click chọn biểu tượng Bookmark trên nhóm Links của Tab Insert"
+    },
+    {
+      "question": "Trong thao tác phối thư của Word, muốn chọn một ứng dụng để tạo danh mục người nhận, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Ứng dụng Word",
+        "Ứng dụng Access",
+        "Ứng dụng Excel",
+        "Cả 3 lựa chọn trên đều đúng"
+      ],
+      "answer": "Cả 3 lựa chọn trên đều đúng"
+    },
+    {
+      "question": "Trong Word, trong quá trình phối thư (Mail Merge), muốn lọc dữ liệu theo một tiêu chí nào đó, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Mailings > nhóm Start Mail Merge > Select Recipients > Filter...",
+        "Mailings > nhóm Start Mail Merge > Start Mail Merge > Filter...",
+        "Mailings > nhóm Start Mail Merge > Edit Recipient List > Sort...",
+        "Mailings > nhóm Start Mail Merge > Edit Recipient List > Filter..."
+      ],
+      "answer": "Mailings > nhóm Start Mail Merge > Edit Recipient List > Filter..."
+    },
+    {
+      "question": "Trong Word, trong quá trình phối thư (Mail Merge), muốn sắp xếp dữ liệu, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Mailings > nhóm Start Mail Merge > Select Recipients > Filter...",
+        "Mailings > nhóm Start Mail Merge > Start Mail Merge > Filter...",
+        "Mailings > nhóm Start Mail Merge > Edit Recipient List > Sort...",
+        "Mailings > nhóm Start Mail Merge > Edit Recipient List > Filter..."
+      ],
+      "answer": "Mailings > nhóm Start Mail Merge > Edit Recipient List > Sort..."
+    },
+    {
+      "question": "Trong Word, để thực hiện việc phối thư (Mail Merge), khi muốn chèn thêm các trường vào bản, người ta lựa chọn?",
+      "options": [
+        "Highlight Merge Fields",
+        "Address Block",
+        "Greeting Line",
+        "Insert Merge Field"
+      ],
+      "answer": "Insert Merge Field"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc chèn các trường điều kiện trong Mail Merge, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Chọn biểu tượng Insert Merge Field trên nhóm Mailings",
+        "Chọn biểu tượng If Then Else trên nhóm Mailings",
+        "Chọn biểu tượng Match Field trên nhóm Mailings",
+        "Chọn biểu tượng Address Book trên nhóm Mailings"
+      ],
+      "answer": "Chọn biểu tượng If Then Else trên nhóm Mailings"
+    },
+    {
+      "question": "Trong Word, lệnh nào trong thao tác phối thư (Mail Merge) để chỉ định danh mục người nhận?",
+      "options": [
+        "Lệnh Select Recipients",
+        "Lệnh Edit Recipient List",
+        "Lệnh Start Mail Merge",
+        "Lệnh Envelopes"
+      ],
+      "answer": "Lệnh Select Recipients"
+    },
+    {
+      "question": "Trong Word, để xem mẫu tin cuối trong kết quả phối thư, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Nút Next Record",
+        "Nút Previous Record",
+        "Nút Last Record",
+        "Nút First Record"
+      ],
+      "answer": "Nút Last Record"
+    },
+    {
+      "question": "Trong Word, để xuất kết quả phối thư ra máy in, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Preview Result",
+        "Print Document",
+        "Edit Individual Document",
+        "Insert Merge Field"
+      ],
+      "answer": "Print Document"
+    },
+    {
+      "question": "Trong Word, để in ra những dòng vị trí lẻ trong danh sách, bạn chọn?",
+      "options": [
+        "Rules > If...Then...Else...",
+        "Rules > Skip Record If",
+        "Rules > Next Record If",
+        "Rules > Next Record"
+      ],
+      "answer": "Rules > Skip Record If"
+    },
+    {
+      "question": "Trong Word, chức năng Restrict Editing không tồn tại trên thẻ nào của Ribbon?",
+      "options": [
+        "Thẻ Review",
+        "Thẻ Developer",
+        "Thẻ Insert",
+        "Thẻ File"
+      ],
+      "answer": "Thẻ Insert"
+    },
+    {
+      "question": "Trong Word, để từ chối các thay đổi trong văn bản, bạn sử dụng lựa chọn nào trong nhóm Changes?",
+      "options": [
+        "Restrict Editing",
+        "Reject",
+        "Accept",
+        "Cả 3 lựa chọn đều sai"
+      ],
+      "answer": "Reject"
+    },
+    {
+      "question": "Trong Word, có bật chế độ lần vết, để chấp nhận các thay đổi trong văn bản, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Click chọn biểu tượng Accept trên nhóm Changes của Tab Review",
+        "Click chọn biểu tượng Reject trên nhóm Changes của Tab Review",
+        "Click chọn biểu tượng Track Changes trên nhóm Tracking của Tab Review",
+        "Cả 3 lựa chọn đều sai"
+      ],
+      "answer": "Click chọn biểu tượng Accept trên nhóm Changes của Tab Review"
+    },
+    {
+      "question": "Trong Word, để thực hiện việc bật/tắt chế độ lần vết, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Click vào biểu tượng Track Changes trên nhóm Tracking của Tab Review",
+        "Nhấn tổ hợp phím Ctrl+Shift+E",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, muốn bảo vệ văn bản chỉ cho xem không cho sao chép và chỉnh sửa nội dung, trong Restrict Formatting and Editing, ta chọn?",
+      "options": [
+        "Filling in forms",
+        "Tracked changes",
+        "Comment",
+        "No Changes (Read Only)"
+      ],
+      "answer": "No Changes (Read Only)"
+    },
+    {
+      "question": "Trong Word, muốn khóa văn bản và chỉ làm việc với phần thiết kế Forms, trong Restrict Formatting and Editing?",
+      "options": [
+        "Filling in forms",
+        "Tracked changes",
+        "Comment",
+        "Cả 3 câu trên đều đúng"
+      ],
+      "answer": "Filling in forms"
+    },
+    {
+      "question": "Trong Word, khóa văn bản chỉ làm việc với Comment, trong Restrict Formatting and Editing chọn?",
+      "options": [
+        "Filling in forms",
+        "Tracked changes",
+        "Comment",
+        "Cả 3 câu trên đều đúng"
+      ],
+      "answer": "Comment"
+    },
+    {
+      "question": "Trong Word, muốn bảo vệ văn bản ở chế độ tracked change được thiết lập, trong Restrict Formatting and Editing, ta chọn?",
+      "options": [
+        "Filling in forms",
+        "Tracked changes",
+        "Comment",
+        "Cả 3 câu trên đều đúng"
+      ],
+      "answer": "Tracked changes"
+    },
+    {
+      "question": "Trong Word, để bảo vệ nội dung văn bản chỉ cho xem, bạn sử dụng lựa chọn nào trong mục Editing Restrictions?",
+      "options": [
+        "Filling in forms",
+        "Tracked changes",
+        "Comment",
+        "No Changes (Read Only)"
+      ],
+      "answer": "No Changes (Read Only)"
+    },
+    {
+      "question": "Trong Word, để hủy chế độ bảo vệ đối với một biểu mẫu, ta sẽ?",
+      "options": [
+        "Chọn File > Info > Protect Document > Encrypt with Password, gõ mật khẩu",
+        "Chọn Review > Restrict Editing > Stop Protection",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Chọn Review > Restrict Editing > Stop Protection"
+    },
+    {
+      "question": "Trong Word, khi cần so sánh hai phiên bản của văn bản, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Review > Combine",
+        "View > Compare",
+        "View > Combine",
+        "Review > Compare"
+      ],
+      "answer": "Review > Compare"
+    },
+    {
+      "question": "Trong Word, khi có nhiều tài liệu hoặc khi nhiều người chỉnh sửa một tài liệu Word và để kết hợp các tài liệu thành một bản duy nhất, chức năng nào sau đây được sử dụng?",
+      "options": [
+        "Merge Documents",
+        "Combine",
+        "Compare",
+        "MS Word không hỗ trợ"
+      ],
+      "answer": "Combine"
+    },
+    {
+      "question": "Trong Word, muốn kết hợp nội dung hai văn bản với nhau?",
+      "options": [
+        "Insert > nhóm Text > Compare > Combine",
+        "Review > nhóm Compare > Compare > Combine",
+        "Review > nhóm Compare > Compare > Compare",
+        "Home > nhóm Editing > Compare > Combine"
+      ],
+      "answer": "Review > nhóm Compare > Compare > Combine"
+    },
+    {
+      "question": "Trong Word, Drop Down Form Field, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Thẻ References",
+        "Thẻ Developer",
+        "Thẻ Insert",
+        "Tất cả đều sai"
+      ],
+      "answer": "Thẻ Developer"
+    },
+    {
+      "question": "Trong Word, muốn tạo ra bản sao lưu dự phòng khi lưu, ta chọn?",
+      "options": [
+        "File > Options > Advanced > Save > Always create backup copy",
+        "File > Save As",
+        "Cả 2 câu trên đều đúng",
+        "Cả 2 câu trên đều sai"
+      ],
+      "answer": "File > Options > Advanced > Save > Always create backup copy"
+    },
+    {
+      "question": "Trong Word, để khai báo chế độ sử dụng phím Ctrl+Click khi sử dụng liên kết, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "File > Options > Save > check vào Use Ctrl+Click to follow hyperlink",
+        "File > Options > Proofing > check vào Use Ctrl+Click to follow hyperlink",
+        "File > Options > Customize Ribbon > check vào Use Ctrl+Click to follow hyperlink",
+        "File > Options > Advanced > check vào Use Ctrl+Click to follow hyperlink"
+      ],
+      "answer": "File > Options > Advanced > check vào Use Ctrl+Click to follow hyperlink"
+    },
+    {
+      "question": "Trong Word, để khai báo chế độ không bị khoảng cách giữa các ký tự khi dùng thao tác Cut, Copy, Paste?",
+      "options": [
+        "File > Options > Advanced > gỡ bỏ vào mục Use smart cut and paste",
+        "File > Options > Advanced > check vào mục Use smart cut and paste",
+        "File > Options > Proofing > gỡ bỏ check mục Use smart cut and paste",
+        "File > Options > Proofing > check vào mục Use smart cut and paste"
+      ],
+      "answer": "File > Options > Advanced > check vào mục Use smart cut and paste"
+    },
+    {
+      "question": "Trong Word, muốn đặt mật khẩu bảo vệ khi mở tập tin văn bản, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "File > Info > Protect Document > Encrypt with Password",
+        "File > Save As > Tools > General Options > Password to Open",
+        "Cả 2 đều đúng",
+        "Cả 2 đều sai"
+      ],
+      "answer": "Cả 2 đều đúng"
+    },
+    {
+      "question": "Để chắc chắn font chữ trong văn bản của bạn vẫn được hiển thị đúng trên bất kỳ máy tính sau khi vào Options > Save, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Embed True Type Fonts",
+        "Save Fonts",
+        "Embed fonts in the file",
+        "Save True Type Fonts"
+      ],
+      "answer": "Embed fonts in the file"
+    },
+    {
+      "question": "Để tắt kiểm tra chính tả và ngữ pháp tiếng Việt trong Word, sau khi vào Options > Proofing ta sử dụng lựa chọn nào?",
+      "options": [
+        "Bỏ chọn Check grammar with spelling",
+        "Bỏ chọn Check spelling as you type",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, thiết lập cho phép sử dụng các luật câu Math AutoCorrect ngay cả khi không nhập công thức?",
+      "options": [
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang Math AutoCorrect check vào mục Use Math AutoCorrect rules outside of math regions",
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoFormat gỡ bỏ check Internet and network paths hyperlinks",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang Math AutoCorrect check vào mục Use Math AutoCorrect rules outside of math regions"
+    },
+    {
+      "question": "Trong Word, vô hiệu hóa tính năng tự động biến địa chỉ Internet thành siêu liên kết (hyperlink) của chức năng AutoCorrect?",
+      "options": [
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang Math AutoCorrect check vào mục Use Math AutoCorrect rules outside of math regions",
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoFormat gỡ bỏ check Internet and network paths hyperlinks",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoFormat gỡ bỏ check Internet and network paths hyperlinks"
+    },
+    {
+      "question": "Trong Word, để khai báo chế độ tự động chỉnh sửa dấu câu viết hoa?",
+      "options": [
+        "File > Options > Save > AutoCorrect options > chọn mục Capitalize first letter of sentences",
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoCorrect check vào mục Replace text as you type",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Cả 2 lựa chọn đều sai"
+    },
+    {
+      "question": "Trong Word, để khai báo chế độ tự động chỉnh sửa khi nhập văn bản, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "File > Options > Save > AutoCorrect options",
+        "File > Options > Proofing > AutoCorrect Options",
+        "File > Options > Display > AutoCorrect Options",
+        "File > Options > Language > AutoCorrect Options"
+      ],
+      "answer": "File > Options > Proofing > AutoCorrect Options"
+    },
+    {
+      "question": "Trong Word, cách dùng chức năng tự động thay thế từ 'TTTH' thành 'Trung Tâm Tin Học'?",
+      "options": [
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoCorrect > Check vào mục Replace text as you type",
+        "File > Options > Advanced > Chọn nút AutoCorrect options > trong trang AutoCorrect check vào mục Replace text as you type",
+        "File > Options > Save > chọn nút AutoCorrect Options > trong trang AutoCorrect check mục Replace text as you type",
+        "Cả 3 câu trên đều sai"
+      ],
+      "answer": "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoCorrect > Check vào mục Replace text as you type"
+    },
+    {
+      "question": "Trong Word, cách khai báo chức năng tự động thay thế từ 'TTTH' (phải dùng chữ in hoa) thành 'Trung Tâm Tin Học'?",
+      "options": [
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoCorrect check vào mục Replace text as you type",
+        "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoCorrect chọn nút Exceptions > trang Other Corrections gõ TTTH > nhấn Add > Ok",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "File > Options > Proofing > chọn nút AutoCorrect Options > trong trang AutoCorrect check vào mục Replace text as you type"
+    },
+    {
+      "question": "Trong Word, để thay đổi đơn vị đo trong thước?",
+      "options": [
+        "View > Ruler",
+        "File > Options > Advanced > chọn Show measurements in units of",
+        "Page Layout > Margin",
+        "File > Options > General"
+      ],
+      "answer": "File > Options > Advanced > chọn Show measurements in units of"
+    },
+    {
+      "question": "Trong Microsoft Word, đơn vị đo lường của thước?",
+      "options": [
+        "Inches",
+        "Centimeter",
+        "Points",
+        "Cả 3 lựa chọn đều đúng"
+      ],
+      "answer": "Cả 3 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong Word, cách khai báo sau mỗi 10 phút tự động lưu tập tin?",
+      "options": [
+        "File > Options > Save > Khai báo tại Save AutoRecover information every là 10",
+        "File > Options > Save > khai báo đường dẫn thư mục mặc định tại mục AutoRecover file location là 10",
+        "Cả 2 đều đúng",
+        "Cả 2 đều sai"
+      ],
+      "answer": "File > Options > Save > Khai báo tại Save AutoRecover information every là 10"
+    },
+    {
+      "question": "Trong Word, để thêm thẻ Developer vào thanh Ribbon sau khi vào File > Options?",
+      "options": [
+        "Chọn Customize Ribbon > chọn mục Developer > Ok",
+        "Chọn Customize Ribbon > double click mục Developer",
+        "Chọn mục Developer > chọn Ok",
+        "Chọn Advanced > chọn Customize Ribbon > chọn mục Developer > Ok"
+      ],
+      "answer": "Chọn Customize Ribbon > chọn mục Developer > Ok"
+    },
+    {
+      "question": "Để chọn mẫu văn bản có sẵn, ta chọn?",
+      "options": [
+        "Chọn mẫu Blank Document",
+        "Chọn mẫu không phải Blank Document",
+        "Chọn mẫu Sample Template",
+        "Chọn mẫu My Template"
+      ],
+      "answer": "Chọn mẫu không phải Blank Document"
+    },
+    {
+      "question": "Các lệnh trong Backstage trong thẻ nào?",
+      "options": [
+        "File",
+        "Insert",
+        "Home",
+        "View"
+      ],
+      "answer": "File"
+    }
+
+  ]
+}

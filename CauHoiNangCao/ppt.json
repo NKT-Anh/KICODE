@@ -1,0 +1,1030 @@
+{
+  "questions": [
+    {
+
+      "question": "Một bài thuyết trình Microsoft PowerPoint có tối đa bao nhiêu Slide Master?",
+      "options": [
+        "Không giới hạn",
+        "255",
+        "100",
+        "50"
+      ],
+      "answer": "Không giới hạn"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm một Slide Master mới, ta thực hiện:",
+      "options": [
+        "View/Slide Master/Insert Slide Master",
+        "View/Slide Master/Insert Layout",
+        "Insert/Slide Master/New Slide Master",
+        "Design/Slide Master/Insert Slide Master"
+      ],
+      "answer": "View/Slide Master/Insert Slide Master"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm một Layout mới vào Slide Master, ta thực hiện:",
+      "options": [
+        "View/Slide Master/Insert Layout",
+        "View/Slide Master/Insert Slide Master",
+        "Insert/Slide Master/New Layout",
+        "Design/Slide Master/Insert Layout"
+      ],
+      "answer": "View/Slide Master/Insert Layout"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chỉnh sửa Slide Master, ta vào tab nào?",
+      "options": [
+        "View/Slide Master",
+        "Design/Slide Master",
+        "Insert/Slide Master",
+        "Home/Slide Master"
+      ],
+      "answer": "View/Slide Master"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để áp dụng một Theme cho toàn bộ bài thuyết trình, ta thực hiện:",
+      "options": [
+        "Design/Themes/Chọn một Theme",
+        "View/Themes/Chọn một Theme",
+        "Insert/Themes/Chọn một Theme",
+        "Home/Themes/Chọn một Theme"
+      ],
+      "answer": "Design/Themes/Chọn một Theme"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thay đổi màu sắc của Theme, ta thực hiện:",
+      "options": [
+        "Design/Variants/Colors",
+        "Design/Themes/Colors",
+        "View/Variants/Colors",
+        "Insert/Variants/Colors"
+      ],
+      "answer": "Design/Variants/Colors"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thay đổi phông chữ của Theme, ta thực hiện:",
+      "options": [
+        "Design/Variants/Fonts",
+        "Design/Themes/Fonts",
+        "View/Variants/Fonts",
+        "Insert/Variants/Fonts"
+      ],
+      "answer": "Design/Variants/Fonts"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thay đổi hiệu ứng chuyển tiếp giữa các slide, ta vào tab nào?",
+      "options": [
+        "Transitions",
+        "Animations",
+        "Slide Show",
+        "Design"
+      ],
+      "answer": "Transitions"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm hiệu ứng động cho một đối tượng, ta vào tab nào?",
+      "options": [
+        "Animations",
+        "Transitions",
+        "Slide Show",
+        "Design"
+      ],
+      "answer": "Animations"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm một slide mới, ta thực hiện:",
+      "options": [
+        "Home/New Slide",
+        "Insert/New Slide",
+        "Design/New Slide",
+        "View/New Slide"
+      ],
+      "answer": "Home/New Slide"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để xóa một slide, ta thực hiện:",
+      "options": [
+        "Chọn slide trong Slide Pane, nhấn Delete",
+        "Chọn slide trong Slide Pane, nhấn Ctrl+X",
+        "Chọn slide trong Slide Pane, vào Home/Cut",
+        "Chọn slide trong Slide Pane, vào Insert/Delete"
+      ],
+      "answer": "Chọn slide trong Slide Pane, nhấn Delete"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để sao chép một slide, ta thực hiện:",
+      "options": [
+        "Chọn slide, nhấn Ctrl+C, sau đó nhấn Ctrl+V",
+        "Chọn slide, nhấn Ctrl+X, sau đó nhấn Ctrl+V",
+        "Chọn slide, vào Home/Copy, sau đó Home/Paste",
+        "Chọn slide, vào Insert/Copy, sau đó Insert/Paste"
+      ],
+      "answer": "Chọn slide, nhấn Ctrl+C, sau đó nhấn Ctrl+V"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để di chuyển một slide trong Slide Pane, ta thực hiện:",
+      "options": [
+        "Kéo thả slide đến vị trí mong muốn",
+        "Chọn slide, nhấn Ctrl+X, di chuyển con trỏ, nhấn Ctrl+V",
+        "Chọn slide, vào Home/Cut, di chuyển con trỏ, vào Home/Paste",
+        "Chọn slide, vào Insert/Move Slide"
+      ],
+      "answer": "Kéo thả slide đến vị trí mong muốn"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn hình ảnh vào slide, ta thực hiện:",
+      "options": [
+        "Insert/Pictures",
+        "Insert/Illustrations",
+        "Home/Pictures",
+        "Design/Pictures"
+      ],
+      "answer": "Insert/Pictures"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn video vào slide, ta thực hiện:",
+      "options": [
+        "Insert/Video",
+        "Insert/Media",
+        "Home/Video",
+        "Design/Video"
+      ],
+      "answer": "Insert/Video"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn âm thanh vào slide, ta thực hiện:",
+      "options": [
+        "Insert/Audio",
+        "Insert/Media",
+        "Home/Audio",
+        "Design/Audio"
+      ],
+      "answer": "Insert/Audio"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn biểu đồ vào slide, ta thực hiện:",
+      "options": [
+        "Insert/Chart",
+        "Insert/Illustrations",
+        "Home/Chart",
+        "Design/Chart"
+      ],
+      "answer": "Insert/Chart"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn WordArt vào slide, ta thực hiện:",
+      "options": [
+        "Insert/Text/WordArt",
+        "Insert/Illustrations/WordArt",
+        "Home/Text/WordArt",
+        "Design/Text/WordArt"
+      ],
+      "answer": "Insert/Text/WordArt"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn SmartArt vào slide, ta thực hiện:",
+      "options": [
+        "Insert/Illustrations/SmartArt",
+        "Insert/Text/SmartArt",
+        "Home/Illustrations/SmartArt",
+        "Design/Illustrations/SmartArt"
+      ],
+      "answer": "Insert/Illustrations/SmartArt"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn một siêu liên kết, ta thực hiện:",
+      "options": [
+        "Insert/Links/Hyperlink",
+        "Insert/Text/Hyperlink",
+        "Home/Links/Hyperlink",
+        "Design/Links/Hyperlink"
+      ],
+      "answer": "Insert/Links/Hyperlink"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, phím tắt để bắt đầu trình chiếu từ slide đầu tiên là:",
+      "options": [
+        "F5",
+        "Ctrl+F5",
+        "Shift+F5",
+        "Alt+F5"
+      ],
+      "answer": "F5"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, phím tắt để bắt đầu trình chiếu từ slide hiện tại là:",
+      "options": [
+        "Shift+F5",
+        "F5",
+        "Ctrl+F5",
+        "Alt+F5"
+      ],
+      "answer": "Shift+F5"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để kết thúc trình chiếu, ta nhấn phím nào?",
+      "options": [
+        "Esc",
+        "Enter",
+        "F5",
+        "Ctrl+F5"
+      ],
+      "answer": "Esc"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chuyển đến slide tiếp theo trong khi trình chiếu, ta nhấn phím nào?",
+      "options": [
+        "Right Arrow",
+        "Left Arrow",
+        "Up Arrow",
+        "Down Arrow"
+      ],
+      "answer": "Right Arrow"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chuyển đến slide trước đó trong khi trình chiếu, ta nhấn phím nào?",
+      "options": [
+        "Left Arrow",
+        "Right Arrow",
+        "Up Arrow",
+        "Down Arrow"
+      ],
+      "answer": "Left Arrow"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm ghi chú cho slide, ta thực hiện:",
+      "options": [
+        "View/Show/Notes",
+        "Insert/Comments",
+        "Home/Notes",
+        "Design/Notes"
+      ],
+      "answer": "View/Show/Notes"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để xem trước toàn bộ slide trong chế độ Reading View, ta thực hiện:",
+      "options": [
+        "View/Reading View",
+        "View/Slide Sorter",
+        "View/Slide Show",
+        "View/Normal"
+      ],
+      "answer": "View/Reading View"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để sắp xếp lại thứ tự các slide, ta sử dụng chế độ nào?",
+      "options": [
+        "Slide Sorter",
+        "Reading View",
+        "Normal",
+        "Slide Show"
+      ],
+      "answer": "Slide Sorter"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để ẩn một slide trong khi trình chiếu, ta thực hiện:",
+      "options": [
+        "Chọn slide, vào Slide Show/Set Up/Hide Slide",
+        "Chọn slide, vào Slide Show/Set Up/Show Slide",
+        "Chọn slide, vào Home/Hide Slide",
+        "Chọn slide, vào Insert/Hide Slide"
+      ],
+      "answer": "Chọn slide, vào Slide Show/Set Up/Hide Slide"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để hiện lại slide đã ẩn, ta thực hiện:",
+      "options": [
+        "Chọn slide, vào Slide Show/Set Up/Hide Slide để bỏ chọn",
+        "Chọn slide, vào Slide Show/Set Up/Show Slide",
+        "Chọn slide, vào Home/Show Slide",
+        "Chọn slide, vào Insert/Show Slide"
+      ],
+      "answer": "Chọn slide, vào Slide Show/Set Up/Hide Slide để bỏ chọn"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để tùy chỉnh thời gian chuyển tiếp tự động giữa các slide, ta thực hiện:",
+      "options": [
+        "Transitions/Timing/After",
+        "Animations/Timing/After",
+        "Slide Show/Timing/After",
+        "Design/Timing/After"
+      ],
+      "answer": "Transitions/Timing/After"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm hiệu ứng động xuất hiện cho một đối tượng, ta thực hiện:",
+      "options": [
+        "Animations/Add Animation/Entrance",
+        "Animations/Add Animation/Exit",
+        "Transitions/Add Animation/Entrance",
+        "Design/Add Animation/Entrance"
+      ],
+      "answer": "Animations/Add Animation/Entrance"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm hiệu ứng động biến mất cho một đối tượng, ta thực hiện:",
+      "options": [
+        "Animations/Add Animation/Exit",
+        "Animations/Add Animation/Entrance",
+        "Transitions/Add Animation/Exit",
+        "Design/Add Animation/Exit"
+      ],
+      "answer": "Animations/Add Animation/Exit"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm hiệu ứng động nhấn mạnh cho một đối tượng, ta thực hiện:",
+      "options": [
+        "Animations/Add Animation/Emphasis",
+        "Animations/Add Animation/Entrance",
+        "Transitions/Add Animation/Emphasis",
+        "Design/Add Animation/Emphasis"
+      ],
+      "answer": "Animations/Add Animation/Emphasis"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm hiệu ứng động đường đi cho một đối tượng, ta thực hiện:",
+      "options": [
+        "Animations/Add Animation/Motion Paths",
+        "Animations/Add Animation/Entrance",
+        "Transitions/Add Animation/Motion Paths",
+        "Design/Add Animation/Motion Paths"
+      ],
+      "answer": "Animations/Add Animation/Motion Paths"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để sao chép định dạng của một đối tượng sang đối tượng khác, ta sử dụng công cụ nào?",
+      "options": [
+        "Home/Clipboard/Format Painter",
+        "Home/Clipboard/Copy",
+        "Design/Clipboard/Format Painter",
+        "Insert/Clipboard/Format Painter"
+      ],
+      "answer": "Home/Clipboard/Format Painter"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để căn giữa một đối tượng trên slide, ta thực hiện:",
+      "options": [
+        "Home/Paragraph/Center",
+        "Format/Align/Center",
+        "Design/Align/Center",
+        "Insert/Align/Center"
+      ],
+      "answer": "Format/Align/Center"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để căn chỉnh nhiều đối tượng thẳng hàng, ta thực hiện:",
+      "options": [
+        "Format/Align/Align Selected Objects",
+        "Home/Paragraph/Align",
+        "Design/Align/Align Selected Objects",
+        "Insert/Align/Align Selected Objects"
+      ],
+      "answer": "Format/Align/Align Selected Objects"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để nhóm nhiều đối tượng thành một, ta thực hiện:",
+      "options": [
+        "Format/Group/Group",
+        "Home/Group/Group",
+        "Design/Group/Group",
+        "Insert/Group/Group"
+      ],
+      "answer": "Format/Group/Group"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để bỏ nhóm các đối tượng, ta thực hiện:",
+      "options": [
+        "Format/Group/Ungroup",
+        "Home/Group/Ungroup",
+        "Design/Group/Ungroup",
+        "Insert/Group/Ungroup"
+      ],
+      "answer": "Format/Group/Ungroup"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để lưu bài thuyết trình dưới dạng PDF, ta thực hiện:",
+      "options": [
+        "File/Save As/Choose PDF format",
+        "File/Export/Create PDF",
+        "File/Print/Save as PDF",
+        "File/Share/Save as PDF"
+      ],
+      "answer": "File/Save As/Choose PDF format"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để chèn một bảng vào slide, ta thực hiện:",
+      "options": [
+        "Insert/Table",
+        "Insert/Chart",
+        "Home/Table",
+        "Design/Table"
+      ],
+      "answer": "Insert/Table"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm hàng mới vào bảng, ta thực hiện:",
+      "options": [
+        "Table Tools/Layout/Insert Above hoặc Insert Below",
+        "Table Tools/Design/Insert Above",
+        "Home/Insert Above",
+        "Insert/Insert Above"
+      ],
+      "answer": "Table Tools/Layout/Insert Above hoặc Insert Below"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm cột mới vào bảng, ta thực hiện:",
+      "options": [
+        "Table Tools/Layout/Insert Left hoặc Insert Right",
+        "Table Tools/Design/Insert Left",
+        "Home/Insert Left",
+        "Insert/Insert Left"
+      ],
+      "answer": "Table Tools/Layout/Insert Left hoặc Insert Right"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để gộp các ô trong bảng, ta thực hiện:",
+      "options": [
+        "Table Tools/Layout/Merge Cells",
+        "Table Tools/Design/Merge Cells",
+        "Home/Merge Cells",
+        "Insert/Merge Cells"
+      ],
+      "answer": "Table Tools/Layout/Merge Cells"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để tách các ô trong bảng, ta thực hiện:",
+      "options": [
+        "Table Tools/Layout/Split Cells",
+        "Table Tools/Design/Split Cells",
+        "Home/Split Cells",
+        "Insert/Split Cells"
+      ],
+      "answer": "Table Tools/Layout/Split Cells"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để bảo vệ bài thuyết trình bằng mật khẩu, ta thực hiện:",
+      "options": [
+        "File/Info/Protect Presentation/Encrypt with Password",
+        "File/Info/Protect Presentation/Restrict Access",
+        "File/Save As/Protect Presentation",
+        "File/Share/Protect Presentation"
+      ],
+      "answer": "File/Info/Protect Presentation/Encrypt with Password"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để kiểm tra lỗi chính tả, ta thực hiện:",
+      "options": [
+        "Review/Proofing/Spelling",
+        "Home/Proofing/Spelling",
+        "Insert/Proofing/Spelling",
+        "Design/Proofing/Spelling"
+      ],
+      "answer": "Review/Proofing/Spelling"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thêm nhận xét (comment) vào slide, ta thực hiện:",
+      "options": [
+        "Review/Comments/New Comment",
+        "Insert/Comments/New Comment",
+        "Home/Comments/New Comment",
+        "Design/Comments/New Comment"
+      ],
+      "answer": "Review/Comments/New Comment"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để xóa nhận xét (comment) trên slide, ta thực hiện:",
+      "options": [
+        "Review/Comments/Delete",
+        "Insert/Comments/Delete",
+        "Home/Comments/Delete",
+        "Design/Comments/Delete"
+      ],
+      "answer": "Review/Comments/Delete"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để thiết lập trình chiếu tự động, ta thực hiện:",
+      "options": [
+        "Slide Show/Set Up/Set Up Slide Show/Loop continuously until 'Esc'",
+        "Slide Show/Set Up/Set Up Slide Show/Advance slides manually",
+        "Transitions/Set Up/Loop continuously",
+        "Animations/Set Up/Loop continuously"
+      ],
+      "answer": "Slide Show/Set Up/Set Up Slide Show/Loop continuously until 'Esc'"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để tạo chỉ số trên (superscript) trong văn bản, ta thực hiện:",
+      "options": [
+        "Home/Font/Superscript",
+        "Insert/Font/Superscript",
+        "Design/Font/Superscript",
+        "Review/Font/Superscript"
+      ],
+      "answer": "Home/Font/Superscript"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để tạo chỉ số dưới (subscript) trong văn bản, ta thực hiện:",
+      "options": [
+        "Home/Font/Subscript",
+        "Insert/Font/Subscript",
+        "Design/Font/Subscript",
+        "Review/Font/Subscript"
+      ],
+      "answer": "Home/Font/Subscript"
+    },
+    {
+
+      "question": "Trong Microsoft PowerPoint, để sao chép một đoạn văn bản từ Word sang PowerPoint, ta thực hiện:",
+      "options": [
+        "Sao chép văn bản từ Word, vào PowerPoint nhấn Ctrl+V",
+        "Sao chép văn bản từ Word, vào PowerPoint vào Insert/Paste",
+        "Sao chép văn bản từ Word, vào PowerPoint vào Design/Paste",
+        "Không thể sao chép văn bản từ Word sang PowerPoint"
+      ],
+      "answer": "Sao chép văn bản từ Word, vào PowerPoint nhấn Ctrl+V"
+    },
+    {
+
+      "question": "Chọn câu sai trong các câu sau về Microsoft PowerPoint:",
+      "options": [
+        "Trong PowerPoint không thể tạo chỉ số trên (như trong Word, ví dụ: X²)",
+        "Có thể sao chép một đoạn văn bản từ Word sang PowerPoint",
+        "Có thể chèn WordArt vào PowerPoint",
+        "Có thể chèn biểu đồ vào PowerPoint"
+      ],
+      "answer": "Trong PowerPoint không thể tạo chỉ số trên (như trong Word, ví dụ: X²)"
+    },
+    {
+      "question": "Trong PowerPoint, có chế độ hiển thị nào?",
+      "options": [
+        "Normal, Slide Sorter, Web Layout, Reading View",
+        "Normal, Slide Sorter, Notes Page, Print Layout",
+        "Normal, Slide Sorter, Notes Page, Reading View",
+        "Tất cả lựa chọn trên đều sai"
+      ],
+      "answer": "Normal, Slide Sorter, Notes Page, Reading View"
+    },
+    {
+      "question": "Trong PowerPoint, khi cần chế độ View tốt nhất để duyệt qua một bản trình chiếu, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Slide Sorter View",
+        "Slide Master View",
+        "Outline View",
+        "Cả A và B đúng"
+      ],
+      "answer": "Slide Sorter View"
+    },
+    {
+      "question": "Mỗi một trang trong PowerPoint gọi là?",
+      "options": [
+        "Slide",
+        "Presentation",
+        "File",
+        "Document"
+      ],
+      "answer": "Slide"
+    },
+    {
+      "question": "Ở chế độ Normal View, cửa sổ Note thường dùng để?",
+      "options": [
+        "Ghi chú cho Slide",
+        "Chèn Footer cho Slide",
+        "Sắp xếp Slide",
+        "Không làm gì cả"
+      ],
+      "answer": "Ghi chú cho Slide"
+    },
+    {
+      "question": "Khi muốn tạo bài thuyết trình ở dạng dàn bài, ở tab View ta chọn?",
+      "options": [
+        "Notes Page",
+        "Normal View",
+        "Outline View",
+        "Slide Sorter"
+      ],
+      "answer": "Outline View"
+    },
+    {
+      "question": "Trim Video là chức năng dùng để?",
+      "options": [
+        "Lựa chọn đoạn video sẽ được phát trong bài thuyết trình từ video được chèn vào ban đầu",
+        "Xóa video đã chèn",
+        "Thay video đã chèn bằng video khác",
+        "Thay đổi kiểu video"
+      ],
+      "answer": "Lựa chọn đoạn video sẽ được phát trong bài thuyết trình từ video được chèn vào ban đầu"
+    },
+    {
+      "question": "Trong PowerPoint, bài thuyết trình có thể lưu thành các tập tin dạng nào sau đây?",
+      "options": [
+        "JPG",
+        "PDF",
+        "WMV",
+        "Cả 3 câu trên đều đúng"
+      ],
+      "answer": "Cả 3 câu trên đều đúng"
+    },
+    {
+      "question": "Trong PowerPoint, tập tin trình chiếu có kiểu (*.PPSX) là?",
+      "options": [
+        "Tập tin mẫu",
+        "Tập tin có chứa Macro",
+        "Tập tin trình chiếu không cần khởi động PowerPoint trước",
+        "Tất cả lựa chọn trên đều sai"
+      ],
+      "answer": "Tập tin trình chiếu không cần khởi động PowerPoint trước"
+    },
+    {
+      "question": "Trong PowerPoint, để thực hiện việc lưu một mẫu đang có thành mẫu (*.potx) mới, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "File > Save As > Save As Type chọn PowerPoint Template",
+        "File > Save As > Save As Type chọn Office Template",
+        "File > Save As > Save As Type chọn PowerPoint Presentation",
+        "File > Save As > Save As Type chọn PDF"
+      ],
+      "answer": "File > Save As > Save As Type chọn PowerPoint Template"
+    },
+    {
+      "question": "Khi lưu bài thuyết trình được tạo trên PowerPoint 2013 dưới dạng 2007 hoặc cũ hơn, PowerPoint sẽ?",
+      "options": [
+        "Kiểm tra tính tương thích và cảnh báo những tính năng không được hỗ trợ",
+        "Vẫn lưu bình thường, không có cảnh báo gì cả",
+        "Tạo thành 02 bài, một phiên bản 2013 và một phiên bản cũ",
+        "Không cho lưu"
+      ],
+      "answer": "Kiểm tra tính tương thích và cảnh báo những tính năng không được hỗ trợ"
+    },
+    {
+      "question": "Trong PowerPoint, tập tin trình chiếu có kiểu (*.ppsm) là?",
+      "options": [
+        "Tập tin mẫu",
+        "Tập tin có chứa Macro",
+        "Tập tin trình chiếu không cần khởi động PowerPoint trước",
+        "Tất cả lựa chọn trên đều sai"
+      ],
+      "answer": "Tập tin có chứa Macro"
+    },
+    {
+      "question": "Trong PowerPoint, để xóa một hiệu ứng trên một đối tượng còn hiệu ứng, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Chọn đối tượng > tab Animations > Animation Pane > Chọn hiệu ứng None",
+        "Chọn đối tượng > tab Animations > Animation Pane > Chọn hiệu ứng Remove",
+        "Cả 2 lựa chọn trên đều đúng",
+        "Cả 2 lựa chọn trên đều sai"
+      ],
+      "answer": "Chọn đối tượng > tab Animations > Animation Pane > Chọn hiệu ứng None"
+    },
+    {
+      "question": "Trong PowerPoint, để thực hiện việc đặt hiệu ứng cho các đối tượng trong slide, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Chọn đối tượng > tab Animations > Chọn một hiệu ứng trong Animation",
+        "Chọn đối tượng > tab Animations > Animation Pane",
+        "Chọn trang > Slide Transitions > Chọn một hiệu ứng trong Transition to This Slide",
+        "Cả 3 lựa chọn trên đều đúng"
+      ],
+      "answer": "Chọn đối tượng > tab Animations > Chọn một hiệu ứng trong Animation"
+    },
+    {
+      "question": "Thực hiện thao tác Animation > Add Animation là để?",
+      "options": [
+        "Tạo hiệu ứng chuyển trang cho các Slide",
+        "Đưa hình ảnh hoặc âm thanh vào Slide",
+        "Định dạng cách bố trí văn bản, hình, ảnh,... trong Slide",
+        "Thêm hiệu ứng cho các đối tượng trên Slide"
+      ],
+      "answer": "Thêm hiệu ứng cho các đối tượng trên Slide"
+    },
+    {
+      "question": "Trong PowerPoint, để thực hiện việc tạo liên kết dữ liệu vào trong trang chiếu, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Right Click chọn Hyperlink",
+        "Nhấn tổ hợp phím Ctrl + K",
+        "Click chọn biểu tượng (Hyperlink) trên nhóm Links của Tab Insert",
+        "Cả 3 lựa chọn đều đúng"
+      ],
+      "answer": "Cả 3 lựa chọn đều đúng"
+    },
+    {
+      "question": "Trong PowerPoint, để thực hiện việc xóa liên kết trong trang chiếu, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Right Click chọn Remove Hyperlink",
+        "Click chọn biểu tượng (Hyperlink) trên nhóm Links của Tab Insert chọn Remove Links",
+        "Cả 2 lựa chọn đều đúng",
+        "Cả 2 lựa chọn đều sai"
+      ],
+      "answer": "Right Click chọn Remove Hyperlink"
+    },
+    {
+      "question": "Trong PowerPoint, muốn ghi lại quá trình trình chiếu?",
+      "options": [
+        "Slide Show > nhóm Start Slide Show > Record Slide Show",
+        "Insert > nhóm Images > Record Slide Show",
+        "Animation > nhóm Advanced Animation > Record Slide Show",
+        "Slide Show > nhóm Setup > Record Slide Show"
+      ],
+      "answer": "Slide Show > nhóm Start Slide Show > Record Slide Show"
+    },
+    {
+      "question": "Trong PowerPoint, để hiển thị hình ảnh đen hoặc trắng khi trình chiếu, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Right Click > Next",
+        "Right Click > Go to Slide",
+        "Right Click > Screen",
+        "Right Click > Pointer Options"
+      ],
+      "answer": "Right Click > Screen"
+    },
+    {
+      "question": "Trong PowerPoint, muốn tạo một Album ảnh, ta chọn?",
+      "options": [
+        "Design > nhóm Themes > Photo Album > New Photo Album",
+        "Home > nhóm Slide > New Photo Album",
+        "Insert > nhóm Images > Photo Album > New Photo Album",
+        "File > New"
+      ],
+      "answer": "Insert > nhóm Images > Photo Album > New Photo Album"
+    },
+    {
+      "question": "Trong PowerPoint, để thiết lập chuyển trang tự động sau một thời gian cho trường, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Chọn Slide > Chọn Transitions > Advance Slide > After",
+        "Chọn Slide > Chọn Transitions > Advance Slide > On Mouse Click",
+        "Chọn Slide > Chọn Transitions > Duration",
+        "Tất cả đều đúng"
+      ],
+      "answer": "Chọn Slide > Chọn Transitions > Advance Slide > After"
+    },
+    {
+      "question": "Trong PowerPoint, chức năng Duration 02.00 trong hiệu ứng có ý nghĩa gì?",
+      "options": [
+        "Quy định thời gian kết thúc hiệu ứng",
+        "Quy định tốc độ nhanh/chậm cho hiệu ứng",
+        "Quy định thời gian chờ",
+        "Quy định thời gian bắt đầu hiệu ứng"
+      ],
+      "answer": "Quy định tốc độ nhanh/chậm cho hiệu ứng"
+    },
+    {
+      "question": "Trong PowerPoint, muốn tạo màu nền cho trang trình chiếu?",
+      "options": [
+        "View > nhóm Background > Background Styles",
+        "Design > nhóm Background > Background Styles",
+        "Insert > nhóm Background > Background Styles",
+        "Design > nhóm Themes > Background Styles"
+      ],
+      "answer": "Design > nhóm Background > Background Styles"
+    },
+    {
+      "question": "Kích cỡ mặc định của Slide trong PowerPoint 2013?",
+      "options": [
+        "9:16",
+        "4:3",
+        "16:9",
+        "3:4"
+      ],
+      "answer": "16:9"
+    },
+    {
+      "question": "Một Theme Color trong PowerPoint có tất cả bao nhiêu nhóm màu?",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Mặc định một Theme Color trong PowerPoint có tất cả bao nhiêu màu?",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "13"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "Văn bản trong PowerPoint được chứa trong các Placeholder. Để căn chỉnh văn bản này, PowerPoint có bao nhiêu chế độ căn chỉnh?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Trong PowerPoint 2013, có bao nhiêu nhóm lựa chọn để chèn hình ảnh vào slide?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Có bao nhiêu nhóm hiệu ứng (Animation) cho một đối tượng trên PowerPoint?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Một hiệu ứng của đối tượng trong Slide có bao nhiêu lựa chọn tốc độ thực hiện (Duration)?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Khi chọn tốc độ thực hiện là Very Fast cho một hiệu ứng thì thời gian thực hiện của nó là bao nhiêu giây?",
+      "options": [
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+      ],
+      "answer": "0.5"
+    },
+    {
+      "question": "Khi chọn tốc độ thực hiện là Medium cho một hiệu ứng thì thời gian thực hiện của nó là bao nhiêu giây?",
+      "options": [
+        "3",
+        "1",
+        "1.5",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Số nào không phải là số lần lặp lại của hiệu ứng?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "Muốn chèn Video có bao nhiêu cách thực hiện?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Muốn chèn Audio có bao nhiêu cách thực hiện?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Có bao nhiêu nhóm tùy chọn áp dụng cho đồ thị dạng Column?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "Để lưu lại Themes đang sử dụng, thực hiện lệnh?",
+      "options": [
+        "File > Save",
+        "Ctrl + S",
+        "Save Current Theme",
+        "File > Save As"
+      ],
+      "answer": "Save Current Theme"
+    },
+    {
+      "question": "Một Theme bao gồm những thành phần nào?",
+      "options": [
+        "Font, Color và Background Style",
+        "Font và Color",
+        "Color, Effect và Background Style",
+        "Font, Color, Effect và Background Style"
+      ],
+      "answer": "Font, Color, Effect và Background Style"
+    },
+    {
+      "question": "Trong PowerPoint, muốn trình chiếu Slide hiện hành?",
+      "options": [
+        "Nhấn tổ hợp phím Shift + F5",
+        "Slide Show > nhóm Start Slide Show > From Current Slide",
+        "Câu A và B đều đúng",
+        "Câu A và B đều sai"
+      ],
+      "answer": "Slide Show > nhóm Start Slide Show > From Current Slide"
+    },
+    {
+      "question": "Trong PowerPoint, muốn trình chiếu slide đầu tiên?",
+      "options": [
+        "Slide Show > nhóm Start Slide Show > From Beginning",
+        "Nhấn F5",
+        "Câu A và B đều đúng",
+        "Câu A và B đều sai"
+      ],
+      "answer": "Câu A và B đều đúng"
+    },
+    {
+      "question": "Trong PowerPoint, để trình chiếu các nhóm Slide, bạn sử dụng lựa chọn nào?",
+      "options": [
+        "Tạo Custom Show",
+        "Tạo Section",
+        "Câu A và B đều đúng",
+        "Câu A và B đều sai"
+      ],
+      "answer": "Tạo Custom Show"
+    },
+    {
+      "question": "Trong PowerPoint, muốn trình chiếu một Custom Show?",
+      "options": [
+        "Slide Show > nhóm Set up > Custom Slide Show > Chọn Custom Show muốn trình chiếu",
+        
+        "Slide Show > nhóm Start Slide Show > Custom Slide Show > Chọn Custom Show muốn trình chiếu",
+        "Nhấn F5",
+        "Slide Show > nhóm Start Slide Show > From Beginning Custom Show"
+      ],
+      "answer":  "Slide Show > nhóm Start Slide Show > Custom Slide Show > Chọn Custom Show muốn trình chiếu"
+    },
+    {
+      "question": "Trong PowerPoint, muốn đặt mật khẩu bảo vệ khi mở tập file trình chiếu ta thực hiện?",
+      "options": [
+        "File > Info > File > Protect Document > Encrypt with Password",
+        "File > Save As > Tools > General Option > Password to Open",
+        "Câu A và B đều đúng",
+        "Câu A và B đều sai"
+      ],
+      "answer": "Câu A và B đều đúng"
+    }
+  ]
+}

@@ -1,0 +1,1778 @@
+{
+    "questions": [
+    {
+        "question": "MS Excel: Tố hợp phim nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính",
+        "options": [
+            "Ctrl+Home",
+            "Shift+Ctrl+Home",
+            "Alt+Home",
+            "Shift+Alt+Home"
+        ],
+        "answer": "Ctrl+Home"
+    },
+    {
+        "question": "MS Excel: Với Cell G13 = \"A1\" thì Kết quả của công thức =IF(RIGHT(G13,1)=1,1,ABC))) là:",
+        "options": [
+            "ABC",
+            "1",
+            "#N/A",
+            "#NAME?"
+        ],
+        "answer": "#NAME?"
+    },
+    {
+        "question": "MS Excel: Tại ô A2 có sẵn giá trị số không (0); Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả",
+        "options": [
+            "#N/A",
+            "#NAME?",
+            "#VALUE!",
+            "#DIV/0!"
+        ],
+        "answer": "#DIV/0!"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh nhỏ hơn thì sử dụng kí hiệu nào?",
+        "options": [
+            "#",
+            "><",
+            "<",
+            "~"
+        ],
+        "answer": "<"
+    },
+    {
+        "question": "MS Excel: Giả sử ngày hệ thống của máy tính là: 2/13/2017; Khi gõ tại ô A2 công thức =TODAY()-1 thì nhận được kết quả là",
+        "options": [
+            "1/13/2017",
+            "0",
+            "#NAME!",
+            "#VALUE"
+        ],
+        "answer": "2/12/2017"
+    },
+    {
+        "question": "MS Excel: Khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
+        "options": [
+            "#N/A",
+            "#NAME?",
+            "#VALUE!",
+            "#DIV/0!"
+        ],
+        "answer": "#NAME?"
+    },
+    {
+        "question": "MS Excel: Để tham chiếu dữ liệu từ bảng khác ta dùng hàm",
+        "options": [
+            "Vlookup",
+            "Hlookup",
+            "Index",
+            "Cả 3 đều đúng"
+        ],
+        "answer": "Cả 3 đều đúng"
+    },
+    {
+        "question": "MS Excel: Khi dữ liệu cần tham chiếu nằm trên 1 hàng ở bảng tham chiếu, ta dùng hàm",
+        "options": [
+            "Vlookup",
+            "Hlookup",
+            "Index",
+            "Cả 3 đều đúng"
+        ],
+        "answer": "Hlookup"
+    },
+    {
+        "question": "MS Excel: Khi dữ liệu cần tham chiếu nằm trên 1 cột ở bảng tham chiếu, ta dùng hàm",
+        "options": [
+            "Vlookup",
+            "Hlookup",
+            "Index",
+            "Cả 3 đều đúng"
+        ],
+        "answer": "Vlookup"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi \"Tin hoc\"; ô B2 có giá trị số 2008. Tại ô C2 gõ vào công thức =A2+B2 thì nhận được kết quả:",
+        "options": [
+            "Tin hoc",
+            "Tin hoc 2008",
+            "2008",
+            "Tin hoc +2008"
+        ],
+        "answer": "Tin hoc 2008"
+    },
+    {
+        "question": "MS Excel: Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính ?",
+        "options": [
+            "Shift+Home",
+            "Alt+Home",
+            "Ctrl+Home",
+            "Shift+Ctrl+Home"
+        ],
+        "answer": "Ctrl+Home"
+    },
+    {
+        "question": "MS Excel: Trong khi làm việc với Excel, để nhập vào công thức tính toán cần một ô, trước hết ta phải gõ:",
+        "options": [
+            "Dấu chấm hỏi (?)",
+            "Dấu bằng (=)",
+            "Dấu hai chấm",
+            "Dấu đô la ($)"
+        ],
+        "answer": "Dấu bằng (=)"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?",
+        "options": [
+            "Chương trình bảng tính bị nhiễm virus",
+            "Công thức nhập sai và Excel thông báo lỗi",
+            "Hàng chứa ô đó có cỡ cao quá thấp nên không hiển thị hết chữ số",
+            "Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số"
+        ],
+        "answer": "Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số"
+    },
+    {
+        "question": "MS Excel: Trong Excel, tại ô A2 có giá trị là chuỗi TINHOC. Tại ô B2 gõ công thức =RIGHT(A2,3) thì nhận được kết quả ?",
+        "options": [
+            "3",
+            "HOC",
+            "TIN",
+            "Tinhoc"
+        ],
+        "answer": "HOC"
+    },
+    {
+        "question": "MS Excel: Câu nào sau đây sai? Khi nhập dữ liệu vào bảng tính Excel thì:",
+        "options": [
+            "Dữ liệu kiểu ký tự sẽ mặc nhiên căn thẳng lề trái",
+            "",
+            "Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề phải",
+            ""
+        ],
+        "answer": "Dữ liệu kiểu ký tự sẽ mặc nhiên căn thẳng lề trái"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô A2 có sẵn giá trị số không (0); Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả:",
+        "options": [
+            "0",
+            "5",
+            "#VALUE!",
+            "#DIV/0!"
+        ],
+        "answer": "#DIV/0!"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?",
+        "options": [
+            "#",
+            "<>",
+            "><",
+            "&"
+        ],
+        "answer": "<>"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô A2 gõ vào công thức =IF(3>5,100,IF(5<6,200,300)) thì kết quả nhận được tại ô A2 là:",
+        "options": [
+            "200",
+            "100",
+            "300",
+            "600"
+        ],
+        "answer": "200"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dây ký tự \"Tin hoc van phong\"; Tại ô B2 gõ vào công thức =PROPER(A2) thì nhận được kết quả?",
+        "options": [
+            "Tin hoc van phong",
+            "Tin Hoc Van Phong",
+            "TIN HOC VAN PHONG",
+            "Tin Hoc Van Phong"
+        ],
+        "answer": "Tin Hoc Van Phong"
+    },
+    {
+        "question": "MS Excel: Giả sử ngày hệ thống của máy tính là: 8/18/2008; Khi gõ tại ô A2 công thức =TODAY()-1 thì nhận được kết quả là",
+        "options": [
+            "0",
+            "#NAME!",
+            "8/17/2008",
+            "#VALUE"
+        ],
+        "answer": "8/17/2008"
+    },
+    {
+        "question": "MS Excel: Trong Excel, tại ô A2 có giá trị là số 10; ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2,B2) thì nhận được kết quả :",
+        "options": [
+            "10",
+            "3",
+            "#Value",
+            "1"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô D2 có công thức =B2*C2/100. Nếu sao chép công thức đến ô G6 thì sẽ có công thức là:",
+        "options": [
+            "E7*F7/100",
+            "B6*C6/100",
+            "E6*F6/100",
+            "E2*C2/100"
+        ],
+        "answer": "E6*F6/100"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, đã sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:",
+        "options": [
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F2",
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F4",
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F10",
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F12"
+        ],
+        "answer": "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F2"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 10; Tại ô B2 gõ vào công thức =PRODUCT(A2,5) thì nhận được kết quả:",
+        "options": [
+            "#VALUE!",
+            "2",
+            "10",
+            "50"
+        ],
+        "answer": "50"
+    },
+    {
+        "question": "MS Excel: Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
+        "options": [
+            "#NAME!",
+            "#VALUE!",
+            "#N/A!",
+            "#DIV/0!"
+        ],
+        "answer": "#NAME!"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi \"Tin hoc\"; ô B2 có giá trị số 2008. Tại ô C2 gõ vào công thức =LEN(A2&B2) thì nhận được kết quả:",
+        "options": [
+            "#Value",
+            "0",
+            "4",
+            "2008"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, để lọc dữ liệu tự động, sau khi chọn khối cần lọc, ta thực hiện:",
+        "options": [
+            "Format - Filter - AutoFilter",
+            "Insert - Filter - AutoFilter",
+            "Data - Filter - AutoFilter",
+            "View - Filter - AutoFilter"
+        ],
+        "answer": "Data - Filter - AutoFilter"
+    },
+    {
+        "question": "MS Excel: Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:",
+        "options": [
+            "Page Up; Page Down",
+            "Ctrl-Page Up; Ctrl-Page Down",
+            "Cả 2 câu đều đúng",
+            "Cả 2 câu đều sai"
+        ],
+        "answer": "Ctrl-Page Up; Ctrl-Page Down"
+    },
+    {
+        "question": "MS Excel: Trong Excel, để xuống dòng trong một ô, ta sử dụng tổ hợp phím:",
+        "options": [
+            "Alt + Enter",
+            "Spacebar + Enter",
+            "Shift + Enter",
+            "Ctrl + Enter"
+        ],
+        "answer": "Alt + Enter"
+    },
+    {
+        "question": "MS Excel: Các địa chỉ sau đây là địa chỉ gì: $A1, B$5, C6, $L9, $D$7",
+        "options": [
+            "Địa chỉ tương đối",
+            "Địa chỉ tuyệt đối",
+            "Địa chỉ hỗn hợp",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Địa chỉ hỗn hợp"
+    },
+    {
+        "question": "MS Excel: Khi gõ công thức xong, rồi Enter, máy hiện ra #N/A có nghĩa là :",
+        "options": [
+            "Không tìm thấy tên hàm",
+            "Giá trị tham chiếu không tồn tại",
+            "Không tham chiếu đến được",
+            "Tập hợp rỗng"
+        ],
+        "answer": "Giá trị tham chiếu không tồn tại"
+    },
+    {
+        "question": "MS Excel: Khi gõ công thức xong, rồi Enter, máy hiện ra #REF! có nghĩa là :",
+        "options": [
+            "Không tìm thấy tên hàm",
+            "Giá trị tham chiếu không tồn tại",
+            "Không tham chiếu đến được",
+            "Tập hợp rỗng"
+        ],
+        "answer": "Giá trị tham chiếu không tồn tại"
+    },
+    {
+        "question": "MS Excel: Khi ta nhập công thức sau: =COUNT(C31:C35) và =COUNTA(C31:C35) kết quả là:",
+        "options": [
+            "4 và 5",
+            "5 và 5",
+            "5 và 4",
+            "Báo lỗi vì công thức sai"
+        ],
+        "answer": "4 và 5"
+    },
+    {
+        "question": "MS Excel: Khi ta nhập công thức sau: =SUMF(D31:D35,>=50000,C31:C35), kết quả là :",
+        "options": [
+            "17",
+            "25",
+            "13",
+            "Báo lỗi vì công thức sai"
+        ],
+        "answer": "Báo lỗi vì công thức sai"
+    },
+    {
+        "question": "MS Excel: Để tính tuổi của một người sinh ngày 24/11/1983 biết ngày sinh nằm ở ô A2, ta sẽ gõ công thức :",
+        "options": [
+            "=YEAR(TIMEVALUE(A2))",
+            "=YEAR(DAY)-YEAR(A2)",
+            "=YEAR(TODAY())-YEAR(A2)",
+            "=YEAR(TODAY())-YEAR(A2)+1"
+        ],
+        "answer": "=YEAR(TODAY())-YEAR(A2)"
+    },
+    {
+        "question": "MS Excel: Trong MS Excel, hàm nào dùng để đếm các ô rỗng trong 1 danh sách:",
+        "options": [
+            "COUNTIF",
+            "COUNT",
+            "COUNTBLANK",
+            "COUNTA"
+        ],
+        "answer": "COUNTBLANK"
+    },
+    {
+        "question": "MS Excel: Trong MS Excel, hàm INT(9.67) sẽ trả về kết quả bằng:",
+        "options": [
+            "6",
+            "7",
+            "0.67",
+            "9"
+        ],
+        "answer": "9"
+    },
+    {
+        "question": "MS Excel: Trong MS Excel, hàm tính tổng có nhiều điều kiện là hàm:",
+        "options": [
+            "SUMIFS",
+            "SUMIF",
+            "DSUM",
+            "SUM"
+        ],
+        "answer": "SUMIFS"
+    },
+    {
+        "question": "MS Excel: Trong MS Excel, hàm đếm có nhiều điều kiện là hàm:",
+        "options": [
+            "COUNTIF",
+            "COUNTIFS",
+            "DCOUNT",
+            "COUNTA"
+        ],
+        "answer": "COUNTIFS"
+    },
+    {
+        "question": "MS Excel: Để luôn chỉ chọn in một vùng nào đó trong bảng tính Excel chúng ta cần thao tác?",
+        "options": [
+            "Bôi đen vùng cần in, sau đó vào File/Print Area, chọn Set Print Area.",
+            "Vào File/Print, chọn OK.",
+            "Nhấn tổ hợp phím Ctrl + P và ok",
+            "Cả 3 cách trên đều đúng."
+        ],
+        "answer": "Bôi đen vùng cần in, sau đó vào File/Print Area, chọn Set Print Area."
+    },
+    {
+        "question": "MS Excel: Khi làm ẩn thuộc tính đường lưới ô trong bảng tính Excel ta cần?",
+        "options": [
+            "Vào Insert, chọn Table.",
+            "Vào View/Show, tại thẻ View ta bỏ chọn mục Gridlines trong Window options.",
+            "Vào Review/Spelling.",
+            "Không có tính năng này."
+        ],
+        "answer": "Vào View/Show, tại thẻ View ta bỏ chọn mục Gridlines trong Window options."
+    },
+    {
+        "question": "MS Excel: Để làm ẩn một cột bất kỳ trên bảng tính Excel ta chọn cột cần làm ẩn, sau đó?",
+        "options": [
+            "Vào Format Cell, chọn Hide.",
+            "Kích chuột phải lên cột chọn làm ẩn, nhấn Hide hoặc vào Format/Column, chọn Hide.",
+            "Kích chuột phải lên cột chọn làm ẩn, nhấn Hide.",
+            "Cả 3 cách trên đều đúng."
+        ],
+        "answer": "Kích chuột phải lên cột chọn làm ẩn, nhấn Hide."
+    },
+    {
+        "question": "MS Excel: Khi đánh công thức tính toán trong Excel, nếu đúng sẽ cho ra kết quả của phép tính đó khi in ra giấy. Vậy để in các công thức mình vừa đánh ra thì?",
+        "options": [
+            "Bỏ đi dấu bằng \"=\" ở đầu mỗi phép tính.",
+            "Vào Tool/Options, chọn thẻ View, tích vào mục Formulas trong Window options.",
+            "Đặt các phép tính vào giữa dấu \" \".",
+            "Gõ bình thường như nhập liệu"
+        ],
+        "answer": "Vào Tool/Options, chọn thẻ View, tích vào mục Formulas trong Window options."
+    },
+    {
+        "question": "MS Excel: Để thiết lập chế độ lưu tự động trên Excel dự phòng khi có sự cố xảy ra, ta cần?",
+        "options": [
+            "Vào File/Save để lưu.",
+            "Vào Tool/Options, chọn thẻ Save, tích vào ô Save AutoRecover info every, sau đó điền số phút tự động lưu.",
+            "Vào Tool/Options, chọn thẻ View, tích vào mục Formulas trong Window options.",
+            "Cả 3 cách trên đều đúng."
+        ],
+        "answer": "Vào Tool/Options, chọn thẻ Save, tích vào ô Save AutoRecover info every, sau đó điền số phút tự động lưu."
+    },
+    {
+        "question": "MS Excel: Tài liệu Excel sau khi được đánh được lưu mặc định trong My Document. Vậy để thay đổi nơi mặc định khi lưu cần?",
+        "options": [
+            "Vào Tool/Options, chọn thẻ General, thay đổi đường dẫn mới ở mục Default file location.",
+            "Vào File/Save As, chọn vị trí cần lưu.",
+            "Vào File/Save để lưu.",
+            "Vào Tool/Options, chọn thẻ View, tích vào mục Formulas trong Window options."
+        ],
+        "answer": "Vào File/Save As, chọn vị trí cần lưu."
+    },
+    {
+        "question": "MS Excel: Khi vào Format/Cells, thẻ Border có tác dụng gì?",
+        "options": [
+            "Tạo khung viền cho bảng tính cần chọn.",
+            "Chỉnh Font chữ cho đoạn văn.",
+            "Canh Alignment",
+            "Chỉnh màu cho chữ."
+        ],
+        "answer": "Tạo khung viền cho bảng tính cần chọn."
+    },
+    {
+        "question": "MS Excel: Lệnh Ctrl + F trong Excel có tác dụng gì?",
+        "options": [
+            "Đi đến sheet nào đó",
+            "Thay thế chuỗi ký tự này bằng ký tự khác.",
+            "Xóa bỏ các ký tự vừa tìm được.",
+            "Tìm kiếm một chuỗi ký tự nào đó."
+        ],
+        "answer": "Tìm kiếm một chuỗi ký tự nào đó."
+    },
+    {
+        "question": "MS Excel: Hàm AND có thể nhận mấy giá trị?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "Tất cả các phương án trên đều sai."
+        ],
+        "answer": "Tất cả các phương án trên đều sai."
+    },
+    {
+        "question": "MS Excel: Biểu thức sau cho giá trị là bao nhiêu? =AND(5>4,6<9,2<1)",
+        "options": [
+            "TRUE",
+            "FALSE",
+            "#NAME?",
+            "#VALUE!"
+        ],
+        "answer": "FALSE"
+    },
+    {
+        "question": "MS Excel: Khi vào File/Page Setup, chúng ta chọn thẻ Margins để làm gì?",
+        "options": [
+            "Chỉnh cỡ giấy khi in.",
+            "Chỉnh Font chữ cho đoạn văn.",
+            "Căn chỉnh lề đoạn văn cần in.",
+            "Chỉnh hướng giấy in."
+        ],
+        "answer": "Căn chỉnh lề đoạn văn cần in."
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh bằng thì sử dụng kí hiệu nào?",
+        "options": [
+            "&",
+            "#",
+            "$",
+            "*"
+        ],
+        "answer": "="
+    },
+    {
+        "question": "MS Excel: Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
+        "options": [
+            "#NAME!",
+            "#VALUE!",
+            "#N/A!",
+            "#DIV/0!"
+        ],
+        "answer": "#NAME!"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, muốn sắp xếp danh sách dữ liệu theo thứ tự tăng (giảm), ta thực hiện:",
+        "options": [
+            "Tools - Sort",
+            "File - Sort",
+            "Format - Sort",
+            "Data - Sort"
+        ],
+        "answer": "Data - Sort"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dây ký tự \"Tin hoc van phong\"; tại ô B2 gõ vào công thức =UPPER(A2) thì nhận được kết quả?",
+        "options": [
+            "Tin hoc van phong",
+            "TIN HOC VAN PHONG",
+            "Tin Hoc Van Phong",
+            "Tinhocvanphong"
+        ],
+        "answer": "TIN HOC VAN PHONG"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, đã lọc dữ liệu tự động, sau khi chọn khối cần lọc, ta thực hiện:",
+        "options": [
+            "Format - Filter - AutoFilter",
+            "Insert - Filter - AutoFilter",
+            "Data - Filter - AutoFilter",
+            "View - Filter - AutoFilter"
+        ],
+        "answer": "Data - Filter - AutoFilter"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, hàm nào sau đây cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước?",
+        "options": [
+            "SUM",
+            "COUNTIF",
+            "COUNT",
+            "SUMIF"
+        ],
+        "answer": "SUMIF"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel, để chèn thêm một cột vào bảng tính, ta thực hiện:",
+        "options": [
+            "Table - Insert Columns.",
+            "Format - Cells - Insert Columns.",
+            "Table - Insert Cells.",
+            "Insert - Columns."
+        ],
+        "answer": "Insert - Columns."
+    },
+    {
+        "question": "MS Excel: Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:",
+        "options": [
+            "Page Up; Page Down.",
+            "Ctrl-Page Up; Ctrl-Page Down.",
+            "Cả 2 câu đều đúng.",
+            "Cả 2 câu đều sai"
+        ],
+        "answer": "Ctrl-Page Up; Ctrl-Page Down."
+    },
+    {
+        "question": "MS Excel: Để thiết lập chế độ lưu tự động trên Excel dự phòng khi có sự cố xảy ra, ta cần?",
+        "options": [
+            "Vào Tool/Options, chọn thẻ Save, tích vào ô Save AutoRecover info every, sau đó điền số phút tự động lưu.",
+            "Vào File/Save để lưu.",
+            "Vào File/Save để lưu.",
+            "Tất cả các phương án trên đều sai."
+        ],
+        "answer": "Vào Tool/Options, chọn thẻ Save, tích vào ô Save AutoRecover info every, sau đó điền số phút tự động lưu."
+    },
+    {
+        "question": "MS Excel: Để khởi động Excel ta chọn",
+        "options": [
+            "Nhấp đúp trỏ chuột lên biểu tượng lối tắt của Excel",
+            "Nhấp chọn Start, Program, Microsoft Office, Excel",
+            "Từ màn hình Dos, gõ Excel",
+            "Câu a, b đúng"
+        ],
+        "answer": "Câu a, b đúng"
+    },
+    {
+        "question": "MS Excel: Để thoát khỏi Excel ta chọn",
+        "options": [
+            "Nhấp menu điều khiển chọn Close.",
+            "Chọn File, Close",
+            "Nhấn tổ hợp phím Alt + F4",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Tất cả đều đúng"
+    },
+    {
+        "question": "MS Excel: Trong Excel muốn bật tắt thanh công cụ ta chọn",
+        "options": [
+            "Chọn Tool, Option, General",
+            "Chọn View, Formular Bar",
+            "Chọn View, Toolbars, đánh dấu chọn hoặc không chọn các thanh công cụ",
+            "Tất cả các cách trên đều đúng"
+        ],
+        "answer": "Chọn View, Toolbars, đánh dấu chọn hoặc không chọn các thanh công cụ"
+    },
+    {
+        "question": "MS Excel: Muốn xóa sheet, ta chọn sheet đó rồi",
+        "options": [
+            "Chọn Edit, Delete sheet",
+            "Nhấn tổ hợp phím Alt + E, L",
+            "Nhấp chuột phải trên tên sheet để mở menu tắt rồi chọn Delete",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Tất cả đều đúng"
+    },
+    {
+        "question": "MS Excel: Trong Excel để mở tập tin có trong đĩa ta dùng",
+        "options": [
+            "Chọn File, Open",
+            "Tổ hợp phím Ctrl + N",
+            "Tổ hợp phím Ctrl + O",
+            "Hai câu a và c đúng"
+        ],
+        "answer": "Hai câu a và c đúng"
+    },
+    {
+        "question": "MS Excel: Trong Excel để lưu một tập tin vào đĩa ta dùng",
+        "options": [
+            "Tổ hợp phím Ctrl + S",
+            "Tổ hợp phím Alt + S",
+            "Tổ hợp phím Alt + Shift + S",
+            "Cả ba câu trên đều sai."
+        ],
+        "answer": "Tổ hợp phím Ctrl + S"
+    },
+    {
+        "question": "MS Excel: Nhấn phím F12 là để",
+        "options": [
+            "Thực hiện lệnh Open",
+            "Thực hiện lệnh Save As",
+            "Thực hiện lệnh Close",
+            "Thực hiện lệnh Print"
+        ],
+        "answer": "Thực hiện lệnh Save As"
+    },
+    {
+        "question": "MS Excel: Trong Excel để đóng một tập tin ta dùng",
+        "options": [
+            "Tổ hợp phím Alt + F + C",
+            "Chọn menu File, Close",
+            "Tổ hợp phím Ctrl + W",
+            "Hai câu a và b đúng"
+        ],
+        "answer": "Hai câu a và b đúng"
+    },
+    {
+        "question": "MS Excel: Theo mặc định ký tự dạng chuỗi được",
+        "options": [
+            "Canh phải trong ô",
+            "Canh trái trong ô",
+            "Canh đều hai bên",
+            "Canh giữa trong ô"
+        ],
+        "answer": "Canh trái trong ô"
+    },
+    {
+        "question": "MS Excel: Theo mặc định ký tự dạng số được",
+        "options": [
+            "Canh phải trong ô",
+            "Canh trái trong ô",
+            "Canh đều hai bên",
+            "Canh giữa trong ô"
+        ],
+        "answer": "Canh phải trong ô"
+    },
+    {
+        "question": "MS Excel: Chèn dấu (') trước khi nhập liệu vào ô là để",
+        "options": [
+            "Canh chỉnh dữ liệu trong ô bên trái",
+            "Canh chỉnh dữ liệu trong ô bên phải",
+            "Canh giữa dữ liệu trong ô",
+            "Canh đều hai bên dữ liệu trong ô"
+        ],
+        "answer": "Canh chỉnh dữ liệu trong ô bên trái"
+    },
+    {
+        "question": "MS Excel: Khi độ dài của chuỗi dữ liệu lớn hơn chiều rộng của ô thì Excel sẽ hiển thị trong các ô ký tự",
+        "options": [
+            "&",
+            "^",
+            "%",
+            "#"
+        ],
+        "answer": "#"
+    },
+    {
+        "question": "MS Excel: Dữ liệu loại hàm bắt đầu bằng dấu",
+        "options": [
+            "+",
+            "*",
+            "-",
+            "="
+        ],
+        "answer": "="
+    },
+    {
+        "question": "MS Excel: Để chọn toàn bộ bảng tính ta",
+        "options": [
+            "Nhấn tổ hợp phím Ctrl + A",
+            "Di chuyển con trỏ chuột vào ô giao nhau của thanh tiêu đề dọc và thanh tiêu đề ngang rồi nhấp trái chuột",
+            "Câu a đúng, b sai",
+            "Câu a và b đúng"
+        ],
+        "answer": "Câu a và b đúng"
+    },
+    {
+        "question": "MS Excel: Trong Excel, để chèn hàng vào một bảng tính ta di chuyển đến ô hiện hành đến vị trí hàng cần thêm rồi",
+        "options": [
+            "Chọn Format, Cells",
+            "Chọn Format, Column",
+            "Chọn Insert, Row",
+            "Chọn Insert, Columns"
+        ],
+        "answer": "Chọn Insert, Row"
+    },
+    {
+        "question": "MS Excel: Để xóa dữ liệu trong một ô hoặc khối ô trong bảng tính Excel ta chọn",
+        "options": [
+            "Chọn ô (hoặc khối ô) cần xóa, rồi nhấn phim Delete",
+            "Không cần chọn ô (hoặc khối ô), chỉ cần nhấn phim Delete",
+            "Chọn ô (hoặc khối ô) cần xóa, rồi nhấn phim Insert",
+            "Chọn ô (hoặc khối ô) cần xóa, rồi nhấn phim bất kỳ"
+        ],
+        "answer": "Chọn ô (hoặc khối ô) cần xóa, rồi nhấn phim Delete"
+    },
+    {
+        "question": "MS Excel: Trong Excel để sắp xếp cơ sở dữ liệu ta chọn",
+        "options": [
+            "Tool, Sort.",
+            "Format, Sort",
+            "Table, Sort.",
+            "Data, Sort."
+        ],
+        "answer": "Data, Sort."
+    },
+    {
+        "question": "MS Excel: Các hàm sau đây hàm nào dùng để đếm giá trị",
+        "options": [
+            "Sum",
+            "Rank",
+            "Count",
+            "Int"
+        ],
+        "answer": "Count"
+    },
+    {
+        "question": "MS Excel: Cho biết giá trị của công thức sau đây: =LEN(\"CAN THO\")",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "MS Excel: Cho biết giá trị của công thức sau đây: =LEN(\"DUY TAN\")",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "MS Excel: Hàm RIGHT(\"Microsoft Excel 2010\", 4) cho kết quả",
+        "options": [
+            "Microsoft",
+            "Micro",
+            "Excel",
+            "2010"
+        ],
+        "answer": "2010"
+    },
+    {
+        "question": "MS Excel: Hàm MID(\"Microsoft Excel 2010\", 11, 5) cho kết quả",
+        "options": [
+            "Microsoft",
+            "Micro",
+            "Excel",
+            "2010"
+        ],
+        "answer": "Excel"
+    },
+    {
+        "question": "MS Excel: Hàm LEFT(\"Microsoft Excel 2010\", 5) cho kết quả",
+        "options": [
+            "Microsoft",
+            "Micro",
+            "Excel",
+            "2010"
+        ],
+        "answer": "Micro"
+    },
+    {
+        "question": "MS Excel: Hàm AVERAGE(20,10,30) cho kết quả",
+        "options": [
+            "Báo lỗi N/A",
+            "Báo lỗi NAME",
+            "30",
+            "20"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "MS Excel: Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính ?",
+        "options": [
+            "Shift+Home",
+            "Alt+Home",
+            "Ctrl+Home",
+            "Tất cả đều sai"
+        ],
+        "answer": "Ctrl+Home"
+    },
+    {
+        "question": "MS Excel: Để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện",
+        "options": [
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F2",
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F3",
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F4",
+            "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F5"
+        ],
+        "answer": "Nháy chuột chọn ô tính cần sửa, rồi bấm phim F2"
+    },
+    {
+        "question": "MS Excel: Công thức MAX(20,MIN(5,100)) cho kết quả là",
+        "options": [
+            "20",
+            "5",
+            "100",
+            "25"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "MS Excel: Công thức =IF(2016>2017,\"Sai\",\"Đúng\") cho kết quả",
+        "options": [
+            "Đúng",
+            "Sai",
+            "Tất cả đều đúng",
+            "Tất cả đều sai"
+        ],
+        "answer": "Sai"
+    },
+    {
+        "question": "MS Excel: Địa chỉ A$12 được gọi là",
+        "options": [
+            "Địa chỉ tương đối",
+            "Địa chỉ tuyệt đối",
+            "Địa chỉ hỗn hợp",
+            "Tất cả đều sai"
+        ],
+        "answer": "Địa chỉ hỗn hợp"
+    },
+    {
+        "question": "MS Excel: Để ngắt dòng trong một ô, ta thực hiện thao tác nào sau đây?",
+        "options": [
+            "Format Cells, Alignment, đánh dấu chọn Wrap text",
+            "Format Cells, Font",
+            "Format Cells, Alignment, Merge Cells",
+            "Format Cells, Font, Subscript"
+        ],
+        "answer": "Format Cells, Alignment, đánh dấu chọn Wrap text"
+    },
+    {
+        "question": "MS Excel: Địa chỉ tuyệt đối là địa chỉ như thế nào?",
+        "options": [
+            "Tất cả địa chỉ tham chiếu đều không thay đổi khi sao chép sang ô khác",
+            "",
+            "Chỉ những địa chỉ có định không thay đổi khi sao chép sang ô khác",
+            "Cả 3 phương án 1,2,3 đều sai"
+        ],
+        "answer": "Tất cả địa chỉ tham chiếu đều không thay đổi khi sao chép sang ô khác"
+    },
+    {
+        "question": "MS Excel: Sao chép công thức tại ô A1=C$3+$D3 đến ô B1, công thức tại ô B1 sẽ là gì?",
+        "options": [
+            "=C$3+$D3",
+            "=C$3+$C3",
+            "=C$5+$D5",
+            "=C$5+$C5"
+        ],
+        "answer": "=C$3+$C3"
+    },
+    {
+        "question": "MS Excel: Trong Excel, tại ô B5 ta thiết lập hàm: =MOD(15,6); Kết quả nào sau đây là đúng?",
+        "options": [
+            "3",
+            "2",
+            "2.5",
+            "Cả 3 phương án 1,2,3 đều sai"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "MS Excel: Trong Excel, tại ô B5 ta thiết lập hàm: =INT(15/6); Kết quả nào sau đây là đúng?",
+        "options": [
+            "3",
+            "2",
+            "2.5",
+            "Cả 3 phương án 1,2,3 đều sai"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "MS Excel: Trong Excel, tại ô B5 ta thiết lập hàm: =INT(15,6); Kết quả nào sau đây là đúng?",
+        "options": [
+            "3",
+            "2",
+            "2.5",
+            "Cả 3 phương án 1,2,3 đều sai"
+        ],
+        "answer": "Cả 3 phương án 1,2,3 đều sai"
+    },
+    {
+        "question": "MS Excel: Trong Excel, tại ô B5 ta thiết lập hàm: =ROW(C7); Kết quả nào sau đây là đúng?",
+        "options": [
+            "5",
+            "2",
+            "3",
+            "7"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "MS Excel: Trong Excel, tại ô B5 ta thiết lập hàm: =COLUMN(C7); Kết quả nào sau đây là đúng?",
+        "options": [
+            "2",
+            "5",
+            "7",
+            "3"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "MS Excel: Phương án nào là lỗi không tìm thấy trị đó trong hàm đó tìm của Excel?",
+        "options": [
+            "#N/A",
+            "#NAME?",
+            "#VALUE!",
+            "#REF!"
+        ],
+        "answer": "#N/A"
+    },
+    {
+        "question": "MS Excel: Trong Excel, khi một tham số tiếp nhận thông tin không cùng kiểu dữ liệu thì xuất hiện lỗi nào?",
+        "options": [
+            "#N/A",
+            "#NAME?",
+            "#VALUE!",
+            "#REF!"
+        ],
+        "answer": "#VALUE!"
+    },
+    {
+        "question": "MS Excel: Khi không xác định được địa chỉ tham chiếu, Excel báo lỗi nào sau đây?",
+        "options": [
+            "#N/A",
+            "#NAME?",
+            "#VALUE!",
+            "#REF!"
+        ],
+        "answer": "#REF!"
+    },
+    {
+        "question": "MS Excel: Hàm trong Excel có dạng nào sau đây?",
+        "options": [
+            "=tên hàm()",
+            "=tên hàm(danh sách các tham số)",
+            "Phương án 1,2",
+            "Tất cả đều sai"
+        ],
+        "answer": "Phương án 1,2"
+    },
+    {
+        "question": "MS Excel: Những toán tử nào sau đây được sử dụng trong công thức của Excel?",
+        "options": [
+            "+,-,*,/,^",
+            ">,=,<,<=,>=,<>",
+            "&",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Tất cả đều đúng"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3 có chứa lần lượt các giá trị là 5, 100, 200. Tại ô B2 ta lập công thức =A2/$A1, sau đó sao chép công thức xuống ô B3. Ô B3 sẽ cho về kết quả nào sau đây?",
+        "options": [
+            "40",
+            "2",
+            "20",
+            "0"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4, A5 có chứa lần lượt các giá trị là 5, A, 0, 200, B. Tại ô A6 ta lập hàm =COUNT(A1:A5), kết quả nào sau đây là đúng?",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "0"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4, A5 có chứa lần lượt các giá trị là 5, A, 0, 200, B. Tại ô A6 ta lập hàm =COUNTA(A1:A5), kết quả nào sau đây là đúng?",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "0"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "MS Excel: Để xuống dòng trên cùng một ô trong Excel, ta nhấn tổ hợp phím nào?",
+        "options": [
+            "Alt + Enter",
+            "Shift + Enter",
+            "Ctrl + Enter",
+            "Alt + Shift"
+        ],
+        "answer": "Alt + Enter"
+    },
+    {
+        "question": "MS Excel: Ô B5 được định dạng kiểu Text, chứa dữ liệu là số điện thoại \"0905333777\". Ô B6 được thiết lập công thức =LEFT(VALUE(B5),2). Kết quả trả về là?",
+        "options": [
+            "9",
+            "77",
+            "90",
+            "Tất cả đều sai"
+        ],
+        "answer": "90"
+    },
+    {
+        "question": "MS Excel: Ô B5 được định dạng kiểu Text, chứa dữ liệu là số điện thoại \"0905333777\". Ô B6 được thiết lập công thức =VALUE(LEFT(B5,3)). Kết quả trả về là?",
+        "options": [
+            "090",
+            "777",
+            "90",
+            "Tất cả đều sai"
+        ],
+        "answer": "090"
+    },
+    {
+        "question": "MS Excel: Ô B5 được định dạng kiểu Text, chứa dữ liệu là số điện thoại \"0905333777\". Ô B6 được thiết lập công thức =VALUE(MID(B5,3,2)). Kết quả trả về là?",
+        "options": [
+            "05",
+            "5",
+            "053",
+            "53"
+        ],
+        "answer": "53"
+    },
+    {
+        "question": "MS Excel: Ngày 08/02/2017 là ngày thứ tư, dùng hàm: =WEEKDAY(\"08/02/2017\"). Kết quả trả về là?",
+        "options": [
+            "8",
+            "thứ tư",
+            "4",
+            "Phương án 2 và 3 đều đúng"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "MS Excel: Ngày thực tế là thứ tư ngày 08/02/2017. Ngày giờ hệ thống của máy tính là: 07/02/2017 19:30:30; Khi dùng hàm: =TODAY() trong Excel, kết quả trả về là?",
+        "options": [
+            "42774",
+            "4",
+            "07/02/2017 19:30:30",
+            "07/02/2017"
+        ],
+        "answer": "07/02/2017"
+    },
+    {
+        "question": "MS Excel: Ngày thực tế là thứ tư ngày 08/02/2017. Ngày giờ hệ thống của máy tính là: 07/02/2016 19:30:30; Khi dùng hàm: =YEAR(TODAY()) trong Excel, kết quả trả về là?",
+        "options": [
+            "2016",
+            "2017",
+            "07/02/2016 19:30:30",
+            "08/02/2017"
+        ],
+        "answer": "2016"
+    },
+    {
+        "question": "MS Excel: Ngày thực tế là thứ tư ngày 08/02/2017. Ngày giờ hệ thống của máy tính là: 07/02/2017 19:30:30; Khi dùng hàm: =NOW() trong Excel, kết quả trả về là?",
+        "options": [
+            "07/02/2017 19:30:30",
+            "4",
+            "42774",
+            "07/02/2017"
+        ],
+        "answer": "07/02/2017 19:30:30"
+    },
+    {
+        "question": "MS Excel: Ngày thực tế là thứ tư ngày 08/02/2017. Ngày giờ hệ thống của máy tính là: 07/03/2017 Khi dùng hàm: =MONTH(DATE(2016,12,07)) trong Excel, kết quả trả về là?",
+        "options": [
+            "2",
+            "12",
+            "3",
+            "07/12/2016"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "MS Excel: Ngày thực tế 08/02/2017. Ngày giờ hệ thống của máy tính là: 07/02/2017 19:30:30; Khi dùng hàm: =DAY(NOW()) trong Excel, kết quả trả về là?",
+        "options": [
+            "7",
+            "8",
+            "08/02/2017",
+            "07/02/2017"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4, A5 có chứa lần lượt các giá trị là 5, 20, 10, 200, 10. Tại ô B2 ta lập hàm =RANK(A2,$A$1:$A$5,1), kết quả nào sau đây là đúng?",
+        "options": [
+            "Hàm bị lỗi",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4, A5 có chứa lần lượt các giá trị là 5, 20, 10, 200, 10. Tại ô B2 ta lập hàm =RANK(A2,$A$1:$A$5,0), kết quả nào sau đây là đúng?",
+        "options": [
+            "Hàm bị lỗi",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ta có hàm: =IF(AND(3>2,4<5)=TRUE,\"Sai\",\"Đúng\"). Kết quả trả về là?",
+        "options": [
+            "Sai",
+            "Đúng",
+            "Hàm bị lỗi",
+            "Tất cả đều sai"
+        ],
+        "answer": "Sai"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ta có hàm: =IF(OR(3>2,4<5)=TRUE,\"Đúng\",\"Sai\"). Kết quả trả về là?",
+        "options": [
+            "Sai",
+            "Đúng",
+            "Hàm bị lỗi",
+            "Tất cả đều sai"
+        ],
+        "answer": "Đúng"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ta có hàm: =RIGHT(\"ĐAI HOC DUY TÂN\",LEN(\"DUY TÂN\")). Kết quả trả về là?",
+        "options": [
+            "ĐAI HOC",
+            "7",
+            "Hàm bị lỗi",
+            "DUY TÂN"
+        ],
+        "answer": "DUY TÂN"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ta có hàm: =LEFT(\"ĐAI HOC DUY TÂN\",LEN(\"DUY TÂN\")). Kết quả trả về là?",
+        "options": [
+            "ĐAI HOC",
+            "7",
+            "Hàm bị lỗi",
+            "DUY TÂN"
+        ],
+        "answer": "ĐAI HOC"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4, A5 có chứa lần lượt các giá trị là 5, A, 0, 200, 10. Tại ô A6 ta lập hàm =COUNTIF(A1:A5,\">0\"), kết quả nào sau đây là đúng?",
+        "options": [
+            "1",
+            "3",
+            "4",
+            "Hàm bị lỗi"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4, A5 có chứa lần lượt các giá trị là 5, A, 0, 200, 10. Tại ô A6 ta lập hàm =SUMIF(A1:A5,\"<>5\",A1:A5), kết quả nào sau đây là đúng?",
+        "options": [
+            "110",
+            "115",
+            "Hàm bị lỗi",
+            "Tất cả đều sai"
+        ],
+        "answer": "110"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4 có chứa lần lượt các giá trị là 0, 5, 7, 9. Ô B1, B2, B3, B4 có chứa lần lượt các giá trị là \"Yếu\", \"TB\", \"K\", \"G\". Tại ô C1 ta lập hàm =VLOOKUP(5.5,$A$1:$B$4,2,0), kết quả nào sau đây là đúng?",
+        "options": [
+            "#N/A",
+            "#NAME?",
+            "TB",
+            "#REF!"
+        ],
+        "answer": "#N/A"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4 có chứa lần lượt các giá trị là 0, 5, 7, 9. Ô B1, B2, B3, B4 có chứa lần lượt các giá trị là \"Yếu\", \"TB\", \"K\", \"G\". Tại ô C1 ta lập hàm =VLOOKUP(5.5,$A$1:$B$4,2,1), kết quả nào sau đây là đúng?",
+        "options": [
+            "#N/A",
+            "K",
+            "TB",
+            "#REF!"
+        ],
+        "answer": "TB"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, A2, A3, A4 có chứa lần lượt các giá trị là 7, 5, 0, 9. Ô B1, B2, B3, B4 có chứa lần lượt các giá trị là \"K\", \"TB\", \"Yếu\", \"G\". Tại ô C1 ta lập hàm =VLOOKUP(8.5,$A$1:$B$4,2,1), kết quả nào sau đây là đúng?",
+        "options": [
+            "#N/A",
+            "K",
+            "TB",
+            "Yếu"
+        ],
+        "answer": "Yếu"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, B1, C1, D1 có chứa lần lượt các giá trị là 0, 5, 7, 9. Ô A2, B2, C2, D2 có chứa lần lượt các giá trị là \"Yếu\", \"TB\", \"K\", \"G\". Tại ô A3 ta lập hàm =HLOOKUP(5.5,$A$1:$D$2,2,1), kết quả nào sau đây là đúng?",
+        "options": [
+            "#N/A",
+            "#NAME?",
+            "TB",
+            "#REF!"
+        ],
+        "answer": "TB"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, B1, C1, D1 có chứa lần lượt các giá trị là 0, 5, 7, 9. Ô A2, B2, C2, D2 có chứa lần lượt các giá trị là \"Yếu\", \"TB\", \"K\", \"G\". Tại ô A3 ta lập hàm =HLOOKUP(5.5,$A$1:$D$2,2,1), kết quả nào sau đây là đúng?",
+        "options": [
+            "#N/A",
+            "K",
+            "TB",
+            "#REF!"
+        ],
+        "answer": "TB"
+    },
+    {
+        "question": "MS Excel: Trong Excel, ô A1, B1, C1, D1 có chứa lần lượt các giá trị là 7, 5, 0, 9. Ô A2, B2, C2, D2 có chứa lần lượt các giá trị là \"K\", \"TB\", \"Yếu\", \"G\". Tại ô A3 ta lập hàm =HLOOKUP(8.5,$A$1:$D$2,2,1), kết quả nào sau đây là đúng?",
+        "options": [
+            "#N/A",
+            "K",
+            "TB",
+            "Yếu"
+        ],
+        "answer": "Yếu"
+    },
+    {
+        "question": "MS Excel: Trong Excel, các ô mang các giá trị như sau: A1=2, B1=5, C1=\"A\", D1 và E1 không chứa dữ liệu, F1=7; Tại ô A2 ta dùng hàm =COUNT(A1:F1), kết quả trả về là?",
+        "options": [
+            "6",
+            "3",
+            "1",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "MS Excel: Trong Excel, các ô mang các giá trị như sau: A1=2, B1=5, C1=\"A\", D1 và E1 không chứa dữ liệu, F1=7; Tại ô A2 ta dùng hàm =COUNTA(A1:F1), kết quả trả về là?",
+        "options": [
+            "6",
+            "3",
+            "1",
+            "4"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "MS Excel: Để xác định địa chỉ ô đầu tiên trong Worksheet, phát biểu nào sau đây là đúng?",
+        "options": [
+           "Có 2 cách: A1 hoặc R1C1",
+           "Chỉ có 1 vì: A1",
+           "Có 3 cách: A1, 1-1 hoặc R1C1",
+           "Tất cả đều sai"
+        ],
+        "answer": "Có 2 cách: A1 hoặc R1C1"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel như trong hình, để xác định số nhân viên có GT= Nam, thì xử lý theo phương án nào là sai?",
+        "options": [
+            "=COUNTIF(B1:B6,\"Nam\")",
+            "=DCOUNT(A1:E6,B1,B1:B2)",
+            "=DCOUNT(A1:B6,B1,B1:B2)",
+            "=DCOUNT(A1:E6,D1,B1:B2)"
+        ],
+
+        "answer": "=DCOUNT(A1:E6,B1,B1:B2)"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel như trong hình, các cột NS, HSL, PC là dữ liệu kiểu số. Để xác định số nhân viên có GT=\"Nam\" đồng thời có năm sinh là: NS=1979 hoặc NS=1980 thì xử lý theo phương án nào là đúng?",
+        "options": [
+            "=DCOUNT(B1:B6,B1,B1:C3)",
+            "=DCOUNT(B1:B6,B1,C1:C3)",
+            "=DCOUNT(A1:B6,B1,B1:C3)",
+            "=DCOUNT(B1:B6,D1,B1:C3)"
+        ],
+        "image": "133.png",
+        "answer": "=DCOUNT(B1:B6,D1,B1:C3)"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel như trong hình, các cột NS, HSL, PC là dữ liệu kiểu số. Để tính tổng phụ cấp (PC) của những nhân viên có GT=\"Nam\" đồng thời có năm sinh là: NS=1979 hoặc NS=1980 thì xử lý theo phương án nào là đúng?",
+        "options": [
+            "=DSUM(B1:B6,B1,B1:C3)",
+            "=DSUM(B1:B6,E1,C1:C3)",
+            "=DSUM(B1:B6,\"PC\",B1:C3)",
+            "=DSUM(B1:B6,C1,B1:C3)"
+        ],
+        "image": "134.png",
+        "answer": "=DSUM(B1:B6,\"PC\",B1:C3)"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel như trong hình, các cột NS, HSL, PC là dữ liệu kiểu số. Để tính tổng phụ cấp (PC) của những nhân viên có GT=\"Nam\" đồng thời có năm sinh là: NS=1979 hoặc NS=1980 thì xử lý theo phương án nào là đúng?",
+        "options": [
+            "=DSUM(B1:B6,B1,B1:C3)",
+            "=DSUM(B1:B6,E1,C1:C3)",
+            "=DSUM(B1:B6,E1,B1:C3)",
+            "=DSUM(B1:B6,C1,B1:C3)"
+        ],
+         "image": "135.png",
+        "answer": "=DSUM(B1:B6,E1,B1:C3)"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel như trong hình, các cột NS, HSL, PC là dữ liệu kiểu số. Để sắp xếp cơ sở dữ liệu tăng dần theo Hệ số lương (HSL), sau khi chọn toàn bộ cơ sở dữ liệu -> Data -> Sort, tại Column ta chọn HSL, tại Order ta chọn phương án nào sau đây?",
+        "options": [
+            "A To Z",
+            "Z To A",
+            "Smallest To Largest",
+            "Largest To Smallest"
+        ],
+         "image": "136.png",
+        "answer": "Smallest To Largest"
+    },
+     {
+        "question": "MS Excel: Trong Excel, để lọc ra những dòng dữ liệu thỏa mãn một số điều kiện và trích xuất ra ở vị trí khác trên bảng tính, ta thực hiện theo nhóm thao tác nào sau đây?",
+        "options": [
+            "DATA/ADVANCED",
+            ". DATA/FILTER",
+            "DATA/SORT",
+            "Tất cả đều sai"
+        ],
+         "image": "137.png",
+        "answer": "DATA/ADVANCED"
+    },
+     {
+    "question": "Trong bảng tính Excel như trong hình, tại ô F2, ta thiết lập Hàm để xếp hạng dựa trên HSL theo cách nhân viên có HSL cao nhất sẽ xếp vị thứ 1, sau đó sao chép hàm xuống các ô F3, F4, F5, F6 để xếp hạng cho những nhân viên còn lại. Cú pháp nào sau đây là đúng?",
+    "options": [
+      "=RANK(D2,$D$2:$D$6,0)",
+      "=RANK(D2,$D$2:$D$6,1)",
+      "=RANK(D2,D2:D6,1)",
+      "=RANK($D$2:$D$6,D2,0)"
+    ],
+    "image": "138.png",
+    "answer": "=RANK(D2,$D$2:$D$6,0)"
+  },
+  {
+    "question": "MS Excel: Trong bảng tính Excel như trong hình, tại ô F2, ta thiết lập Hàm để xếp hạng dựa trên HSL như sau: =RANK(D2,$D$2:$D$6,0), sau đó sao chép hàm xuống các ô F3, F4, F5, F6 để xếp hạng cho những nhân viên còn lại. Cho biết NV03 xếp hạng mấy?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "Tất cả đều sai"
+    ],
+    "image": "139.png",
+    "answer": "4"
+  },
+  {
+    "question": "MS Excel: Trong bảng tính Excel như trong hình, tại ô F2, ta thiết lập Hàm để xếp hạng dựa trên HSL như sau: =RANK(D2,$D$2:$D$6,0), sau đó sao chép hàm xuống các ô F3, F4, F5, F6 để xếp hạng cho những nhân viên còn lại. Cho biết nhân viên nào xếp hạng cao nhất?",
+    "options": [
+      "NV01 và NV05",
+      "NV03",
+      "NV04",
+      "Tất cả đều sai"
+    ],
+    "image": "140.png",
+    "answer": "Tất cả đều sai"
+  },
+    {
+        "question": "MS Excel: Trong bảng tính Excel như trong hình, dùng hàm để xác định học bổng của một sinh viên trình độ (TD) đại học (DH) và xếp loại học tập (XL) loại Giỏi (G), cú pháp nào sau đây là đúng?",
+        "options": [
+            "=INDEX($B$3:$D$4,MATCH(\"DH\",$A$3:$A$4,0),MATCH(\"G\",$B$2:$D$2,0))",
+            "=INDEX($B$3:$D$4,MATCH(\"DH\",$A$2:$A$4,0),MATCH(\"G\",$A$2:$D$2,0))",
+            "=INDEX($B$3:$D$4,MATCH(\"G\",$B$2:$D$2,0),MATCH(\"DH\",$A$3:$A$4,0))",
+            "=INDEX($A$2:$D$4,MATCH(\"DH\",$A$3:$A$4,0),MATCH(\"G\",$B$2:$D$2,0))"
+        ],
+         "image": "140.png",
+        "answer": "=INDEX($B$3:$D$4,MATCH(\"DH\",$A$3:$A$4,0),MATCH(\"G\",$B$2:$D$2,0))"
+    },
+    {
+    "question": "MS Excel: Trong bảng tính Excel như trong hình, dùng hàm với cú pháp phù hợp để tra cứu giao điểm giữa hàng 'ĐH' và cột 'G'. Công thức nào sau đây là đúng?",
+    "options": [
+        "=INDEX($B$3:$D$4,MATCH(\"ĐH\",$A$3:$A$4,0),MATCH(\"G\",$B$2:$D$2,0))",
+        "=INDEX($B$3:$D$4,MATCH(\"ĐH\",$A$2:$A$4,0),MATCH(\"G\",$A$2:$D$2,0))",
+        "=INDEX($B$3:$D$4,MATCH(\"G\",$B$2:$D$2,0),MATCH(\"ĐH\",$A$3:$A$4,0))",
+        "=INDEX($A$2:$D$4,MATCH(\"ĐH\",$A$3:$A$4,0),MATCH(\"G\",$B$2:$D$2,0))"
+    ],
+    "image": "142.png",
+    "answer": "=INDEX($B$3:$D$4,MATCH(\"ĐH\",$A$3:$A$4,0),MATCH(\"G\",$B$2:$D$2,0))"
+    },
+    {
+        "question": "MS Excel: Trong bảng tính Excel như trong hình, dùng hàm với cú pháp: =INDEX($B$3:$D$4,MATCH(A4,$A$3:$A$4,0),MATCH(B2,$B$2:$D$2,0)), kết quả ở phương án nào đúng?",
+        "options": [
+            "3500000",
+            "2000000",
+            "3000000",
+            "2500000"
+        ],
+         "image": "142.png",
+        "answer": "2500000"
+    },
+    {
+        "question": "MS Excel: số 5 sẽ nằm bên nào của ô",
+        "options": [
+            "Phải",
+            "Trái",
+            "Giữa",
+            "Tất cả đều đúng"
+        ],
+        "image": "142.png",
+        "answer": "Phải"
+    },
+    {
+        "question": "MS Excel: số 5.5 sẽ nằm bên nào của ô",
+        "options": [
+            "Phải",
+            "Trái",
+            "Giữa",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Phải"
+    },
+    {
+        "question": "MS Excel: chữ \"hello\" sẽ nằm bên nào của ô",
+        "options": [
+            "Trái",
+            "Phải",
+            "Giữa",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Trái"
+    },
+    {
+        "question": "MS Excel: chữ \"2017 hello\" sẽ nằm bên nào của ô",
+        "options": [
+            "Trái",
+            "Phải",
+            "Giữa",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Trái"
+    },
+    {
+        "question": "MS Excel: kết quả của công thức ô A1=2+3 sẽ nằm bên nào của ô",
+        "options": [
+            "Phải",
+            "Trái",
+            "Giữa",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Phải"
+    },
+    {
+        "question": "MS Excel: kết quả của công thức ô A1=2>3 sẽ nằm bên nào của ô",
+        "options": [
+            "Giữa",
+            "Phải",
+            "Trái",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Giữa"
+    },
+    {
+        "question": "MS Excel: kết quả của công thức ô A1=left(\"DTITC\") sẽ ra lỗi",
+        "options": [
+            "Trái",
+            "Phải",
+            "Giữa",
+            "#NAME?"
+        ],
+        "answer": "#N/A"
+    },
+    {
+        "question": "MS Excel: kết quả của công thức ô A1=left(\"DTITC\",2) sẽ nằm bên nào của ô",
+        "options": [
+            "Trái",
+            "Phải",
+            "Giữa",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Trái"
+    },
+    {
+        "question": "MS Excel: kết quả của công thức ô A1=sum(2,3,4) sẽ nằm bên nào của ô",
+        "options": [
+            "Phải",
+            "Trái",
+            "Giữa",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Phải"
+    },
+    {
+        "question": "MS Excel: kết quả của công thức ô A1=sum(2,3,4) sẽ nằm bên nào của ô",
+        "options": [
+            "Giữa",
+            "Phải",
+            "Trái",
+            "Tất cả đều đúng"
+        ],
+        "answer": "Phải"
+    },
+    {
+        "question": "MS Excel: kết quả của công thức ô A1=SUM(B1:D1) xuống ô A2, công thức ô A2 sẽ là",
+        "options": [
+            "B2:D2",
+            "B1:D1",
+            "C1:E1",
+            "Tất cả đều đúng"
+        ],
+        "answer": "B2:D2"
+    },
+      {
+    "question": "MS Excel: sao chép công thức ô A1=sum($B1:$D1) xuống ô A2, công thức ô A2 sẽ là",
+    "options": ["$B2:D2", "$B1:D1", "$C1:E1", "Tất cả đều đúng"],
+    "answer": "$B2:D2"
+  },
+  {
+    "question": "MS Excel: sao chép công thức ô A1=sum(B$1:D$1) xuống ô A2, công thức ô A2 sẽ là",
+    "options": ["B$1:D$1", "B$2:D$2", "$C$1:$E$1", "Tất cả đều đúng"],
+    "answer": "B$1:D$1"
+  },
+  {
+    "question": "MS Excel: sao chép công thức ô A1=sum($B$1:$D$1) xuống ô A2, công thức ô A2 sẽ là",
+    "options": ["$B$1:$D$1", "$B$2:$D$2", "$C$1:$E$1", "Tất cả đều đúng"],
+    "answer": "$B$1:$D$1"
+  },
+  {
+    "question": "MS Excel: công thức ô A1=leeft(\"hello\"), công thức này trả về lỗi gì",
+    "options": ["# NAME?", "# REF?", "# VALUE", "Tất cả đều đúng"],
+    "answer": "# NAME?"
+  },
+  {
+    "question": "MS Excel: công thức ô A1=left(\"hello\",right(\"abc\")), công thức này trả về lỗi gì",
+    "options": ["# VALUE", "# REF?", "# NAME?", "Tất cả đều đúng"],
+    "answer": "# VALUE"
+  },
+  {
+    "question": "MS Excel: công thức ô A1=if(2>3,1,2,3), công thức này có lỗi gì",
+    "options": ["Dư đối số", "Thiếu đố số", "Sai kiểu đối số", "Tất cả đều đúng"],
+    "answer": "Dư đối số"
+  },
+  {
+    "question": "MS Excel: công thức ô A1=if(left(\"hello\"),1,2), công thức này có lỗi gì",
+    "options": ["Sai kiểu đối số", "Thiếu đố số", "Dư đối số", "Tất cả đều đúng"],
+    "answer": "Sai kiểu đối số"
+  },
+  {
+    "question": "MS Excel: công thức ô A1=if(2>3,1,if(3>4,2)), công thức này có lỗi gì",
+    "options": ["Thiếu đố số", "Dư đối số", "Sai kiểu đối số", "Tất cả đều đúng"],
+    "answer": "Thiếu đố số"
+  },
+  {
+    "question": "MS Excel: công thức ô A1=vookup(sum(A1:A2),C1:D10,2,0), công thức này có lỗi gì",
+    "options": ["Sai tên hàm", "Dư đối số", "Sai kiểu đối số", "Tất cả đều đúng"],
+    "answer": "Sai tên hàm"
+  },
+  {
+    "question": "MS Excel: Chỉ có địa chỉ cột được thay đổi, còn địa chỉ dòng cố định khi ô chưa được sao chép công thức thì gọi là địa chỉ?",
+    "options": ["Địa chỉ tương đối.", "Địa chỉ tuyệt đối.", "Địa chi tương đối dòng tuyệt đối cột.", "Địa chi tuyệt đối dòng tương đối cột."],
+    "answer": "Địa chỉ tương đối."
+  },
+  {
+    "question": "MS Excel: Lệnh If. =IF(<Điều kiện>,<Kết quả 1>,<Kết quả 2>). được phát biểu như sau?",
+    "options": [
+      "Nếu <Điều kiện> đúng, thì cho <Kết quả 1, sai thì cho <kết quả 2>.",
+      "Nếu <Điều kiện> sai, thì cho <Kết quả 1, đúng thì cho <kết quả 2>.",
+      "Nếu <Điều kiện> đúng, thì cho <Kết quả 2, sai thì cho <kết quả 1>.",
+      "Nếu <Điều kiện> sai, thì cho <Kết quả 1, đúng thì cho <kết quả 2>."
+    ],
+    "answer": "Nếu <Điều kiện> đúng, thì cho <Kết quả 1, sai thì cho <kết quả 2>."
+  },
+    {
+    "question": "MS Excel: Ghi “Giỏi” cho những SV có ĐTB >=9, ghi “Khá” cho những SV có ĐTB từ 7 đến cận 9, ghi “TB khá” cho những SV có ĐTB từ 6 đến cận 7, ghi “TB” cho những SV từ 5 đến cận 6 còn lại ghi “Yếu”. Tại N3 gõ công thức sau:",
+    "options": [
+      "=IF(M3>=9,”Giỏi”,IF(M3>=7,”Khá”,IF(M3>=6,”TB khá”,IF(M3>=5,”TB”,Yếu”))))",
+      "=IF(M3<5,”Yếu”,IF(M3<6,”TB”,IF(M3<7,”TB khá”,IF(M3<9,”Khá”,Giỏi”))))",
+      "=IF(M3>=9,”Giỏi”,IF(and(M3>=7,M3<9),”Khá”,IF(and(M3>=6,M3<7),”TB khá”,IF(and(M3>=5,M3<6),”TB”,Yếu”))))",
+      "Tất cả đều đúng"
+    ],
+    "answer": "=IF(M3>=9,”Giỏi”,IF(M3>=7,”Khá”,IF(M3>=6,”TB khá”,IF(M3>=5,”TB”,Yếu”))))"
+  },
+  {
+    "question": "MS Excel: Những người có chức vụ là “GD”, “PGD” thì được tăng 20% lương, tại địa chỉ I3 gõ công thức (Cùng bảng của câu 30)?",
+    "options": [
+      "=IF (OR(D3=“GD”,D3=“PGD”), (E3*F3)*20%, E3*F3)",
+      "=IF (AND(D3=“GD”,D3=“PGD”), (E3*F3)*20%, E3*F3)",
+      "=IF (AND(D3=“GD”,D3=“PGD”), ((E3*F3)*20%)+E3, E3*F3)",
+      "=IF (OR(D3=“GD”,D3=“PGD”), (E3*F3)*120%, E3*F3)"
+    ],
+    "answer": "=IF (OR(D3=“GD”,D3=“PGD”), (E3*F3)*120%, E3*F3)"
+  },
+  {
+    "question": "MS Excel: Tăng 10% lương cho những người có chức vụ là “NV” có số ngày công lơn hơn 30. Tại địa chỉ I3 gõ công thức?",
+    "options": [
+      "=IF(AND(D3=“NV”,F3>=30), ((E3*F3)*10%)+E3, E3*F3)",
+      "=IF(AND(D3=“NV”,F3>=30), ((E3*F3)*10%)+E3, $E$3*$F$3)",
+      "=IF(AND(D3=“NV”,F3>30), (E3*F3)*110%, E3*F3)",
+      "=IF(AND(D3=“NV”,F3>30), ((E3*F3)*10%)+E3, E3*F3)"
+    ],
+    "answer": "=IF(AND(D3=“NV”,F3>30), (E3*F3)*110%, E3*F3)"
+  },
+  {
+    "question": "MS Excel: Cho: A19=1, A20=1, A21=3, B19=4, B20=5, B21=6, C19=7, C20=8, C21=9. Tại địa chỉ A23 gõ công thức: =OR(A19<A21,B19>B21) Sẽ cho kết quả là?",
+    "options": [
+      "0",
+      "1",
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE"
+  },
+  {
+    "question": "MS Excel: Cho: A19=1, A20=1, A21=3, B19=4, B20=5, B21=6, C19=7, C20=8, C21=9. Tại địa chỉ A23 gõ công thức: =AND(A19<A21,B19<B21) Sẽ cho kết quả là?",
+    "options": [
+      "0",
+      "1",
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE"
+  },
+  {
+    "question": "MS Excel: Cho: A19=1, A20=1, A21=3, B19=4, B20=5, B21=6, C19=7, C20=8, C21=9. Tại địa chỉ A23 gõ công thức: =AND(OR(A19>A21,B19<B21)) Sẽ cho kết quả là?",
+    "options": [
+      "0",
+      "1",
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": "TRUE"
+  },
+  {
+    "question": "MS Excel: Để chuyển chữ “HANOI” thành “hanoi” ta sử dụng hàm nào dưới đây?",
+    "options": [
+      "=Upper(“(“HANOI”)",
+      "=Lower(“HANOI”)",
+      "=Trim(“HANOI”)",
+      "=Len(“HANOI”)"
+    ],
+    "answer": "=Lower(“HANOI”)"
+  },
+  {
+    "question": "MS Excel: Để xoá bỏ các dấu cách thừa ở hai đầu của một chuỗi văn bản ta sử dụng hàm nào?",
+    "options": [
+      "Trim",
+      "LTrim",
+      "RTrim",
+      "Len"
+    ],
+    "answer": "Trim"
+  },
+  {
+    "question": "MS Excel: Giả sử tại ô D2 có công thức = B2*C2/100. Nếu sao chép công thức này đến ô G6 sẽ có công thức là:",
+    "options": [
+      "=E2*C2/100",
+      "=E6*F6/100",
+      "=B2*C2/100",
+      "=B6*C6/100"
+    ],
+    "answer": "=E6*F6/100"
+  },
+  {
+    "question": "MS Excel: Tại ô B3 có công thức =D2+SUMIF($C$2:$C$6, A5, $E$2:$E$6)-C$3 khi sao chép công thức này đến ô D5 thì có công thức như thế nào?",
+    "options": [
+      "=F4+SUMIF($C$2:$C$6, E7, $E$2:$E$6)-E$3",
+      "=F5+SUMIF($C$2:$C$6, C7, $E$2:$E$6)-E$3",
+      "=F4+SUMIF($C$2:$C$6, C7, $E$2:$E$6)-E$3",
+      "=F4+SUMIF($C$2:$C$6, C7, $E$2:$E$6)-D$5"
+    ],
+    "answer": "=F4+SUMIF($C$2:$C$6, C7, $E$2:$E$6)-E$3"
+  },
+  {
+    "question": "MS Excel: Kết quả của biểu thức =ROUND(1200200,-3) sẽ là",
+    "options": [
+      "1201000",
+      "#VALUE",
+      "1200000",
+      "#NAME"
+    ],
+    "answer": "1200000"
+  },
+  {
+    "question": "MS Excel: Cho trước cột “Điểm trung bình” có địa chỉ E1:E10. Để đểm số học sinh có điểm trung bình từ 7 trở lên thì sử dụng công thức nào sau đây:",
+    "options": [
+      "=COUNT(E1:E10)",
+      "=COUNTIF(E1:E10,>=7)",
+      "=COUNTA(E1:E10,9)",
+      "=COUNTIF(E1:E10,”>=7”)"
+    ],
+    "answer": "=COUNTIF(E1:E10,”>=7”)"
+  },
+  {
+    "question": "MS Excel: Giả sử tại ô A2 chứa chuỗi ký tự “Microsoft Excel”. Hãy cho biết công thức để trích chuỗi ký tự “soft” từ ô A2?",
+    "options": [
+      "MID(A2,6,4)",
+      "LEFT(A2,9)",
+      "RIGHT(A2,10)",
+      "Cả đáp án b và c đều đúng"
+    ],
+    "answer": "MID(A2,6,4)"
+  },
+  {
+    "question": "MS Excel: Tại ô A1 chứa giá trị là 12, B2 chứa giá trị 28. Tại ô C2 có công thức AVERAGE(A1:B2) thì kết quả tại ô C2 là:",
+    "options": [
+      "30",
+      "20",
+      "40",
+      "50"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "MS Excel: Với ĐTB cuối năm là 6.5, Lê Hoàng Vy sẽ đạt xếp loại gì khi biết công thức xếp loại học tập IF(ĐTB<5, “Yếu”, IF(ĐTB<6.5, “TB”, IF(ĐTB<8, “Khá”, “Giỏi”)))?",
+    "options": [
+      "Giỏi",
+      "Yếu",
+      "Trung Bình",
+      "Khá"
+    ],
+    "answer": "Trung Bình"
+  },
+  {
+    "question": "MS Excel: Để tính tổng các số ghi trên cùng một dòng không liên tục gồm ô A3, C3 và khối E3:G3 thì sử dụng công thức nào sau đây:",
+    "options": [
+      "=SUM(A3,C3,E3:G3)",
+      "=A3+C3+E3..G3",
+      "=SUM(A3:G3)",
+      "=SUM(E3..G3)"
+    ],
+    "answer": "=SUM(A3,C3,E3:G3)"
+  }
+
+    ]
+}
