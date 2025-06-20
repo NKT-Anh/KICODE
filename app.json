@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "KICODE GIANGVIEN",
+    "slug": "tin_hoc_admin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoKicode.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logoKicode.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoKicode.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.thaianh2003.tin_hoc_admin"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "af0cfceb-e187-4ce1-ac3b-80c8bbe443e9"
+      }
+    }
+  }
+}
