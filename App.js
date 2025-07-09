@@ -90,7 +90,7 @@ const AdminScreen = () => {
   return (
     <SafeAreaView style={{ flex: 1 }}>
     <View style={styles.container}>
-      <Text style={styles.header}>Quản lý Key Offline</Text>
+      <Text style={styles.header}>Cấp key kicode</Text>
 
       <TextInput
         placeholder="Nhập mã máy"
