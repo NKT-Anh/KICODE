@@ -596,9 +596,9 @@
             "Nhấp đúp trỏ chuột lên biểu tượng lối tắt của Excel",
             "Nhấp chọn Start, Program, Microsoft Office, Excel",
             "Từ màn hình Dos, gõ Excel",
-            "Câu a, b đúng"
+            "Câu Nhấp đúp trỏ chuột lên biểu tượng lối tắt của Excel, Nhấp chọn Start, Program, Microsoft Office, Excel đúng"
         ],
-        "answer": "Câu a, b đúng"
+        "answer": "Câu Nhấp đúp trỏ chuột lên biểu tượng lối tắt của Excel, Nhấp chọn Start, Program, Microsoft Office, Excel đúng"
     },
     {
         "question": "MS Excel: Để thoát khỏi Excel ta chọn",
@@ -636,9 +636,9 @@
             "Chọn File, Open",
             "Tổ hợp phím Ctrl + N",
             "Tổ hợp phím Ctrl + O",
-            "Hai câu a và c đúng"
+            "Chọn File, Open và tỏ hợp phím Ctrl + O"
         ],
-        "answer": "Hai câu a và c đúng"
+        "answer":  "Chọn File, Open và tỏ hợp phím Ctrl + O"
     },
     {
         "question": "MS Excel: Trong Excel để lưu một tập tin vào đĩa ta dùng",
@@ -666,9 +666,9 @@
             "Tổ hợp phím Alt + F + C",
             "Chọn menu File, Close",
             "Tổ hợp phím Ctrl + W",
-            "Hai câu a và b đúng"
+            "Cả 2 đều đúng"
         ],
-        "answer": "Hai câu a và b đúng"
+        "answer": "Cả 2 đều đúng"
     },
     {
         "question": "MS Excel: Theo mặc định ký tự dạng chuỗi được",
@@ -725,10 +725,10 @@
         "options": [
             "Nhấn tổ hợp phím Ctrl + A",
             "Di chuyển con trỏ chuột vào ô giao nhau của thanh tiêu đề dọc và thanh tiêu đề ngang rồi nhấp trái chuột",
-            "Câu a đúng, b sai",
-            "Câu a và b đúng"
+            "Cả 2 đều sai",
+            "Cả 2 đều đúng"
         ],
-        "answer": "Câu a và b đúng"
+        "answer": "Cả 2 đều đúng"
     },
     {
         "question": "MS Excel: Trong Excel, để chèn hàng vào một bảng tính ta di chuyển đến ô hiện hành đến vị trí hàng cần thêm rồi",
@@ -1739,7 +1739,7 @@
       "MID(A2,6,4)",
       "LEFT(A2,9)",
       "RIGHT(A2,10)",
-      "Cả đáp án b và c đều đúng"
+      "Cả đáp án LEFT(A2,9) và RIGHT(A2,10) đều đúng"
     ],
     "answer": "MID(A2,6,4)"
   },

@@ -1150,11 +1150,11 @@
       "question": "Trong Word, để hiển thị dấu phân đoạn (section) trong văn bản?",
       "options": [
         "Home, chọn Show/Hide",
-        "Tổ hợp phím Ctrl+*",
+        "Home, chọn Show/Hide",
         "Tổ hợp phím Ctrl+Enter",
-        "Câu A và B đúng"
+        "Câu Home, chọn Show/Hide và Home, chọn Show/Hide đúng"
       ],
-      "answer": "Câu A và B đúng"
+      "answer": "Câu Home, chọn Show/Hide và Home, chọn Show/Hide đúng"
     },
     {
       "question": "Trong Word, muốn tạo chú thích ở cuối văn bản (endnote)?",
@@ -1672,9 +1672,9 @@
         "Reset Picture & Size từ Picture Tools",
         "Reset Picture từ Picture Tools",
         "Chuột phải vào ảnh, Size and Position, thẻ Size, chọn Reset",
-        "Câu A và C đúng"
+        "Câu Reset Picture & Size từ Picture Tools và Chuột phải vào ảnh, Size and Position, thẻ Size, chọn Reset đúng"
       ],
-      "answer": "Câu A và C đúng"
+      "answer": "Câu Reset Picture & Size từ Picture Tools và Chuột phải vào ảnh, Size and Position, thẻ Size, chọn Reset đúng"
     },
     {
       "question": "Trong Word, để thay đổi màu sắc của một sơ đồ tổ chức, bạn sử dụng nhóm nào?",

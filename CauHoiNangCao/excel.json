@@ -752,9 +752,9 @@
         "Chọn các cột cần làm ẩn, vào Home > Format > chọn Hide & Unhide",
         "Chọn các cột cần làm ẩn, vào View > Hide",
         "Chuột phải vào biên cột > chọn Hide",
-        "Câu A và C đúng"
+        "Chọn các cột cần làm ẩn, vào Home > Format > chọn Hide & Unhide và Chuột phải vào biên cột > chọn Hide"
       ],
-      "answer": "Câu A và C đúng"
+      "answer": "Chọn các cột cần làm ẩn, vào Home > Format > chọn Hide & Unhide và Chuột phải vào biên cột > chọn Hide"
     },
     {
       "question": "Để ẩn cột đã chọn dùng tổ hợp phím?",
@@ -922,9 +922,9 @@
         "File > Info > Protect Workbook > Protect Workbook Structure",
         "File > Info > Protect Workbook > Protect Current Sheet",
         "Review > nhóm Changes > Protect Workbook",
-        "Câu A và C đúng"
+        "Câu File > Info > Protect Workbook > Protect Workbook Structure và Review > nhóm Changes > Protect Workbook đúng"
       ],
-      "answer": "Câu A và C đúng"
+      "answer": "Câu File > Info > Protect Workbook > Protect Workbook Structure và Review > nhóm Changes > Protect Workbook đúng"
     },
     {
       "question": "Trong Excel, muốn bảo vệ cấu trúc bảng tính không cần đổi tên, di chuyển, chèn, xóa, hiện Sheet, không, có thay đổi kích thước, và vị trí bảng tính mỗi khi được mở",

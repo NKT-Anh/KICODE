@@ -21,7 +21,7 @@ const BasicStudyScreen = () => {
       const excel = require('./CauHoiCanBan/Microsoft Excel.json');
       const powerpoint = require('./CauHoiCanBan/Microsoft Power Point.json');
       const word = require('./CauHoiCanBan/Microsoft_Word.json');
-      const windows = require('./CauHoiCanBan/windows_questions.json');
+      // const windows = require('./CauHoiCanBan/windows_questions.json');
 
       setQuestions({
         'Kiến thức chung': kienThucChung.questions || [],
@@ -29,7 +29,7 @@ const BasicStudyScreen = () => {
         'Microsoft Excel': excel.questions || [],
         'Microsoft PowerPoint': powerpoint.questions || [],
         'Microsoft Word': word.questions || [],
-        'Windows': windows.questions || []
+        // 'Windows': windows.questions || []
       });
     } catch (error) {
       console.error('Error loading questions:', error);

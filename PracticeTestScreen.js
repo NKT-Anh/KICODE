@@ -4,6 +4,7 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as FileSystem from 'expo-file-system';
 import SHA256 from 'crypto-js/sha256';
+import { SECRET_BASIC, SECRET_ADVANCED } from '@env';
 
 import { loadAndShuffleQuestions } from './src/utils/questionLoader';
 
@@ -11,8 +12,8 @@ import { styles } from './src/styles/practiceTestStyles';
 
 const { width, height } = Dimensions.get('window');
 
-const SECRET_BASIC = 'secret_basic';
-const SECRET_ADVANCED = 'secret_advanced';
+// const SECRET_BASIC = 'secret_basic';
+// const SECRET_ADVANCED = 'secret_advanced';
 
 const PracticeTestScreen = ({ navigation }) => {
   const [testQuestions, setTestQuestions] = useState([]);
@@ -22,11 +23,13 @@ const PracticeTestScreen = ({ navigation }) => {
   const [testType, setTestType] = useState(null);
   const [timeLeft, setTimeLeft] = useState(30 * 60);
   const [keyType, setKeyType] = useState(null);
+  const [resultPosition, setResultPosition] = useState(0);
   const timerRef = useRef(null);
   const scrollViewRef = useRef(null);
   const questionLayouts = useRef({});
   const [showQuestionIndexDrawer, setShowQuestionIndexDrawer] = useState(false);
   const [flaggedQuestions, setFlaggedQuestions] = useState({});
+  const resultRef = useRef(null);
 
   useEffect(() => {
     checkKeyType();
@@ -36,6 +39,8 @@ const PracticeTestScreen = ({ navigation }) => {
     try {
       const deviceId = await AsyncStorage.getItem('device_id');
       const activationKey = await AsyncStorage.getItem('activation_key');
+      console.log('deviceId:', deviceId);
+      console.log('activationKey:', activationKey);
       if (deviceId && activationKey) {
         const basicKey = SHA256(deviceId + SECRET_BASIC).toString();
         const advancedKey = SHA256(deviceId + SECRET_ADVANCED).toString();
@@ -44,7 +49,7 @@ const PracticeTestScreen = ({ navigation }) => {
         else setKeyType(null);
       }
     } catch (err) {
-      console.log("Lỗi khi kiểm tra loại key:", err);
+      setKeyType(null);
     }
   };
 
@@ -155,15 +160,20 @@ const PracticeTestScreen = ({ navigation }) => {
       .map((_, index) => selectedAnswers[index] === undefined ? index + 1 : null)
       .filter(Boolean);
 
+    const scrollToResult = () => {
+      setTimeout(() => {
+        if (scrollViewRef.current) {
+          scrollViewRef.current.scrollToEnd({ animated: true });
+        }
+      }, 300); // Đợi giao diện cập nhật xong mới cuộn
+    };
+
     if (unansweredQuestions.length > 0) {
       Alert.alert(
         "Xác nhận nộp bài",
         `Bạn còn ${unansweredQuestions.length} câu chưa làm (Câu ${unansweredQuestions.join(', ')}). Bạn có chắc chắn muốn nộp bài?`,
         [
-          {
-            text: "Hủy",
-            style: "cancel"
-          },
+          { text: "Hủy", style: "cancel" },
           {
             text: "Nộp bài",
             onPress: () => {
@@ -188,6 +198,7 @@ const PracticeTestScreen = ({ navigation }) => {
 
               setShowResults(true);
               clearInterval(timerRef.current);
+              scrollToResult(); // Thêm dòng này
             }
           }
         ]
@@ -214,6 +225,7 @@ const PracticeTestScreen = ({ navigation }) => {
 
       setShowResults(true);
       clearInterval(timerRef.current);
+      scrollToResult(); // Thêm dòng này
     }
   };
 
@@ -362,13 +374,33 @@ const PracticeTestScreen = ({ navigation }) => {
       ) : (
         <>
            <View style={styles.header}>
-               <Text style={styles.timerText}>Thời gian còn lại: {formatTime(timeLeft)}</Text>
-               {!showResults && (
-                   <TouchableOpacity onPress={() => setShowQuestionIndexDrawer(true)} style={styles.indexButton}>
-                       <Text style={styles.indexButtonText}>Câu hỏi</Text>
-                   </TouchableOpacity>
-               )}
-           </View>
+  <Text style={styles.timerText}>Thời gian còn lại: {formatTime(timeLeft)}</Text>
+  {showResults && (
+    <TouchableOpacity
+      onPress={() => {
+        if (scrollViewRef.current) {
+          scrollViewRef.current.scrollTo({ y: resultPosition, animated: true });
+        }
+      }}
+      style={[styles.indexButton, { marginLeft: 10, backgroundColor: '#007AFF' }]}
+    >
+      <Text style={[styles.indexButtonText, { color: 'white' }]}>▼ Kết quả</Text>
+    </TouchableOpacity>
+  )}
+  {!showResults && (
+    <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+      <TouchableOpacity onPress={() => setShowQuestionIndexDrawer(true)} style={styles.indexButton}>
+        <Text style={styles.indexButtonText}>Câu hỏi</Text>
+      </TouchableOpacity>
+      <TouchableOpacity
+        onPress={handleSubmitTest}
+        style={[styles.indexButton, { marginLeft: 10, backgroundColor: '#28a745' }]}
+      >
+        <Text style={[styles.indexButtonText, { color: 'white' }]}>Nộp bài</Text>
+      </TouchableOpacity>
+    </View>
+  )}
+</View>
           <ScrollView style={styles.scrollView} ref={scrollViewRef}>
             {loading ? (
               <Text style={styles.loadingText}>Đang tải câu hỏi...</Text>
@@ -391,7 +423,10 @@ const PracticeTestScreen = ({ navigation }) => {
             )}
 
             {showResults && testQuestions.length > 0 && (
-              <View style={styles.resultsContainer}>
+              <View
+    style={styles.resultsContainer}
+    onLayout={event => setResultPosition(event.nativeEvent.layout.y)}
+  >
                   <Text style={styles.resultsTitle}>Kết quả:</Text>
                   <Text style={styles.resultsText}>
                       Số câu đúng: {Object.keys(selectedAnswers).filter(index => {
@@ -407,15 +442,43 @@ const PracticeTestScreen = ({ navigation }) => {
                       Tổng số câu: {testQuestions.length}
                   </Text>
                   <Text style={styles.resultsText}>
-                      Điểm số: {((Object.keys(selectedAnswers).filter(index => {
-                        const question = testQuestions[index];
-                        const selectedOptionIndex = selectedAnswers[index];
-                         if (question && selectedOptionIndex !== undefined && question.options && question.options[selectedOptionIndex] !== undefined) {
-                            return question.options[selectedOptionIndex] === question.answer;
-                        }
-                        return false;
-                      }).length / testQuestions.length) * 10).toFixed(2)}
-                  </Text>
+  Điểm số: 
+  <Text style={{
+    color:
+      ((Object.keys(selectedAnswers).filter(index => {
+        const question = testQuestions[index];
+        const selectedOptionIndex = selectedAnswers[index];
+        if (
+          question &&
+          selectedOptionIndex !== undefined &&
+          question.options &&
+          question.options[selectedOptionIndex] !== undefined
+        ) {
+          return question.options[selectedOptionIndex] === question.answer;
+        }
+        return false;
+      }).length / testQuestions.length) * 10) >= 5
+        ? '#28a745'
+        : '#dc3545',
+    fontWeight: 'bold'
+  }}>
+    {(
+      (Object.keys(selectedAnswers).filter(index => {
+        const question = testQuestions[index];
+        const selectedOptionIndex = selectedAnswers[index];
+        if (
+          question &&
+          selectedOptionIndex !== undefined &&
+          question.options &&
+          question.options[selectedOptionIndex] !== undefined
+        ) {
+          return question.options[selectedOptionIndex] === question.answer;
+        }
+        return false;
+      }).length / testQuestions.length) * 10
+    ).toFixed(2)}
+  </Text>
+</Text>
 
                   {/* Question Status Table */}
                   <View style={styles.statusTableContainer}>
@@ -494,7 +557,7 @@ const PracticeTestScreen = ({ navigation }) => {
                         style={buttonStyle}
                         onPress={() => {
                             scrollToQuestion(index);
-                            setShowQuestionIndexDrawer(false);
+                            // KHÔNG đóng drawer, để người dùng chọn tiếp câu khác nếu muốn
                         }}
                         >
                         <Text style={styles.drawerQuestionButtonText}>{index + 1}</Text>

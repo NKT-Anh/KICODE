@@ -10,7 +10,7 @@ const StudyOptionsScreen = () => {
   const navigation = useNavigation();
   const [keyType, setKeyType] = useState(null);
 
-  useEffect(() => {
+    useEffect(() => {
     checkKeyType();
   }, []);
 
@@ -18,6 +18,8 @@ const StudyOptionsScreen = () => {
     try {
       const deviceId = await AsyncStorage.getItem('device_id');
       const activationKey = await AsyncStorage.getItem('activation_key');
+      console.log('deviceId:', deviceId);
+      console.log('activationKey:', activationKey);
       if (deviceId && activationKey) {
         const basicKey = SHA256(deviceId + SECRET_BASIC).toString();
         const advancedKey = SHA256(deviceId + SECRET_ADVANCED).toString();
@@ -26,7 +28,7 @@ const StudyOptionsScreen = () => {
         else setKeyType(null);
       }
     } catch (err) {
-      console.log("Lỗi khi kiểm tra loại key:", err);
+      setKeyType(null);
     }
   };
 

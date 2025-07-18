@@ -596,8 +596,8 @@
       "options": [
         "Alt-Shift-5 (5 trên bàn phím số)",
         "Alt-5 (5 trên phím số và tắt numlock)",
-        "a và b đều đúng",
-        "a và b đều sai"
+        "Cả 2 đều đúng",
+        "Cả 2 đều sai"
       ],
       "answer": "Alt-5 (5 trên phím số và tắt numlock)"
     },
@@ -1476,8 +1476,8 @@
       "options": [
         "Format/paragraph/line spacing",
         "Nhấn Ctrl + 5 tại dòng đó",
-        "Cả hai cách A và B đều thực hiện được",
-        "Cả 2 cách A và B đều không thực hiện được"
+        "Cả hai cách đều thực hiện được",
+        "Cả 2 cách  đều không thực hiện được"
       ],
       "answer": "Format/paragraph/line spacing"
     },

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import {
   View, Text, TextInput, StyleSheet, Alert, TouchableOpacity,
-  ActivityIndicator, ScrollView
+  ActivityIndicator, ScrollView, Image
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import uuid from 'react-native-uuid';
@@ -95,6 +95,25 @@ export default function ActivationScreen() {
     <ScrollView style={styles.container}>
       <View style={styles.content}>
         <Text style={styles.title}>🔐 Kích hoạt ứng dụng</Text>
+        <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'center', marginBottom: 18 }}>
+          <Image
+            source={require('./assets/zalo.png')}
+            style={{ width: 22, height: 22, marginRight: 6 }}
+            resizeMode="contain"
+          />
+          <TouchableOpacity
+            onPress={async () => {
+              await Clipboard.setStringAsync('0977797378');
+              Alert.alert('Đã sao chép', 'Đã sao chép số Zalo 0977797378!');
+            }}
+            activeOpacity={0.7}
+          >
+            <Text style={[styles.zaloHint, { textDecorationLine: 'underline', color: '#007AFF', marginBottom: 0 }]}>
+              0977797378
+            </Text>
+          </TouchableOpacity>
+          <Text style={[styles.zaloHint, { marginBottom: 0 }]}>: Hồ Ngọc Trung Kiên</Text>
+        </View>
 
         <View style={styles.section}>
           <Text style={styles.label}>Mã máy của bạn:</Text>
@@ -187,6 +206,13 @@ const styles = StyleSheet.create({
     marginBottom: 30,
     textAlign: 'center',
     color: '#333',
+  },
+  zaloHint: {
+    color: '#d9534f',
+    fontSize: 15,
+    marginBottom: 0,
+    textAlign: 'center',
+    fontWeight: 'bold',
   },
   section: {
     marginBottom: 25,

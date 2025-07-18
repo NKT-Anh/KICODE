@@ -76,6 +76,7 @@ const HomeScreen = () => {
             style={styles.button}
             onPress={() => navigation.navigate('StudyOptions')}
           >
+            <Icon name="book" size={20} color="#fff" style={{ marginRight: 8 }} />
             <Text style={styles.buttonText}>Ôn tập</Text>
           </TouchableOpacity>
 
@@ -83,6 +84,7 @@ const HomeScreen = () => {
             style={styles.button}
             onPress={() => navigation.navigate('PracticeTest')}
           >
+            <Icon name="pencil-square-o" size={20} color="#fff" style={{ marginRight: 8 }} />
             <Text style={styles.buttonText}>Thi thử</Text>
           </TouchableOpacity>
 
@@ -90,6 +92,7 @@ const HomeScreen = () => {
             style={[styles.button, styles.wrongQuestionsButton]}
             onPress={() => navigation.navigate('WrongQuestions')}
           >
+            <Icon name="exclamation-circle" size={20} color="#fff" style={{ marginRight: 8 }} />
             <Text style={styles.buttonText}>Câu hỏi cần lưu ý</Text>
           </TouchableOpacity>
         </View>
@@ -150,6 +153,8 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     width: '100%',
     alignItems: 'center',
+    flexDirection: 'row',
+    justifyContent: 'center',
   },
   wrongQuestionsButton: {
     backgroundColor: '#ff9800',
